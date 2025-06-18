@@ -91,28 +91,7 @@ with tab2:
     # Chargement des données
     df = load_data()
 
-    # Filtre pour sélectionner des rivières (max 5)
-    selected_rivieres = st.multiselect(
-        "Sélectionnez jusqu'à 5 rivières",
-        sorted(df['riviere'].unique()),
-        max_selections=5
-    )
-
-    # Filtre pour sélectionner des départements (max 2)
-    selected_departements = st.multiselect(
-        "Sélectionnez jusqu'à 2 départements",
-        sorted(df['departement'].unique()),
-        max_selections=2
-    )
-
-    # Filtrage des données en fonction des sélections
-    if selected_rivieres or selected_departements:
-        filtered_df = df[df['riviere'].isin(selected_rivieres) | df['departement'].isin(selected_departements)]
-    else:
-        filtered_df = df
-
-    # Affichage du tableau des stations filtrées
-    st.write(filtered_df)
+    st.write(df)
 
 #################################
 # --------- ONGLET 3 : COMPARAISON PAR STATION (BOXPLOT STYLE PX)
