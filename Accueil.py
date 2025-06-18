@@ -5,6 +5,42 @@ import base64
 logo_path = "static/goutte.png"
 st.set_page_config(page_title="Suivi Hydro", page_icon=logo_path, layout="wide")
 
+################################################ TOOLBAR
+hide_streamlit_style = """
+    <style>
+        /* Masquer l'en-tête et le menu de Streamlit */
+        header {visibility: hidden;}
+        /* Masquer une classe spécifique identifiée */
+        .st-emotion-cache-uf99v8 {display: none;}
+    </style>
+    """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+st.markdown("""
+    <style>
+        .fake-navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 60px;
+            background-color: #aad3df;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: flex-end; /* Aligner le texte à droite */
+            font-size: 24px;
+            font-weight: bold;
+            z-index: 9999;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding-right: 20px; /* Un peu d'espace à droite */
+        }
+    </style>
+""", unsafe_allow_html=True)
+
+# HTML de la fausse navbar
+st.markdown('<div class="fake-navbar">Observatoire de l\'eau</div>', unsafe_allow_html=True)
+
+
 ##############
 with st.sidebar:
     # Crée un espace vertical avec plusieurs st.write vides
