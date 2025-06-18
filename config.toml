@@ -1,0 +1,24 @@
+[theme]
+base = "light"
+primaryColor = "#e5d229"  
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#e9ecef" 
+textColor = "#2f355c" 
+codeBackgroundColor = "#F0F2F6"
+font = "Nunito, serif"
+codeFont = "Nunito, serif"
+headingFont = "Nunito, serif"
+
+[[theme.fontFaces]]
+family = "Nunito"
+url = "app/static/muli.woff2"
+weight = 400
+style = "normal"
+
+[server]
+fileWatcherType = "none"
+enableWebsocketCompression = true
+enableStaticServing = true
+
+[browser]
+gatherUsageStats = false
