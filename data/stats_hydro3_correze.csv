@@ -1,0 +1,34 @@
+code_station,long,lat,nb_val,riviere,commune,moyenne,ecart_type,mini,maxi,0.05,0.25,mediane,0.75,0.95,departement,station
+L001061001,2.007497176,45.702043362,24855.0,la Vienne,Peyrelevade,1.7,1.8,0.0,35.0,0.2,0.6,1.2,2.3,5.1,19 - Corrèze,la Vienne à Peyrelevade
+P018000101,2.499058088,45.413000848,26298.0,La Dordogne,Bort-Les-Orgues,22.6,23.3,0.3,335.0,2.8,7.1,15.5,29.6,66.0,19 - Corrèze,La Dordogne à Bort-Les-Orgues
+P071401001,2.26336731,45.584300721,22650.0,La Diège,Chaveroche,4.7,4.1,0.3,79.0,0.9,1.9,3.5,6.2,12.5,19 - Corrèze,La Diège à Chaveroche
+P092401001,2.239467646,45.491325759,22021.0,La Triouzoune,Saint-Angel,1.7,1.7,0.0,14.7,0.2,0.5,1.2,2.4,5.0,19 - Corrèze,La Triouzoune à Saint-Angel
+P115000101,2.130312496,45.381503012,22523.0,La Luzège,Lamaziere-Basse,6.5,7.1,0.0,105.0,0.6,1.8,4.3,8.5,19.9,19 - Corrèze,La Luzège à Lamaziere-Basse
+P122000101,2.011047093,45.151239486,17858.0,La Dordogne,Servieres-Le-Chateau,93.8,97.2,0.0,991.0,2.7,18.5,62.4,140.0,289.0,19 - Corrèze,La Dordogne à Servieres-Le-Chateau
+P135001001,1.942428219,45.092441483,24114.0,La Dordogne,Argentat-Sur-Dordogne,102.5,96.0,1.2,1150.0,11.0,31.3,71.5,146.0,288.0,19 - Corrèze,La Dordogne à Argentat-Sur-Dordogne
+P159251001,1.946271799,45.083437105,27188.0,La Maronne,Argentat-Sur-Dordogne,19.5,21.1,0.1,263.6,0.5,2.6,13.1,30.1,52.0,19 - Corrèze,La Maronne à Argentat-Sur-Dordogne
+P163001001,1.853184743,45.010011401,23344.0,La Dordogne,Brivezac,128.6,120.5,5.2,1165.7,17.2,39.2,87.0,182.5,363.9,19 - Corrèze,La Dordogne à Brivezac
+P165001001,1.843489027,44.977305079,13915.0,La Dordogne,Altillac,125.2,115.0,12.4,1131.8,19.6,41.1,85.1,174.9,352.7,19 - Corrèze,La Dordogne à Altillac
+P211401001,1.724691757,44.988361257,19028.0,La Sourdoire,Chapelle-Aux-Saints,0.9,1.8,0.0,27.1,0.0,0.1,0.3,0.9,3.7,19 - Corrèze,La Sourdoire à Chapelle-Aux-Saints
+P300101001,2.007571715,45.629522873,24114.0,La Vézère,Saint-Merd-Les-Oussines,1.4,1.5,0.1,29.3,0.2,0.5,0.9,1.8,4.3,19 - Corrèze,La Vézère à Saint-Merd-Les-Oussines
+P301541001,2.00198896,45.600268646,24299.0,rivière la petite vézère,Perols-Sur-Vezere,1.0,1.0,0.0,11.9,0.1,0.3,0.7,1.3,2.9,19 - Corrèze,rivière la petite vézère à Perols-Sur-Vezere
+P302000101,1.921839802,45.600910132,26477.0,La Vézère,Bugeat,4.3,4.8,0.0,90.2,0.4,1.3,2.8,5.4,13.4,19 - Corrèze,La Vézère à Bugeat
+P310101001,1.706982481,45.500639523,6062.0,La Vézère,Peyrissac,11.8,11.2,1.0,122.1,1.7,2.8,8.1,17.3,31.4,19 - Corrèze,La Vézère à Peyrissac
+P316401001,1.557250668,45.430449742,18458.0,Le Bradascou,Uzerche,2.8,2.7,0.2,37.1,0.6,1.1,1.9,3.5,7.9,19 - Corrèze,Le Bradascou à Uzerche
+P319431001,1.517187188,45.360525959,24500.0,Le Brézou,Vigeois,1.9,1.9,0.1,48.0,0.4,0.8,1.3,2.3,5.2,19 - Corrèze,Le Brézou à Vigeois
+P320101001,1.46379338,45.284875346,18601.0,La Vézère,Voutezac,24.5,21.3,0.0,208.0,3.4,10.1,18.0,33.3,66.4,19 - Corrèze,La Vézère à Voutezac
+P323401001,1.415143448,45.306117583,20915.0,La Loyre,Voutezac,1.7,2.0,0.0,26.2,0.3,0.6,1.1,2.0,5.2,19 - Corrèze,La Loyre à Voutezac
+P326431001,1.380651437,45.262006425,19445.0,Le Roseix,Vars-Sur-Roseix,0.7,1.4,0.0,25.1,0.0,0.1,0.2,0.8,3.1,19 - Corrèze,Le Roseix à Vars-Sur-Roseix
+P327401001,1.438011543,45.217900456,15805.0,La Loyre,Saint-Viance,3.3,5.2,0.1,95.8,0.4,0.7,1.6,3.6,12.2,19 - Corrèze,La Loyre à Saint-Viance
+P332251001,1.964731637,45.46850592,25721.0,La Corrèze,Saint-Yrieix-Le-Dejalat,2.0,2.4,0.0,39.0,0.1,0.5,1.2,2.5,6.6,19 - Corrèze,La Corrèze à Saint-Yrieix-Le-Dejalat
+P335252001,1.880202647,45.372317288,12077.0,La Corrèze,Correze,5.8,6.4,0.1,79.6,0.5,1.6,3.9,7.5,17.8,19 - Corrèze,La Corrèze à Correze
+P350251001,1.779345455,45.274922905,24816.0,La Corrèze,Tulle,9.8,10.9,0.2,288.0,1.0,2.9,6.3,13.0,30.4,19 - Corrèze,La Corrèze à Tulle
+P361401001,1.939009021,45.342379773,24906.0,La Montane,Eyrein,1.2,1.2,0.0,12.3,0.1,0.3,0.8,1.7,3.7,19 - Corrèze,La Montane à Eyrein
+P367401001,1.76553056,45.250807844,12885.0,La Saint-Bonnette,Laguenne,4.5,5.3,0.1,91.6,0.5,1.1,2.7,5.9,14.4,19 - Corrèze,La Saint-Bonnette à Laguenne
+P384010101,1.653886617,45.168892657,4122.0,La Roanne,Dampniat,1.8,2.3,0.1,25.4,0.2,0.4,1.1,2.2,5.9,19 - Corrèze,La Roanne à Dampniat
+P392252001,1.540579596,45.164118496,15387.0,La Corrèze,Brive-La-Gaillarde,20.4,21.6,0.4,293.4,3.0,6.3,13.6,26.3,61.6,19 - Corrèze,La Corrèze à Brive-La-Gaillarde
+P399401001,1.488835409,45.188465962,18141.0,rivière le maumont,Ussac,2.7,3.4,0.0,70.5,0.4,0.9,1.7,3.2,7.9,19 - Corrèze,rivière le maumont à Ussac
+P400101001,1.415784787,45.123331209,22238.0,La Vézère,Larche,49.5,50.3,0.5,1093.7,6.1,15.6,33.7,65.1,148.4,19 - Corrèze,La Vézère à Larche
+P401501001,1.468533762,45.094718476,19929.0,La Couze,Chasteaux,0.8,1.2,0.1,22.8,0.1,0.2,0.4,0.9,2.9,19 - Corrèze,La Couze à Chasteaux
+P620251001,1.475544496,45.51664889,14031.0,L'Auvézère,Benayes,0.3,0.4,0.0,4.4,0.0,0.1,0.2,0.4,1.0,19 - Corrèze,L'Auvézère à Benayes
+P622251001,1.360713328,45.441771844,10446.0,L'Auvézère,Lubersac,1.4,1.6,0.1,27.5,0.2,0.5,1.0,1.8,4.2,19 - Corrèze,L'Auvézère à Lubersac
