@@ -40,45 +40,27 @@ st.markdown("""
 # HTML de la fausse navbar
 st.markdown('<div class="fake-navbar">Observatoire de l\'eau</div>', unsafe_allow_html=True)
 
+###################################################### DONNEES TITRE STYLE CONTENEUR
 
-##############
-with st.sidebar:
-    # Crée un espace vertical avec plusieurs st.write vides
-    st.write("")
-    st.write("")
-    
-    # Charge l'image
-    with open(logo_path, "rb") as img_file:
-        img_base64 = base64.b64encode(img_file.read()).decode()
-    
-    # Centre l'image dans la sidebar avec CSS
-    st.markdown(
-        f"""
-        <style>
-        .sidebar-logo {{
-            display: flex;
-            justify-content: center;
-            margin-top: 20px;
-        }}
-        .sidebar-logo img {{
-            width: 70px;
-        }}
-        </style>
-        <div class="sidebar-logo">
-            <img src="data:image/png;base64,{img_base64}">
-        </div>
-        """,
-        unsafe_allow_html=True
-    )
+st.markdown("""
+    <h1 style='text-align: center; color: inherit; margin: 0; padding: 0; margin-top: -50px;'>
+        Accueil
+    </h1>
+""", unsafe_allow_html=True)
+
+
+st.markdown("""
+    <style>
+    .st-key-monconteneur {background-color: #e9ecef; padding: 20px; border-radius: 10px;}
+    </style>
+    """,
+    unsafe_allow_html=True)
     
 ######## AUTRES ####### page_icon=":material/water_drop:"
-st.write("")
-st.title("BIENVENUE")
-
-st.title("À propos")
 
 st.write("""
-Les données sont exprimées en débit afin de permettre des comparaisons entre stations. Toutefois, certaines stations ne disposent pas de relevés de débit et ne seront donc pas accessibles dans ce programme.
+L'observatoire de l'eau vous permettra d'analyser les débits des rivières françaises !
+Les données sont exprimées en m3/s afin de permettre des comparaisons entre stations. Toutefois, certaines stations ne disposent pas de relevés de débit et ne seront donc pas accessibles dans ce programme.
 L'historique des débits est limité à 30 ans afin d'optimiser le chargement des données. Certaines stations peuvent ne pas disposer d’un historique aussi étendu.
 
 **Outils utilisés :**
