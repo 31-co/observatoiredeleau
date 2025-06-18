@@ -3,7 +3,7 @@ import os
 import base64
 
 logo_path = "static/goutte.png"
-st.set_page_config(page_title="Suivi Hydro", page_icon=logo_path, layout="wide")
+st.set_page_config(page_title="Observatoire de l'eau", page_icon=logo_path, layout="wide")
 
 ################################################ TOOLBAR
 hide_streamlit_style = """
