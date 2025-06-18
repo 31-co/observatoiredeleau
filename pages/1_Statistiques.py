@@ -85,7 +85,7 @@ with tab2:
     # Fonction pour charger les données avec le cache Streamlit
     @st.cache_data
     def load_data():
-        data_path = os.path.join("data", "stats_hydro3.csv")
+        data_path = os.path.join("data", "stats_hydro3_correze.csv")
         return pd.read_csv(data_path, sep=None, engine='python')
 
     # Chargement des données
