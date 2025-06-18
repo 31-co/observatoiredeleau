@@ -62,6 +62,7 @@ with st.container(key="monconteneur"):
 *Certaines stations ne disposent pas d'une plage de données aussi étendue.*  
 En un clic, retrouvez les statistiques (mini, max, moyenne, médiane) des stations de débits françaises ! 
 3 onglets possibles : la carte, le tableau de données et comparaisons sous forme de diagramme en boîte.
+Pour des raisons d'hébergement, seules les stations du département de la Corrèze sont présentes dans le tableau de données et dans les comparaisons. 
 '''
     st.markdown(multi)
 
