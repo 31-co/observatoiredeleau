@@ -1,0 +1,3565 @@
+code_station,libelle_station
+U343432001,Le Solnan à Verjon [Village]
+U343434001,Le Solnan à Domsure
+U344502001,Le Sevron à Bény
+U400000101,La Reyssouze [Source] à Journans
+U401401001,La Reyssouze à Montagnat
+U401402001,La Reyssouze à Bourg-en-Bresse [Majornas]
+U401402101,La Reyssouze à Bourg-en-Bresse [Baudières]
+U402000101,Le Jugnon à Viriat [Bretonière]
+U403000201,La Reyssouze à Montrevel-en-Bresse [TEST INTEGRATION AQUASYS]
+U403000301,La Reyssouze à Cras-sur-Reyssouze [Digue des Puthods]
+U405401001,La Reyssouze à Saint-Julien-sur-Reyssouze
+U405401102,La Reyssouze à Pont-de-Vaux [Barrage des aiguilles] - Aval
+U420401001,La Veyle à Lent
+U421601001,Le Vieux Jonc à Buellas [Corgenon]
+U423402001,La Veyle à Biziat [gourt des parties] - Aval
+U423501001,Le Renon à Neuville-les-Dames
+U440501001,La Chalaronne à Villars-les-Dombes
+U440502001,La Chalaronne à Châtillon-sur-Chalaronne
+U470001001,La Saône à Trévoux
+V041501001,L'Allondon à Saint-Genis-Pouilly
+V041504001,L'Allondon à Échenevex [Naz-Dessous]
+V100001001,Le Rhône à Pougny - CNR
+V100001002,Le Rhône à Pougny - DREAL Rhône Alpes
+V101501001,La Valserine à Lélex [Niaizet]
+V101503001,La Valserine à Chézery-Forens [Chézery]
+V101503003,La Valserine à Chézery-Forens [Chézery] - Station vitesse
+V101581001,La Semine à Châtillon-en-Michaille [Coz]
+V101582001,La Semine à Saint-Germain-de-Joux [Les Marionnettes]
+V101582501,La Valserine à Lancrans [Le Viret]
+V102002001,Le Rhône à Surjoux
+V102002002,Le Rhône à Surjoux - Bognes CNR
+V113000101,Le Rhône à Corbonod [Seyssel-CNR]
+V113000102,Le Rhône à Corbonod [Seyssel-CNR] - DREAL
+V126402401,Le Rhône à Anglefort [Entrant Chautagne]
+V141401001,Le Séran à Belmont-Luthézieu [Bavosière]
+V142501001,Le Groin à Artemare [Cerveyrieu]
+V143000301,Le Séran à Ceyzérieu
+V143000401,Le ruisseau de Farillieu à Magnieu
+V143000501,Le Séran à Talissieu
+V144002001,La dérivation de Belley à Brens - CNR
+V144002002,La dérivation de Belley à Brens - DREAL
+V144621301,[L'Ousson] à Belley
+V145431002,Le Furans à Pugieu [Pont du Martinet]
+V145431201,L'Arène à Chazey-Bons
+V145431301,Le Furans à Rossillon
+V145431401,Le Furans à Rossillon
+V145431501,[Source des Hotteaux] à Rossillon
+V145431601,[Source des Hotteaux] à Rossillon
+V145431701,[Source des Hotteaux] à Rossillon
+V145431801,Le ruisseau Pointay à Rossillon
+V146431001,Le Furans à Arbignieu [Pont de Peyzieu]
+V146431101,Le Furans à Chazey-Bons
+V161000401,Le Gland à Prémeyzel
+V163002001,Le Rhône à Lagnieu - CNR
+V163002002,Le Rhône à Lagnieu - DREAL Rhône Alpes
+V244403201,[La Source Bleue] à Dortan
+V251501002,L'Oignin à Maillat [Pontet]
+V271201001,L'Ain à Pont-d'Ain
+V281403001,Le Suran à Pont-d'Ain
+V281404001,Le Suran à Germagnat [Lasserra]
+V292401001,L'Albarine à Saint-Rambert-en-Bugey
+V293401001,L'Albarine à Saint-Denis-en-Bugey [Pont Saint Denis]
+V294201001,L'Ain à Chazey-sur-Ain
+V294521001,La Toison à Rignieux-le-Franc
+V300561001,La Sereine à Montluel
+F619000101,Le Surmelin à Saint-Eugène
+F620000201,La Marne à Château-Thierry
+H001000301,Le Petit Gland à Any-Martin-Rieux - Hauteur du petit Gland
+H002001101,L'Oise à Étréaupont - Hauteur de l'Oise a Etréaupont
+H003000201,Le Ton à Étréaupont - hauteur du Ton à Etréaupont
+H004000101,L'Oise à Guise - hauteur de l'Oise a Guise
+H004000201,L'Oise à Proisy - barrage de Proisy
+H005000101,Le Noirrieu à la Neuville-lès-Dorengt
+H010002201,La Serre à Chaourse - hauteur de la Serre
+H010002301,La Serre à Montigny-sous-Marle - Barrage de Montigny sous Marle
+H011001201,Le Vilpion à Thiernu
+H012000201,La Brune à Hary - Hauteur de la Brune
+H013000101,Le Vilpion à Marle - Hauteur du Vilpion
+H143000201,Le ruisseau de Fayau à Aizelles - Hauteur du Fayau dans le camping du moulin
+H162000201,L'Aisne à Fontenoy - Barrage (amont)
+H162000202,L'Aisne à Fontenoy - Barrage (aval)
+H162000301,L'Aisne à Cuffies [Vauxrot] - Barrage (amont)
+H162000302,L'Aisne à Cuffies [Vauxrot] - Barrage (aval)
+H166000201,L'Aisne à Vic-sur-Aisne - Barrage (amont)
+H166000202,L'Aisne à Vic-sur-Aisne - Barrage (aval)
+H552201001,L'Ourcq à Chouy
+H631302001,La Suippe à Orainville
+H632101101,L'Aisne [partielle] à Berry-au-Bac
+H632101203,La rigole d'alimentation de Berry-au-Bac à Berry-au-Bac - Débitmètre
+H632101204,La rigole d'alimentation de Berry-au-Bac à Berry-au-Bac - secours CT
+H643201001,La Vesle à Braine
+H650102001,L'Aisne à Soissons - Le mail [station US]
+H650102002,L'Aisne à Soissons - La passerelle des Anglais [mire historique]
+H651301001,La Crise à Soissons
+H652353201,Le ru de Retz à Ambleny [Pont Cheminet]
+H702101001,L'Oise à Hirson - mire historique
+H702101002,L'Oise à Hirson - déversoir
+H703301001,Le Ton à Origny-en-Thiérache
+H704102501,L'Oise à Flavigny-le-Grand-et-Beaurain
+H705311001,Le Morteau au Nouvion-en-Thiérache [Moulin Lointain]
+H705343001,L'Iron à Iron
+H706101001,L'Oise à Origny-Sainte-Benoite
+H706101002,L'Oise à Origny-Sainte-Benoite - + rigole
+H710202001,La Serre à Montcornet
+H714201001,La Serre à Mortiers
+H715301202,La Souche à Froidmont-Cohartille [RN2] - débitmétrique - Fermée
+H715301204,La Souche à Froidmont-Cohartille [RN2]
+H716201001,La Serre à Pont-à-Bucy
+H720101001,L'Oise à Condren
+H730202001,L'Ailette à Chavignon
+K141401001,La Vouzance à Saint-Léger-sur-Vouzance
+K151000101,La Besbre à Châtel-Montagne [EDF]
+K152401001,Le Barbenan au Breuil
+K153301001,La Besbre à Saint-Prix
+K154000301,La Têche à Varennes-sur-Tèche
+K156302001,La Besbre à Saint-Pourçain-sur-Besbre
+K303081001,L'Allier à Saint-Yorre
+K305310001,Le Sichon à Ferrières-sur-Sichon
+K306031001,Le Sichon à Cusset [Moulin Vidot]
+K307401001,Le Jolan à Cusset
+K308000101,Le Sichon à Cusset [Allée Mesdames]
+K312000101,Le Mourgon à Saint-Germain-des-Fossés - Passerelle
+K313000301,Le Valençon à Varennes-sur-Allier [Le Moulin Vaque]
+K315301001,L'Andelot à Loriges
+K332201001,La Sioule à Ébreuil
+K333000101,La Bouble à Louroux-de-Bouble
+K337301001,La Bouble à Chareil-Cintrat
+K338201001,La Sioule à Saint-Pourçain-sur-Sioule
+K340081001,L'Allier à Châtel-de-Neuvre
+K345081001,L'Allier à Moulins
+K346401001,La Queune à Neuvy
+K360301002,La Bieudre à Pouzy-Mésangy - RD 234 - Nouvelle échelle
+K520090010,Le Cher à Teillet-Argenty - Barrage de Rochebut
+K520090201,Le Cher à Teillet-Argenty [EDF - QNR]
+K522090003,Le Cher à Montluçon
+K523401001,La Magieure à Vaux
+K533311001,Le Bandais à Vieure
+K534321001,L'Oeil à Malicorne - Beaufrancon
+K536322001,L'Oeil à Cosne-d'Allier
+K538302001,L'Aumance à Hérisson
+X041541001,Le Riou Mounal à Saint-Paul-sur-Ubaye [Col de Vars]
+X043401001,L'Ubaye à Barcelonnette [Abattoir]
+X045401001,L'Ubaye au Lauzet-Ubaye [Roche-Rousse]
+X045401002,L'Ubaye au Lauzet-Ubaye [Roche-Rousse] - EDF
+X045631001,L'Ubaye au Lauzet-Ubaye [tunnel]
+X071000401,Le torrent Sasse à Valernes [Pont de Valernes] - Pont de Valernes
+X072000201,Le torrent Sasse à Valernes [La Barque]
+X110000301,Le Jabron à Sisteron
+X111501001,La Durance à Salignac [Usine EDF]
+X112000301,Le Vanson à Volonne
+X112000501,Le Vanson à Sourribes [Pont de Sourribes] - Pont de Sourribes
+X113000101,La Durance à Oraison [Escale - EDF QNR]
+X122501001,Le Bès à la Javie [Esclangon-Péroure]
+X123000101,La Bléone à Digne-les-Bains
+X123000201,La Bléone à Digne-les-Bains [Amont ville] - Pont des Arches
+X123000301,Le Mardaric à Digne-les-Bains
+X123000401,Le torrent des Eaux Chaudes à Digne-les-Bains
+X125000201,La Bléone à Malijai
+X133501001,Le Lauzon à Villeneuve
+X142000101,L'Asse à Beynes [EDF - Clue de Chabrières]
+X144000401,L'Asse à Oraison [Pont d'Oraison] - Pont d'Oraison
+X152000101,Le Largue à Villeneuve - Notre-Dame de la roche
+X152000102,Le Largue à Saint-Maime - Station SPCGD (Pont RD 13)
+X203521001,L'Ivoire à Allons
+X211401001,L'Issole à Saint-André-les-Alpes [Mourefrey]
+X220202201,Le Verdon à Demandolx [Castillon EDF - QNR]
+X231501001,Le Bau à Rougon [Pont de la D 952]
+X341401001,Le Coulon à Oppedette
+Y600203501,Le Var à Saint-Benoît [Amont confluence Coulomp]
+Y603561001,La Vaïre à Annot [Pont des Scaffarels]
+Y604201001,Le Var à Entrevaux [Pont-levis]
+W200202101,Le Drac à Orcières [Les Tourengs]
+W201502001,Le torrent Drac de Champoléon à Champoléon [Pont de Corbière]
+W201631001,Le torrent de Mal Cros à Champoléon
+W202201001,Le Drac à Saint-Jean-Saint-Nicolas [Les Ricous]
+W202202101,Le Drac à Saint-Jean-Saint-Nicolas [Pont du Fossé]
+W202203001,Le Drac [le Drac] à Chabottes [Pont de Chabottes]
+W202581301,Le torrent d'Ancelle à Forest-Saint-Julien - Pont de frappe
+W203000301,Le ruisseau des Granges à Saint-Julien-en-Champsaur - Buissard
+W221503001,La Souloise à Saint-Étienne-en-Dévoluy [2]
+W221641001,La Ribière à Agnières-en-Dévoluy [La Combe]
+X001001002,La Durance à Val-des-Prés [Les Alberts]
+X001501002,La Guisane au Monêtier-les-Bains [Le Casset] - Pisciculture
+X001561301,La Durance à Briançon [aval - EDF]
+X013001001,La Durance à l'Argentière-la-Bessée
+X031001001,La Durance à Embrun [La Clapière]
+X031001002,La Durance à Embrun [La Clapière] - EDF
+X050551301,La Durance à Espinasses [Serre-Ponçon EDF QNR]
+X051591001,La Durance à Valserres [Pont de l'Archidiacre]
+X061000201,La Durance à Monêtier-Allemont
+X102691001,Le torrent de Glaisette à Veynes [Route de Glaise]
+X103402302,Le Buëch à Serres [Village] - Centre-ville SPC
+X103402304,Le Buëch à Serres [Village] - Centre-Ville EDF
+Y550541201,Riou de l'Argentière à Mandelieu-la-Napoule
+Y551601201,La Siagne à Escragnolles
+Y551601202,La Siagne à Escragnolles
+Y551601203,La Siagne à Escragnolles
+Y553403001,La Siagne à Pégomas
+Y553541001,La Mourachonne à Pégomas
+Y553571201,La Siagne à Mandelieu-la-Napoule [Basse Siagne]
+Y553571301,La Siagne à Pégomas [SMIAGE]
+Y553571401,La Grande Frayère à Cannes [Palais des victoires]
+Y553571501,La Mourachonne à Pégomas [SMIAGE]
+Y553571601,La Mourachonne à Mouans-Sartoux
+Y553571701,La Mourachonne à Grasse [Grand Vallon]
+Y553571801,La Grande Frayère à Cannes [Restos du Coeur]
+Y553571901,La Grande Frayère à Cannes [Aéroport CM]
+Y553572001,[Vallon de Bigaud] à Mougins [Scène 55]
+Y553572101,[Vallon du Coudouron] à Mougins [Pont Romain]
+Y553572201,[Vallon de Picourenc] à Peymeinade
+Y553572301,Le Vallon Saint Antoine à Auribeau-sur-Siagne [Valcluse]
+Y553572401,[Béal] à Cannes [Béal Aval]
+Y553572501,Le Riou [Frayère d'Auribeau] à Auribeau-sur-Siagne [Pierranchon]
+Y553572601,[Vallon des Ribes] à Grasse
+Y553572701,[Béal] à la Roquette-sur-Siagne [Cravesan]
+Y560521003,La Brague à Biot - Pont Vieux
+Y560581201,La Brague à Valbonne [Pont Veirière]
+Y560581301,La Valmasque à Antibes [Pont Bus-Tram]
+Y561501001,Le Loup à Tourrettes-sur-Loup [Les Vallettes]
+Y561503001,Le Loup à Villeneuve-Loubet [Moulin du Loup]
+Y561621502,Le Loup à Villeneuve-Loubet [Ferrayonnes]
+Y561621601,Le Loup à Roquefort-les-Pins [Pont RD 6]
+Y561621602,Le Loup à Roquefort-les-Pins [Pont RD 6]
+Y561621603,Le Loup à Roquefort-les-Pins [Pont RD 6]
+Y561621701,Le Loup à Gourdon [Pont du Loup]
+Y561621801,Le Loup à Villeneuve-Loubet [Pont des Bugadières]
+Y561621901,Le Loup [Loup à Bramafan] à Courmes
+Y561622001,Le Loup à Courmes [Bramafan]
+Y561622101,Le Loup à Cipières [Pont de Cipières]
+Y562511201,La Cagne à Cagnes-sur-Mer [Pont des Salles]
+Y562511301,La Cagne à Saint-Jeannet
+Y600203001,Le Var à Villeneuve-d'Entraunes [Pont d'Enaux]
+Y600203301,Le ruisseau de Sanguinière [Le ruisseau de Sanguinières] à Entraunes [Aval confluence vallon de Garets]
+Y600203401,Le Var à Entraunes [Amont prise hydroélectrique Saint Roch]
+Y612501201,Le Var à Malaussène [Pont Auguste Dubois]
+Y622401001,La Tinée à Saint-Sauveur-sur-Tinée [Route Chapelle Sainte-Blaise]
+Y622402001,"La Tinée à Massoins [Le Bancairon, usine]"
+Y623402301,La Tinée à Tournefort [Vieux Pont]
+Y623402401,La Tinée à la Tour [Pont de la Lune EDF - QNR]
+Y624000101,Le Var à Malaussène [La Mescla EDF - QNR]
+Y633404001,La Vésubie à Utelle [Pont du Cros]
+Y640000201,L'Esteron à Saint-Auban [Aval village Soleilhas]
+Y640000301,L'Esteron à Saint-Auban [Aval confluence Faye] - Aval confluence Faye
+Y640000401,L'Esteron à Gars
+Y641000201,L'Esteron à Aiglun
+Y642401001,L'Esteron à Sigale [Pont du Coude]
+Y643401001,L'Esteron au Broc [La Clave]
+Y643583201,Le Var à Bonson [Digue Bonson]
+Y644201002,Le Var à Nice [Pont Napoléon III] - Aval
+Y644202001,Le Var à Carros [Pont de la Manda]
+Y651701001,Le ruisseau de Caïnéa [source] à Lucéram
+Y652000501,Le Paillon à la Trinité
+Y660000201,La Roya à Tende [Pont de Scara]
+Y661401002,La Roya à Tende [Saint-Dalmas-de-Tende] - Amont - EDF
+Y661401003,La Roya à Tende [Saint-Dalmas-de-Tende] - Station Amont DREAL
+Y661405101,La Roya à Fontan [Village]
+Y661405201,Le torrent de Bieugne à Tende
+Y662000301,La Roya à Breil-sur-Roya [EDF]
+Y662000401,La Roya à Saorge [Pont Mondi]
+Y663501001,La Bévéra à Sospel [Pont D 2204]
+K001002010,La Loire à Cros-de-Géorand [DREAL CVL] - Barrage de la Palisse
+K001872010,Le Gage à Cros-de-Géorand [DREAL CVL] - Barrage du Peyron
+K001872301,La Loire à Usclades-et-Rieutord - Rieutord - DREAL CVL
+K001872302,La Loire à Usclades-et-Rieutord - EDF
+K001872303,La Loire à Usclades-et-Rieutord - EDF
+K002000101,La Loire à Issarlès [Pont de la Borie EDF - QNR]
+K003002010,La Loire à Issarlès - Pont de La Borie (Amont) - DREAL CVL
+K003002011,La Loire à Issarlès - Pont de la Borie (Aval) - DREAL CVL
+K201082001,L'Allier à Laveyrune - Rogleton
+K202000101,Le Masméjan à Saint-Étienne-de-Lugdarès [Huédour]
+V350401201,La Cance à Annonay [Galléliaure]
+V351701001,Le Ternay à Savas [Ternay]
+V351701301,La Deume à Saint-Marcel-lès-Annonay
+V352401001,La Cance à Sarras
+V353000101,L'Ay à Ardoix [Pont de Rau]
+V353000301,L'Ay à Satillieu - La Bergère
+V353000302,L'Ay à Satillieu - La Bergère
+V362000101,Le ruisseau d'Ozon à Cheminas - Le Pavé
+V370000201,Le Doux [Doux à l'aval de Désaignes] à Désaignes
+V371402001,Le Doux à Lamastre
+V372401001,Le Doux à Colombier-le-Vieux
+V373000201,La Daronne à Colombier-le-Vieux - Station de la Daronne - Saint Sorny
+V374401001,Le Doux à Tournon-sur-Rhône
+V374401301,Le Duzon à Saint-Barthélemy-le-Plain - Duzon - Cuves
+V402501001,L'Embroye à Toulaud
+V402501201,L'Embroye à Charmes-sur-Rhône
+V412401001,L'Eyrieux au Cheylard
+V412401101,L'Eyrieux à Saint-Martin-de-Valamas - La Condamine
+V414521001,La Glueyre à Gluiras [Tisonèche]
+V414521101,L'Eyrieux à Beauvène [Pont de Chervil]
+V415401001,L'Eyrieux aux Ollières-sur-Eyrieux
+V417402001,Le Rhône à la Voulte-sur-Rhône
+V417402101,L'Eyrieux à Saint-Fortunat-sur-Eyrieux [Pontpierre]
+V430000101,L'Ouvèze au Pouzin
+V453001001,Le Rhône à Viviers - CNR
+V453001002,Le Rhône à Viviers
+V457001001,Le Rhône à Bourg-Saint-Andéol
+V500403001,L'Ardèche [Ardèche] à Meyras [Pont Barutel]
+V501401001,L'Ardèche à Vogüé
+V501403001,L'Ardèche à Ucel
+V501404001,L'Ardèche à Pont-de-Labeaume
+V501521001,La Volane à Vals-les-Bains
+V503502001,La Baume à Rosières
+V503502201,La Baume à Saint-Alban-Auriolles [Peyroche]
+V504503001,Le Chassezac à Gravières - Les Salelles
+V504881301,Le Chassezac à Berrias-et-Casteljau [Chaulet] - Chaulet
+V504881501,La Borne à Saint-Laurent-les-Bains [EDF - Pont de Nicoulaud]
+V505401001,L'Ardèche à Vallon-Pont-d'Arc
+V506401001,L'Ardèche à Saint-Martin-d'Ardèche [Sauze]
+V542521401,La Ganière à Banne
+B463101001,La Chiers à Carignan
+B466010101,La Chiers à Brévilly
+B502001001,La Meuse à Sedan
+B517201001,La Bar à Cheveuges
+B532201001,La Vence à la Francheville
+B540001001,La Meuse à Charleville-Mézières
+B557201001,La Sormonne à Belval
+B560010101,La Meuse à Aiglemont
+B611101001,La Semoy à Haulmé
+B700001002,La Meuse à Monthermé - Limnimètre
+B720000001,La Meuse à Chooz - Trou du Diable
+B720000002,La Meuse à Chooz - Ile Graviat
+B720000003,La Meuse à Chooz - Chooz Petit
+B732201001,La Houille à Landrichamps
+H108000101,L'Aisne à Condé-lès-Autry
+H124000301,Le ruisseau de Saint-Lambert à Suzanne
+H125000201,La Foivre à Écordal
+H125000202,La Foivre à Écordal - Hauteur du Foivre
+H127000101,Le ruisseau de Saulces à Auboncourt-Vauzelles
+H131000201,La Vaux à Hauteville
+H615302002,L'Agron à Verpel
+H616201001,L'Aire à Chevières
+H620101001,L'Aisne à Mouron
+H620102001,L'Aisne à Vouziers
+H621101001,L'Aisne à Rilly-sur-Aisne
+H622101001,L'Aisne à Givry
+H622102001,L'Aisne à Biermes
+H623302001,La Vaux à Écly
+H623311001,La Draize à Justine-Herbigny
+H630101001,L'Aisne à Asfeld
+H630383001,La Retourne à Mont-Saint-Remy
+H630384001,La Retourne à Saint-Remy-le-Petit
+O036251001,Le Salat à Soueix-Rogalle [Kercabanac]
+O036252001,Le Salat à Soueix-Rogalle [Brousset]
+O038401001,L'Arac à Soulan [Freychet]
+O038403001,L'Arac à Massat
+O038403101,[Source La Courate] à Ercé
+O044401001,Le Lez aux Bordes-sur-Lez
+O044401101,[Source Fontaine Blanche] aux Bordes-sur-Lez
+O048401001,Le Lez à Engomer [Balaguères]
+O048511001,Le Lachein à Balaguères [Baget - Las Hountas]
+O050252002,Le Salat à Saint-Lizier [Saint Girons]
+O052501001,Le Gouarège à Cazavet [Aliou]
+O062401001,Le Volp à Sainte-Croix-Volvestre
+O071402001,L'Arize à la Bastide-de-Sérou
+O071402101,Le ruisseau de Bésole à Esplas-de-Sérou [Source de Bésole]
+O074404001,L'Arize au Mas-d'Azil - HE
+O074404002,L'Arize au Mas-d'Azil - Collège
+O100000101,[Source Les Goutils] à l'Hospitalet-près-l'Andorre
+O102251002,L'Ariège à Ax-les-Thermes
+O106000101,Le ruisseau de Frontonne [Source de Fountroune] à Axiat
+O107000101,Le ruisseau de Quioulès à Château-Verdun [EDF - Riète 2]
+O111000101,Le ruisseau de l'Artigue à Auzat [EDF - Cibelle]
+O113000201,Le ruisseau de Saleix [Source de Las Mollos] à Auzat
+O114462001,Le Vicdessos à Vicdessos
+O122501201,Le Saurat à Arignac [Source de Fount Sainto]
+O123251001,L'Ariège à Bompas
+O125251001,L'Ariège à Foix
+O137251002,L'Ariège à Saverdun
+O143291001,Le Grand Hers à Bélesta
+O143293001,Le Grand Hers à Bélesta [Source de Fontestorbes]
+O144291002,Le Grand Hers au Peyrat
+O148432002,Le Touyre à Montferrier - 2
+O148432101,[Source de Fount Bergens 1] à Montferrier
+O149431003,Le Touyre à Lavelanet
+O149433001,Le Touyre à Léran
+O153291001,Le Grand Hers à Roumengoux
+O153292001,Le Grand Hers à Mirepoix
+O156000101,Le Douctouyre à Ilhat [Source de Prat d'Amont]
+O158461001,Le Douctouyre à Dun [Engraviès]
+O165293003,Le Grand Hers à Mazères
+O180405201,[Source Les Truffières] à Cazaux
+O181401001,La Lèze à Pailhès
+O182401001,La Lèze au Fossat
+O184402001,La Lèze à Lézat-sur-Lèze
+Y102501101,Le ruisseau de Saint-Jean [Source Fontanals des Crespis] au Pla
+F128000101,La Voire à Bétignicourt
+F210000101,La Seine à Nogent-sur-Seine - Barrage - (Amont)
+F210000102,La Seine à Nogent-sur-Seine - Barrage (Aval)
+F211000101,La Seine au Mériot - Barrage de Beaulieu (amont)
+F211000102,La Seine au Mériot - Barrage de Beaulieu (aval)
+F211000301,Le canal de dérivation de Beaulieu à Villiers-sur-Seine à Nogent-sur-Seine - Ecluse de Beaulieu (Amont)
+F211000302,Le canal de dérivation de Beaulieu à Villiers-sur-Seine à Nogent-sur-Seine - Ecluse de Beaulieu (Aval)
+H010002001,La Seine à Plaines-Saint-Lange
+H020302002,La Laignes aux Riceys
+H040001001,La Seine à Bar-sur-Seine
+H040002001,La Seine à Courtenot
+H050301001,L'Hozain à Buchères [Courgerennes]
+H070201001,La Barse à Montiéramey
+H080001101,La Barse [Vieille Seine (partielle)] à Troyes [Foicy] - Après la création du lac Seine
+H080001201,La Seine [partielle] à Troyes [Tauxelles]
+H081001002,La Seine à Méry-sur-Seine
+H105102001,L'Aube [partielle] à Longchamp-sur-Aujon [Outre Aube]
+H120101001,L'Aube à Bar-sur-Aube
+H123101001,L'Aube à Blaincourt-sur-Aube
+H133301001,La Laines à Soulaines-Dhuys
+H150101001,L'Aube à Arcis-sur-Aube
+H150351001,L'Huitrelle à Lhuître
+H150391001,L'Herbissonne à Allibaudières
+H151321001,La Barbuise à Pouan-les-Vallées
+H170001001,La Seine à Pont-sur-Seine
+H171301001,L'Ardusson à Saint-Aubin
+H247301001,L'Armance à Chessy-les-Prés
+O146401001,Le Blau à Chalabre
+O163401001,La Vixiège à Belpech
+Y065502001,Le Verdouble à Padern
+Y065761002,Le Mas de Ségure [Le Petit Verdouble] à Tuchan
+Y081400101,La Berre à Durban-Corbières
+Y081400301,Le Barrou à Durban-Corbières
+Y082401001,La Berre à Villesèque-des-Corbières [Ripaud]
+Y082403001,La Berre à Portel-des-Corbières
+Y082541101,La Berre à Sigean [Ouvrage de régulation de l'Espinat]
+Y084000101,Le ruisseau du Veyret à Narbonne [Ouvrage de régulation Cap de Pla]
+Y084000201,[Canal de la réunion] à Narbonne [Pont des Pauvres]
+Y101202001,L'Aude à Escouloubre [aval]
+Y102501001,La Bruyante à Escouloubre [Usson-les-Bains]
+Y110501001,Le Rebenty à Saint-Martin-Lys
+Y111201001,L'Aude à Belvianes-et-Cavirac
+Y111201002,L'Aude à Quillan - Pont RD 118
+Y113501001,La Sals à Cassaignes
+Y114115001,Le ruisseau de Lavalette à Alet-les-Bains
+Y114115101,L'Aude à Alet-les-Bains - Le Moulin Neuf
+Y115201001,L'Aude à Limoux [Pont de Fer]
+Y115201301,La Corneilla à Bouriège [D52]
+Y115201401,Le Cougaing à Castelreng
+Y120501001,Le Sou à Saint-Martin-de-Villereglan
+Y122501001,Le Lauquet à Greffeil
+Y122502002,Le Lauquet à Verzeille [Le Pech] - Pont de Pomas
+Y122502201,Le Lauquet à Saint-Hilaire [Route de Ladern]
+Y123201001,L'Aude à Carcassonne - Pont-Vieux
+Y123201002,L'Aude à Carcassonne - Pont-Neuf
+Y123201101,Le ruisseau de Palajanel à Cazilhac [Ouvrage de régulation]
+Y131401001,Le Fresquel à Villepinte
+Y133000101,Le Fresquel à Alzonne
+Y134501001,Le Lampy à Raissac-sur-Lampy
+Y134501201,Le ruisseau de Tenten à Saint-Martin-le-Vieil [Pont de la D 4]
+Y135521001,La Rougeanne à Moussoulens
+Y135541101,Le Fresquel à Sainte-Eulalie
+Y136401001,Le Fresquel à Carcassonne [Pont Rouge]
+Y136402001,Le Fresquel à Pezens
+Y141501002,L'Orbiel à Lastours - Mairie
+Y141502001,L'Orbiel à Bouilhonnac [Villedubert]
+Y141622002,La Clamoux à Villeneuve-Minervois
+Y141622101,[Plan d'eau] à Villeneuve-Minervois [Ouvrage de régulation]
+Y142201001,L'Aude à Puichéric
+Y142201002,L'Aude à Puichéric - aval
+Y142203001,L'Aude à Trèbes [rue Voltaire]
+Y142203101,Le ruisseau de la Prade [Plan d'eau Ruchol] à Laure-Minervois [Déversoir]
+Y142203201,Le ruisseau de Mayral à Rustiques [Ouvrage de régulation]
+Y142203301,Le ruisseau de Canet à Badens [Ouvrage de régulation]
+Y142203401,Le ruisseau des Arques à Laure-Minervois - Bassin des Arques
+Y143541001,L'Argent-Double à la Redorte [Les Salices]
+Y143542101,L'Argent-Double à Trausse
+Y144501001,L'Ognon à Pépieux
+Y145201001,L'Aude à Ventenac-en-Minervois
+Y145202001,L'Aude à Saint-Marcel-sur-Aude
+Y145202301,Le ruisseau du Répudre à Mailhac
+Y152401001,L'Orbieu à Saint-Martin-des-Puits
+Y152402001,L'Orbieu à Lagrasse [Pont RD 3]
+Y153521001,Le Sou à Lagrasse [Alsou]
+Y154000201,Le ruisseau de la Font Intruse à Fabrezan [Ouvrage de régulation]
+Y155000201,La Nielle à Saint-Laurent-de-la-Cabrerisse
+Y156401001,L'Orbieu à Luc-sur-Orbieu
+Y157000201,L'Aussou à Saint-André-de-Roquelongue
+Y158402001,L'Orbieu à Villedaigne - RD 6113
+Y160504001,La Cesse à Bize-Minervois
+Y160505001,La Cesse à Mirepeisset
+Y161202001,L'Aude à Moussan [Moussoulens - écluse]
+Y161203001,L'Aude à Cuxac-d'Aude
+Y161204001,L'Aude à Coursan [Arminis]
+Y161205001,L'Aude à Coursan [Village]
+Y161205201,L'Aude à Coursan [Déversoir Prat du Raïs]
+Y161205301,Le canal du Midi [Canal de Jonction] à Sallèles-d'Aude [Déversoir]
+Y161205401,Le ruisseau de Dons à Vinassan [Ouvrage de régulation]
+Y161205501,L'Aude à Coursan [Déversoir Grand Vigne]
+Y161205601,L'Aude à Cuxac-d'Aude [Déversoirs 1952]
+Y161205701,L'Aude à Cuxac-d'Aude [Déversoir Horto de Blazy]
+O314101001,Le Tarn à Mostuéjouls [La Muse]
+O314101101,Le Tarn à Mostuéjouls [Source de Mas de Lafon] - Station de Mas de Lafon
+O323000201,La Barbade à Aguessac [Source de Barbade] - Station de Barbade
+O323000301,La Barbade à Aguessac [Source Bousterjack-Fontliane] - Station Bousterjack-Fontliane
+O323000401,Le Lumansonesque à Verrières [Source de Saint Pierre] - Station de Saint-Pierre
+O333402002,La Dourbie à Nant
+O333402101,Le Durzon à Nant [Source du Durzon]
+O336402101,La Dourbie à Nant [EDF - Pont de Gardies]
+O339403004,La Dourbie à Millau [Massebiau 1] - Massebiau 3
+O339403101,La Dourbie à la Roque-Sainte-Marguerite [Source de l'Espérelle]
+O340101002,Le Tarn à Millau - HE
+O340101003,Le Tarn à Millau - Aval HG
+O340101101,Le ruisseau de Saint-Martin à Creissels [Source du Boundoulaou] - Station du Boundoulaou
+O340101201,[La source de Homède] à Creissels - Ruisseau des cascades de Creissels
+O341000101,Le ruisseau du Brias à Tournemire [Source du Brias] - Station Balastière
+O341000201,Le Cernon à Sainte-Eulalie-de-Cernon [Source du Cernon] - Station du Cernon
+O341000301,Le Cernon à Lapanouse-de-Cernon [Source de la Mouline] - Station de la Mouline
+O341000401,Le Cernon à Sainte-Eulalie-de-Cernon [Source de Rauze] - Station de Rauze
+O342403002,Le Cernon à Saint-Georges-de-Luzençon
+O343000101,Le Tarn à Comprégnac [Source des Douzes] - Station des Douzes
+O345431001,La Muze à Montjaux [Saint-Hippolyte]
+O346000101,Le ruisseau Lévéjac à Saint-Rome-de-Tarn [Source du Taurin] - Station du Taurin
+O347000101,Le Tarn à Saint-Victor-et-Melvieu [Pinet]
+O350000201,Le Dourdou à Brusque [Source de Céras] - Station de Céras
+O353401001,Le Dourdou [de Camarès] à Camarès
+O355401101,Le Dourdou [de Camarès] à Vabres-l'Abbaye [Le Moulin]
+O356571101,Le Berlières à Fondamente [Source de Berlière] - Station de Berlière
+O356571201,La Fousette à Saint-Beaulize [Source de Fousette] - Station de Fousette
+O356571301,La Lèbre à Cornus [Source de Gloriette] - Station de gloriette
+O356571401,La Sorgues à Cornus [Source de Sorgues] - Station de Sorgues
+O357461001,La Sorgues à Saint-Félix-de-Sorgues
+O357461101,Le ruisseau d'Annou à Saint-Jean-et-Saint-Paul [Source Aiguebelle-Roubiérou] - Source Aiguebelle-Roubiérou
+O357461201,Le ruisseau d'Annou à Marnhagues-et-Latour [Source de la Chartreuse] - Station de la Chartreuse de nonenque
+O357461301,Le ruisseau de Versols à Saint-Jean-et-Saint-Paul [Moulin de Gauty] - Station du Moulin de Gauty
+O358461003,La Sorgues à Saint-Affrique
+O358461004,La Sorgues à Saint-Affrique - Viaduc
+O358462201,Le ruisseau de Vailhauzy à Saint-Jean-d'Alcapiès [Source de l'Adoux] - Source de l'Adoux
+O358462301,Le ruisseau de Vailhauzy à Saint-Affrique [Source de Dragonnière]
+O359402002,Le Dourdou [de Camarès] à Vabres-l'Abbaye - Le Poujol
+O359402101,Le Len à Saint-Affrique [Source de Taillade] - Station de Len-Taillade
+O360102001,Le Tarn à Brousse-le-Château
+O375401001,Le Rance à Saint-Sernin-sur-Rance
+O500000201,Le Verlenque à Sévérac-le-Château [Source de Bastide] - Station de Bastide
+O500000301,L'Aveyron à Sévérac-le-Château [Source de Cayrac] - Station de Cayrac
+O500000401,Le Verlenque à Sévérac-le-Château [Source de Verlenque] - Station de Verlenque
+O501000101,Le ruisseau de Buzareingues à Buzeins [Source Buzareingues] - Station de Buzareingues
+O501000201,Le ruisseau de Tantayrou à Lapanouse [Source du Ségala] - Station de Ségala
+O501000301,Le ruisseau de Tantayrou à Lapanouse [Source de Tantayrou] - Station de Tantayrou
+O503000101,Le Cuge à Vimenet [Source d'Esparses] - Station d'Esparses
+O503000201,Le Cuge à Vimenet [Source de Mayrinhac] - Station de Mayrinhac
+O504251002,L'Aveyron à Palmas - Pont-de-Manson
+O504551101,Le ruisseau de Brèves à Saint-Saturnin-de-Lenne [Source de Lestang] - Station de Lestang
+O504551201,Le Serre à Campagnac - Station de Serre
+O504551301,[La source de Duc] à Campagnac
+O505501001,Le Serre à Coussergues [Resuenhe]
+O509252002,L'Aveyron à Onet-le-Château
+O516000101,L'Aveyron à Prévinquières
+O519251003,L'Aveyron à Villefranche-de-Rouergue - Recoules
+O519254001,L'Aveyron à Villefranche-de-Rouergue [HE] - HE
+O522401001,L'Alzou à Villefranche-de-Rouergue [Barrage Cabal]
+O526000101,La Serène de Sanvensa à Lunac - station B - BORDERIES
+O526000201,Le ruisseau de Marmont à Saint-Salvadou - station A - TALESPIES
+O527000201,La Petite Serène à la Fouillade - PONT-NOIR
+O528431002,La Serène de Sanvensa à Saint-André-de-Najac [Canabral]
+O528431101,Le ruisseau de Cassurex à la Fouillade - station D - TOULZANES
+O534000101,Le Vioulou à Salles-Curan [EDF - Trébons-Bas]
+O541401001,Le Céor à Cassagnes-Bégonhès
+O542402003,Le Céor à Saint-Just-sur-Viaur - Castelpers
+O546431001,Le Giffou à Saint-Just-sur-Viaur [La Fabrèguerie]
+O548293002,Le Viaur à Saint-Just-sur-Viaur [Le Cambon]
+O548293101,Le Viaur à Saint-Just-sur-Viaur [EDF - Roc Miquel]
+O711502001,Le Lot à Saint-Laurent-d'Olt
+O714522003,La Boralde de Saint-Chély d'Aubrac à Castelnau-de-Mandailles - EDF
+O716151001,Le Lot à Espalion
+O719151001,Le Lot à Entraygues-sur-Truyère [amont]
+O722000101,Le ruisseau de Glassac à Pierrefiche [Source de Glassac] - Station de Glassac
+O723403101,Le Lot à Lassouts [Castelnau - EDF]
+O723403201,Le Lot à Lassouts [QNR Castelnau - EDF]
+O754000201,Le Bès à Saint-Juéry [EDF]
+O769251101,La Truyère à Sainte-Geneviève-sur-Argence [Sarrans EDF - QNR]
+O770154001,Le Lot à Entraygues-sur-Truyère - HE
+O770154002,Le Lot à Entraygues-sur-Truyère - Roquepailhols
+O773000101,La Bromme à Brommat [EDF]
+O785401001,Le Dourdou [de Conques] à Saint-Cyprien-sur-Dourdou
+O787401001,Le Dourdou [de Conques] à Conques
+O794402002,Le Riou Mort à Viviez [2]
+O802000101,Le ruisseau des Douzes à Muret-le-Château - Muret
+O816000301,La Diège à Salles-Courbatiès - Diege
+O819000101,Le ruisseau de Lantouy à Salvagnac-Cajarc - Lantouy
+V720001001,Le Rhône à Tarascon - CNR
+V720001002,Le Rhône à Tarascon - DREAL
+V720001003,Le Rhône à Tarascon - Pont de Beaucaire
+V721651001,La Bagnolette à Tarascon [Saint-Gabriel]
+V730000302,Le Rhône à Arles - CNR
+X300101001,La Durance à Saint-Paul-lès-Durance [Cadarache]
+X300101301,La Durance à Saint-Paul-lès-Durance [Jouques-Cadarache - EDF]
+X302001001,La Durance à Meyrargues [Pont Pertuis]
+X321020102,Le ruisseau de Silvacane à la Roque-d'Anthéron [Silvacane] - DREAL
+X331002001,La Durance à Mallemort
+Y401202101,L'Arc [Bras principal] à Rousset
+Y402201001,L'Arc à Meyreuil [Pont de Bayeux]
+Y402201401,Vallat le Grand [Affluent Rive Gauche Arc] à Aix-en-Provence - Station hydrométrique du Grand Vallat
+Y411502001,La Luynes à Aix-en-Provence [Pioline]
+Y412202002,L'Arc à Berre-l'Étang - Saint-Estève
+Y412204001,L'Arc à Aix-en-Provence [Roquefavour-Bruet]
+Y412541101,L'Arc à Berre-l'Étang - Station Berre MENELIK
+Y420000501,La Touloubre à Aix-en-Provence [Puyricard - La Glacière]
+Y420000601,Le ruisseau de Budéou à Lambesc [Armieux]
+Y420000701,La Touloubre à Lambesc [Armieux]
+Y421401001,La Touloubre à la Barben [La Savonnière] - Station MAMP
+Y421401003,La Touloubre à la Barben [La Savonnière] - Ecolog
+Y421401004,La Touloubre à la Barben [La Savonnière] - Station DREAL PACA
+Y421404001,La Touloubre à Cornillon-Confoux [La Glacière]
+Y421404201,La Touloubre à Salon-de-Provence [RN113]
+Y422561001,La Cadière à Marignane [stade Saint-Pierre]
+Y441403001,L'Huveaune à Roquevaire
+Y442404001,L'Huveaune à Aubagne [Le Charrel]
+Y442501001,Le torrent du Fauge à Gémenos
+Y442501301,L'Huveaune à Marseille - Collège
+Y442501401,Le Jarret à Marseille [Rabateau] - Le Jarret
+Y442501402,Le Jarret à Marseille [Rabateau] - Radar de vitesse
+H704011001,La Seine à Honfleur
+I033000101,La Touques à Pierrefitte-en-Auge
+I103101001,La Touques à Saint-Martin-de-la-Lieue
+I110301001,L'Orbiquet à Beuvillers
+I114101001,La Touques à Pont-l'Évêque [Rue de la Licorne]
+I120301002,La Calonne aux Authieux-sur-Calonne
+I120302001,La Calonne à Bonneville-la-Louvet
+I120303001,La Calonne à Pont-l'Évêque [Rue de la Calonne]
+I123000101,La Dives à Bretteville-sur-Dives
+I135000101,La Vie à Grandchamp-le-Château
+I157000101,La Dives à Cabourg
+I202101001,La Dives à Beaumais
+I205103002,La Dives au Mesnil-Mauger
+I220382002,Le Laizon à Croissanville
+I221361001,Le bras de l'Ancre à Cricqueville-en-Auge
+I264000101,L'Odon à Gavrus [Pont Neuf]
+I336101001,L'Orne au Mesnil-Villement
+I344231001,La Druance à Périgny
+I346202001,Le Noireau à Condé-sur-Noireau [Rue du Moulin Biot]
+I352102001,L'Orne à Thury-Harcourt
+I353101001,L'Orne à Grimbosq [barrage du Val de Viard]
+I361206001,La Laize à Fresney-le-Puceux [La Planche à la Housse]
+I362101001,L'Orne à May-sur-Orne
+I362102001,L'Orne à Louvigny
+I371201001,L'Odon à Épinay-sur-Odon
+I374101001,L'Orne à Caen [Pont de Vaucelles]
+I402201001,La Seulles à Juvigny-sur-Seulles
+I403201001,La Seulles à Tierceville
+I452000101,L'Aure à Bayeux [Pont Trubert]
+I501305001,La Dathée à Saint-Germain-de-Tallevende-la-Lande-Vaumont [2]
+I501361001,La Virene à Saint-Germain-de-Tallevende-la-Lande-Vaumont
+I502102001,La Vire à Coulonces [Le Gast]
+I505301001,La Souleuvre à Carville
+I510101001,La Vire à Malloué
+I532151001,L'Aure à Maisons [Pont-Fatu]
+I535201001,La Drôme à Sully
+I700104001,La Sienne à Saint-Sever-Calvados [La Croix du Rocher]
+K251401001,L'Allanche à Joursac [Pont du Vernet]
+K251402001,L'Allanche à Allanche
+K252301001,L'Alagnon à Joursac [Le Vialard]
+K253401001,L'Arcueil à Massiac [Bousselorgues]
+K253401201,L'Alagnon à Massiac - Pont RN 122
+O743401001,Le Lander à Roffiac [Le Blaud]
+O745000301,Le Lander à Saint-Georges [EDF]
+O751551001,Le Remontalou à Chaudes-Aigues [Moulin de Gastal]
+O753501002,L'Epie à Oradour [Pont-de-Rochebrune] - Nouvelle échelle
+O760000201,La Truyère à Neuvéglise [Grandval EDF - QNR]
+O821000101,La Ressègue à Leynhac - Martory
+O821000201,Le Célé à Saint-Constant
+O822000101,La Rance à Leynhac - Chapelle du Pont
+O823153101,Le Moulègre à Boisset - Planche du Souq
+O825501101,L'Anès à Rouziers - Moulin d'Anès
+O826401001,La Rance à Maurs [Les Brauges]
+O826401101,Le ruisseau d'Arcombe à Maurs
+P027251002,Le ruisseau Grande Rhue à Condat
+P030401001,La Santoire à Ségur-les-Villas [La Carrière]
+P036000101,La Santoire à Condat [EDF - Roche-Pointue]
+P052401001,La Petite Rhue à Marchastel [Pont de la Rodde]
+P055501001,La Véronne à Riom-ès-Montagnes
+P081402001,La Sumène à Antignac
+P088501001,Le Mars à Bassignac [Vendes]
+P088502001,Le Mars au Falgoux
+P089000101,La Sumène à Bassignac [Pont de Vendes - EDF]
+P089000201,La Sumène à Bassignac [QNR Pont de Vendes - EDF]
+P142251001,La Maronne à Sainte-Eulalie
+P145401002,La Bertrande à Saint-Illide - Nouvelle échelle
+P150000101,La Maronne à Pleaux [EDF - Enchanet - QNR]
+P171291001,La Cère à Vic-sur-Cère [Comblat-le-Pont]
+P174401003,La Jordanne à Aurillac - Passerelle Paul Riotte
+P177000101,La Cère à Sansac-de-Marmiesse [EDF]
+P178051001,Le ruisseau de Roannes à Saint-Mamet-la-Salvetat [Pont de Lascombes]
+P183401001,L'Authre à Ytrac [Le Vert]
+P190291001,La Cère à Laroquebrou [Nèpes]
+L092061002,La Vienne à Étagnac - Chatenet
+L094061001,La Vienne à Confolens
+L100401001,Le Goire à Saint-Maurice-des-Lions - Pont de Boérat-Vilette
+L111301001,L'Issoire à Esse - [Pont Binot]
+P828401001,La Lizonne à Saint-Séverin [Le Marchais]
+P831251001,La Dronne à Aubeterre-sur-Dronne
+P831252001,La Dronne à Bonnes
+P839431001,La Tude à Médillac [Pont de Corps]
+R002001002,La Charente à Suris [Pont de Suris]
+R021001001,L'Argent-Or à Poursac
+R025001001,Le Son-Sonnette à Saint-Front
+R108001001,La Tardoire à Montbron - Moulin de Lavaud
+R109001002,La Tardoire à la Rochefoucauld [Lacou]
+R116002001,Le Bandiat à Marthon
+R125001001,La Bonnieure à Saint-Ciers-sur-Bonnieure [Villebette]
+R202001002,La Charente à Mansle
+R210001003,L'Aume à Oradour [Moulin de Gouge] - Moulin de Gouge 2
+R211002001,La Couture [ruisseau de Chillé] à Oradour [Fraignée]
+R211003001,La Couture à Oradour [Le Maine]
+R222001003,La Charente à Vindelle - Coursac
+R230000301,L'Argence à Champniers [Vouillac]
+R233505001,La Touvre [résurgence] à Gond-Pontouvre [Foulpougne]
+R234001001,La Charente à Angoulême
+R301001001,La Charreau à Vœuil-et-Giget
+R302000401,La Nouère à Asnières-sur-Nouère [Neuillac]
+R307001002,La Charente à Jarnac
+R307001011,La Charente à Mainxe
+R307001012,La Charente à Jarnac - Quai françois Mitterand
+R314001001,La Charente à Cognac
+R406000101,Le Né à Nonaville [Pont à Brac]
+R413001101,Le Né [bras rive gauche] à Salles-d'Angles [Les Perceptiers]
+R413001201,Le Né [bief principal] à Salles-d'Angles [Les Perceptiers]
+N611061001,La Sèvre niortaise à Marans [Pont SNCF]
+N801000101,La Sèvre niortaise à Charron [Pont du Brault] - La Sèvre niortaise à Charron [Pont du Brault]
+R321402601,L'Antenne à Prignac
+R423001001,La Charente à Chaniers - Beillant RD
+R423001003,La Charente à Chaniers - Beillant RG - aval
+R423001004,La Charente à Chaniers - Beillant RG - amont
+R502331002,La Seugne à Saint-Germain-de-Lusignan
+R508000501,Le Trèfle à Réaux
+R512331002,Le bras de la Seugne à Pons
+R512331003,Le bras de la Seugne à Saint-Seurin-de-Palenne - La Lijardière
+R520001001,La Charente à Saintes - Pont-Palissy
+R523001002,La Charente à Saint-Savinien
+R608001003,La Boutonne à Saint-Séverin-sur-Boutonne [Pont du Vert] - Moulin de Châtre
+R610001001,Le bras de la Boutonne à Nuaillé-sur-Boutonne
+R611000801,La Boutonne à Saint-Julien-de-l'Escap
+R614292405,La Boutonne à Saint-Jean-d'Angély - Pont Saint-Jacques
+R616461001,La Trézence à Puyrolland [Tournay]
+R618001001,La Boutonne à Tonnay-Boutonne
+R730001001,La Charente à Rochefort
+S011401003,La Seudre à Saint-André-de-Lidon [Pont de Saint-André]
+S011451001,La Seudre à Corme-Écluse
+S012001001,La Seudre à Saujon
+S012001201,La Seudre à l'Éguille
+S013000101,La Seudre [Estuaire] à Marennes - Viaduc
+S020001001,[La Gironde] à Royan
+Z600000101,[Océan] à Saint-Pierre-d'Oléron [l'Océan à la Cotinière] - L'Océan à La Cotinière
+K365081001,L'Allier à Cuffy - Pont du Guétin
+K400001010,La Loire à Cours-les-Barres - Givry
+K401301001,L'Aubois à Grossouvre - Trézy
+K407311001,La Vauvise à Saint-Bouize - La Grange
+K408001001,La Loire à Saint-Satur - Ecluse de Saint-Thibault
+K540092001,Le Cher à Saint-Amand-Montrond
+K543302001,La Marmande à Saint-Pierre-les-Étieux - Brébeurre
+K544000201,La Loubière à Faverdines
+K548092010,Le Cher à Saint-Florent-sur-Cher
+K549090001,Le Cher à Vierzon
+K555230001,L'Yèvre à Savigny-en-Septaine
+K555458001,L'Ouatier à Moulins-sur-Yèvre - Maubranche
+K557410001,Le Moulon à Bourges - Asnières
+K562301001,L'Auron au Pondy
+K565301001,L'Auron à Bourges - L'Ormediot
+K570232001,L'Yèvre à Saint-Doulchard - Moulin Batard déviation
+K571231001,L'Yèvre à Foëcy
+K571231002,L'Yèvre à Foëcy - Station débitmétrique
+K573000101,Le Barangeon à Vouzeron
+K602242001,L'Arnon à Loye-sur-Arnon
+K602242201,L'Arnon à Sidiailles
+K606301001,La Sinaise à Rezay
+K607240010,L'Arnon à Lignières
+K610243001,L'Arnon à Mareuil-sur-Arnon
+K619242001,L'Arnon à Méreau - Alnay
+K632251010,La Sauldre à Vailly-sur-Sauldre
+K632251101,La Sauldre à Concressault
+K633252001,La Sauldre à Brinon-sur-Sauldre
+K633401001,La Nère à Aubigny-sur-Nère
+K637302002,La Petite Sauldre à Ménétréol-sur-Sauldre
+L001061001,La Vienne à Peyrelevade [Servières]
+L001061101,La Vienne à Peyrelevade [EDF - La Rigole du Diable]
+P018000101,La Dordogne à Bort-les-Orgues [EDF - QNR]
+P071401001,La Diège à Chaveroche
+P092401001,La Triouzoune à Saint-Angel
+P115000101,La Luzège à Lamazière-Basse [EDF - Pont de Bouyges]
+P122000101,La Dordogne à Servières-le-Château [EDF - Le Chastang]
+P135001001,La Dordogne à Argentat
+P159251001,La Maronne à Argentat [Basteyroux]
+P163001001,La Dordogne à Brivezac
+P165001001,La Dordogne à Altillac [Beaulieu]
+P211401001,La Sourdoire à la Chapelle-aux-Saints
+P300101001,La Vézère à Saint-Merd-les-Oussines [Maisonnial]
+P301541001,L'Ars à Pérols-sur-Vézère [Ars]
+P302000101,La Vézère à Bugeat [EDF]
+P303101001,La Vézère à Lestards [Monceaux]
+P310101001,La Vézère à Peyrissac
+P313102001,La Vézère à Uzerche
+P316401001,Le Bradascou à Uzerche [Pont-Vieux]
+P319431001,La Brézou à Vigeois [Pont de Bleygeat]
+P320101001,La Vézère à Voutezac [Le Saillant]
+P323401001,La Loyre à Voutezac [Pont de l'Aumonerie]
+P326431001,Le Roseix à Vars-sur-Roseix
+P327401001,La Loyre à Saint-Viance [Pont de Burg]
+P332251001,La Corrèze à Saint-Yrieix-le-Déjalat [Pont de Lanour]
+P335252001,La Corrèze à Corrèze
+P350251001,La Corrèze à Tulle [Pont des soldats]
+P361401001,La Montane à Eyrein [Pont du Geai]
+P367401001,La Saint-Bonnette [La Montane] à Laguenne
+P384010101,La Roanne à Dampniat - Les Rasclies
+P392252001,La Corrèze à Brive-la-Gaillarde - Pont du Buy
+P399401001,Le Maumont Blanc à Ussac [La Chanourdie]
+P400101001,La Vézère à Larche
+P400101002,La Vézère à Larche - Capteur débitmétrique
+P401501001,La Couze à Chasteaux [Le Soulier]
+P620251001,L'Auvézère à Benayes
+P622251001,L'Auvézère à Lubersac
+Y791000201,Le Porto à Ota
+Y812000101,Le Liamone à Arbori [Pont de Truggia] - Pont de Truggia
+Y830000101,La Gravona à Peri
+Y830000102,La Gravona à Peri - Seuil Napoléon
+Y841000101,Le Prunelli à Tolla - EDF
+Y842000201,Le Prunelli à Cauro - Pont de l'Auberge
+Y862000101,Le Taravo à Zigliara [Pont d'Abra]
+Y870000201,Le Baraci à Fozzano - Pont D257
+Y881000101,Le Rizzanese à Zoza - Pont de Zoza
+Y882000201,U Fiumicicoli à Sainte-Lucie-de-Tallano
+Y883000101,Le Rizzanese à Propriano - Pont de Rena Bianca
+Y890000201,L'Ortolo à Levie [Vignallela] - Vignalella
+Y960000102,La Solenzara à Sari-Solenzara [Canniciu] - Canniciu
+Y960000301,La Solenzara à Sari-Solenzara - Station de pompage OEHC
+Y970000103,U Cavu à Conca - Pont de Purcilella
+Y970000201,U Cavu à Zonza - Parc aventures
+Y980000202,Le ruisseau d'Orgone à Sotta - Pont RD 59
+Y980000302,Le Bala à Porto-Vecchio - Pont de Bala
+Y700000201,Le Golo à Albertacce
+Y702000101,La Casaluna à Gavignano
+Y702000201,Le Golo à Omessa - Francardo2
+Y702000401,Le Golo à Morosaglia - Ponte Leccia - RT 20
+Y711000201,L'Asco à Morosaglia - Ponte-Leccia
+Y711000401,La Tartagine à Castifao [Hameau de Piana] - Pont D 547
+Y721000101,Le Golo à Volpajola - Barchetta
+Y731000301,Le Bevinco à Olmeta-di-Tuda - Lancone
+Y731000401,Le Bevinco à Biguglia
+Y740000201,[Source] à Brando - Source des Glacières
+Y741000102,Le Luri à Luri [Piazza] - Piazza
+Y750000202,L'Aliso à San-Gavino-di-Tenda [Prise de Padula]
+Y761000401,Le fiume di Regino à Feliceto [Ancien moulin] - Ancien moulin
+Y761000501,Le Piano à Sant'Antonino - Pont OAD13
+Y771000301,La Figarella à Calenzana [Prise Eau Brute OEHC]
+Y771000401,La Figarella à Calenzana - Pont RD51
+Y781000101,Le Fango à Galéria
+Y900000101,La Restonica à Corte
+Y900000201,Le Tavignano à Corte [Ponte Vecchiu]
+Y901000401,Le Tavignano à Corte [Piscine]
+Y901000501,Le Tavignano à Corte - Pont de la Gare
+Y901000601,Le ruisseau d'Orta à Corte - Source du Minesteghju
+Y902000101,Le Vecchio à Venaco - Pont de Noceta
+Y910000102,Le Tavignano à Altiani - Pont RT50
+Y910000201,Le Tavignano à Piedicorte-di-Gaggio - Pont Laricio
+Y911000101,Le Tagnone à Aghione
+Y911000201,Le Tavignano à Antisanti - Pont du Faïo
+Y920000101,L'Alesani à Pietra-di-Verde
+Y921000203,La Bravona à Tallone [Site barrage] - site barrage
+Y931000101,Le Fium Alto à Taglio-Isolaccio - Pont d'Acitaja
+Y941000102,L'U Fium'Orbu à Ghisoni [Sampolo] - Sampolo
+Y951000101,Le Travo à Solaro - Pont RD545
+F001000101,Le Revinson à Aignay-le-Duc
+F002000101,La Coquille à Beaunotte
+F041000201,La Digeanne à Montmoyen
+F324000201,L'Argentalet à la Roche-en-Brenil [Hameau de Clermont]
+F330000101,L'Armançon à Pont-et-Massène [Barrage] - Aval barrage
+F330000102,L'Armançon à Pont-et-Massène [Barrage] - Amont barrage
+F332000201,La Brenne à Aubigny-lès-Sombernon
+F333000201,L'Ozerain à Hauteroche
+H002001001,La Seine à Quemigny-sur-Seine [Cosne]
+H010001001,La Seine à Nod-sur-Seine
+H030101001,L'Ource à Leuglay [Froidvent]
+H032103001,L'Ource à Autricourt
+H232201001,Le Serein à Bierre-lès-Semur
+H240201001,L'Armançon à Brianny
+H241201001,L'Armançon à Quincy-le-Vicomte
+H242231001,La Brenne à Brain
+H243401001,L'Oze à Darcey
+H244234001,La Brenne à Montbard
+U092401001,La Vingeanne à Saint-Maurice-sur-Vingeanne
+U092402001,La Vingeanne à Oisilly
+U110901001,La Venelle à Selongey
+U110901101,La Venelle à Véronnes
+U110901201,La Venelle à Lux
+U111502001,La Bèze à Bèze [Ferme de Rome]
+U111521001,Le Pannecul à Noiron-sur-Bèze [Rente de l'Ile]
+U111521201,La Bèze à Mirebeau-sur-Bèze
+U111521401,L'Albane à Saint-Léger-Triey
+U112001001,La Saône à Auxonne
+U120401001,La Tille à Crécey-sur-Tille
+U120401201,La Tille à Marey-sur-Tille
+U121503001,L'Ignon à Villecomte
+U121504001,L'Ignon à Poncey-sur-l'Ignon [Village]
+U121504101,L'Ignon à Lamargelle
+U122401001,La Tille à Arceau [Arcelot]
+U122402001,La Tille à Cessey-sur-Tille
+U122402201,La Tille à Spoy
+U123502001,La Norges à Genlis
+U123502201,La Norges à Saint-Julien
+U124404001,La Tille à Champdôtre
+U130561001,La Vandenesse à Crugey
+U131401001,L'Ouche à la Bussière-sur-Ouche
+U131402001,L'Ouche à Sainte-Marie-sur-Ouche [Pont de Pany]
+U132401001,L'Ouche à Plombières-lès-Dijon
+U132903001,Le Suzon à Val-Suzon [Village]
+U133401001,L'Ouche à Trouhans
+U133402001,L'Ouche à Crimolois
+U141503001,La Vouge à Saint-Nicolas-lès-Cîteaux [Abbaye-de-Cîteaux]
+U141504001,La Vouge à Aubigny-en-Plaine
+U141541001,La Sansfond [Cent Fonts] à Saulon-la-Rue
+U141601001,La Varaude à Izeure [Tarsul]
+U141641001,La Biètre à Brazey-en-Plaine
+U142001001,La Saône à Pagny-la-Ville [Lechâtelet]
+U301401001,La Dheune à Santenay
+U303581001,La Lauve à Ladoix-Serrigny [source de Ladoix]
+U303601201,Le Meuzin à Corgengoux
+J061161001,La Rance à Saint-Jouan-de-l'Isle - Pont Rimbert
+J100452001,Le Frémur [de Lancieux] à Pleslin-Trigavou - Vieux Moulin
+J110301001,L'Arguenon à Jugon-les-Lacs - Bois Léard
+J110581001,Le Quiloury à Plénée-Jugon - La Salle ès Pies
+J111401001,La Rosette à Mégrit - Pont D 19
+J120541001,Le Frémur [d'Hénanbihen] à Pléboulle - Montbran
+J131301001,Le Gouessant à Andel - Le Quingueret
+J132401001,L'Evron à Coëtmieux - La Rue
+J140531001,L'Urne à Plédran - Magenta
+J151301001,Le Gouët à Saint-Julien - La Saudraie
+J152302001,Le Gouët à Ploufragan - Le Pré Aly [aval barrage Saint-Barthélémy]
+J152401001,La Maudouve à Saint-Donan - La Ville ès Ruelle
+J161401001,L'Ic à Binic - Ancienne échelle
+J161401002,L'Ic à Binic - Saint Gilles
+J171171001,Le Trieux à Saint-Péver - Pont Locminé
+J172172001,Le Trieux à Saint-Clet - Chateaulin
+J180301001,Le Leff à Boqueho - Moulin Neuf
+J181301001,Le Leff à Quemper-Guézennec - Rivoallan
+J202301001,Le Jaudy à Mantallot - Kerbrido
+J203401001,Le Guindy à Plouguiel - Kerallio
+J223301001,Le Léguer à Belle-Isle-en-Terre - Terrain de football
+J223302001,Le Léguer à Pluzunet - Pont Coat Dunois
+J231491001,Le Yar à Tréduder - Milin ar Veuzit
+J371301001,L'Hyère à Trébrivan - Le Nezert
+J520211001,Le Blavet à Kerien - Kerlouët
+J520521001,Le Moulin de l'Estolet à Kerien - Moulin de Camel
+J521212001,Le Blavet à Lanrivain - Pont D 87 [aval retenue Kerné-Uhel]
+J522401002,Le Sulon à Sainte-Tréphine - Trozulon
+J540212001,Le Blavet à Plélauff - Bon-Repos
+J541211001,Le Blavet à Mûr-de-Bretagne [EDF] - Guerlédan
+J800231002,L'Oust à Saint-Martin-des-Prés - La Ville Rouault
+J800232001,L'Oust à Allineuc [cote barrage Bosméléac]
+J802231003,L'Oust à Hémonstoir - Pont D 69
+J813301001,Le Lié à Plémet - Saint-Sauveur-le-Haut
+K509090001,Le Cher à Chambonchard - La Caborne
+K513301001,La Tardes à Champagnat
+K514311001,La Voueize à Gouzon
+K518302001,La Tardes à Chambon-sur-Voueize - Camping
+K518302002,La Tardes à Évaux-les-Bains
+L023151001,Le Taurion à Pontarion
+L031401001,La Vige à Saint-Martin-Sainte-Catherine
+L401071001,La Creuse à Felletin
+L403301001,La Rozeille à Moutier-Rozeille [Aubusson]
+L410071001,La Creuse à Aubusson [Pont-de-la-Rebeyrette]
+L421071001,La Creuse à Glénic
+L422071001,La Creuse à Fresselines [Vervy]
+L432000101,La Petite Creuse à Genouillac
+L440000101,La Petite Creuse à Genouillac [EDF]
+L441171001,La Petite Creuse à Fresselines [Puy Rageaud]
+L500181001,La Gartempe à Saint-Victor-en-Marche
+O925500101,La Banège à Plaisance [Moulin de la Ferrière]
+P237501201,L'Enéa à Carsac-Aillac [Peydezou]
+P238001001,La Dordogne à Cénac-et-Saint-Julien
+P248401001,Le Céou à Saint-Cybranet
+P248402001,Le Céou à Saint-Cybranet [Maisonneuve]
+P257401001,La Nauze à Siorac-en-Périgord [La Tutte Basse]
+P258001001,La Dordogne à Siorac-en-Périgord
+P411401001,Le Cern au Lardin-Saint-Lazare [Rispe]
+P413501001,Le Coly à Condat-sur-Vézère [Pont de Bouch]
+P413511001,La Chironde à Saint-Amand-de-Coly [La Reynie]
+P416101001,La Vézère à Montignac
+P425401001,La Grande Beune à Tamniès [Moulin du Maillet]
+P427101001,La Vézère à Campagne
+P500000201,La Dordogne à Alles-sur-Dordogne
+P504401001,La Couze à Bayac
+P514001001,La Dordogne à Bergerac
+P524401001,Le Caudeau à Lembras
+P532001001,La Dordogne à Lamonzie-Saint-Martin
+P540401002,Le bras du ruisseau l'Eyraud à la Force - La Farganière
+P603152001,L'Isle à Jumilhac-le-Grand - Pont R 79
+P608151001,L'Isle à Corgnac-sur-l'Isle
+P611401001,La Loue à Angoisse - Sarlande
+P613402001,La Loue à Saint-Médard-d'Excideuil - Excideuil
+P613402002,La Loue à Saint-Médard-d'Excideuil
+P616151001,L'Isle à Mayac
+P616151101,[l'Isle] à Escoire
+P634251001,L'Auvézère à Cherveix-Cubas
+P636251001,L'Auvézère à Tourtoirac
+P638251001,L'Auvézère au Change [Aubarède]
+P644000101,[La Source du Toulon] à Périgueux
+P646000101,[La Source des Moulineaux] à Razac-sur-l'Isle
+P700151001,L'Isle à Bassillac [Charrieras]
+P704151001,L'Isle à Périgueux
+P712151001,L'Isle à Mussidan
+P714401001,La Crempse à Issac [Moulin de Lousteau]
+P718152001,L'Isle à Saint-Laurent-des-Hommes [La Filolie]
+P725000101,[Rivière la Pude] à Nanteuil-Auriac-de-Bourzac
+P727000101,La Sauvanie à Allemans
+P801251001,La Dronne à Saint-Pardoux-la-Rivière [Le Manet]
+P802252001,La Dronne à Saint-Pardoux-la-Rivière
+P807401001,La Côle à Saint-Jean-de-Côle
+P810251001,La Dronne à Brantôme [Pont des Roches]
+P810252001,Le bras de la Dronne à Brantôme
+P816251001,La Dronne à Ribérac
+P816252001,La Dronne à Villetoureix
+P821501001,La Belle à Mareuil
+R113041001,Le Bandiat à Saint-Martial-de-Valette
+U200201001,Le Doubs à Mouthe
+U201201001,Le Doubs à Labergement-Sainte-Marie
+U201202001,Le Doubs à Oye-et-Pallet
+U201203001,Le Doubs à Saint-Point-Lac
+U201503002,Le Bief Rouge à Longevilles-Mont-d'Or
+U202201001,Le Doubs à la Cluse-et-Mijoux [Pontarlier amont]
+U202202002,Le Doubs à Doubs - Radar RD
+U203502003,Le Drugeon à Vuillecin - Pont Rouge
+U203503002,Le Drugeon à la Rivière-Drugeon - Ile du Martinet
+U203505002,Le Drugeon à Vaux-et-Chantegrue - Scierie 2
+U204052002,La Jougnena à Jougne [La Ferrière]
+U210201002,Le Doubs à Ville-du-Pont - Spey
+U211201001,Le Doubs à Fournet-Blancheroche [La Rasse]
+U211202001,Le Doubs à Fournet-Blancheroche [Chatelot]
+U212201001,Le Doubs à Goumois
+U214201001,Le Doubs à Glère [Courclavon]
+U221501501,Le Dessoubre à Rosureux
+U221502001,Le Dessoubre à Saint-Hippolyte
+U222200501,Le Doubs à Villars-sous-Dampjoux
+U222201001,Le Doubs à Mathay
+U222541001,Le Gland à Meslières
+U233060001,La Feschotte à Badevel
+U233401001,L'Allan à Fesches-le-Châtel
+U234504001,La Savoureuse à Vieux-Charmont
+U235401001,L'Allan à Courcelles-lès-Montbéliard
+U235661001,Le Rupt à Dung
+U240201001,Le Doubs à Voujeaucourt
+U242507001,Le Sesserant à Pont-les-Moulins [Châtel] - Ancienne
+U242507002,Le Sesserant à Pont-les-Moulins [Châtel]
+U242525001,Le Cusancin à Cusance
+U242526001,Le Cusancin à Baume-les-Dames
+U242526002,Le Cusancin à Baume-les-Dames - La Lavenne
+U250201001,Le Doubs [Canal du Rhône au Rhin] à Esnans [Beaumerousse]
+U251201001,Le Doubs à Besançon - Moulin Saint-Paul
+U251201002,Le Doubs [Canal du Rhône au Rhin] à Besançon - Station secondaire - Passerelle ONAV
+U251542001,[La source d'Arcier] à Vaire-Arcier
+U251553202,[La source de la Mouillère] à Besançon
+U251553401,Le ruisseau du Moulin à Besançon
+U260403001,La Loue à Vuillafans
+U260404001,La Loue à Ornans
+U260405001,La Loue [source vasque] à Ouhans
+U260405002,La Loue [source vasque] à Ouhans - cote RD
+U260406001,La Loue [source canal] à Ouhans
+U260407501,La Loue à Ouhans
+U261582001,Le Lison [source] à Nans-sous-Sainte-Anne - Vasque
+U261582002,Le Lison [source] à Nans-sous-Sainte-Anne - Passerelle
+U261583002,Le Lison à Myon - RD
+U261641001,[La source du Verneau] à Nans-sous-Sainte-Anne
+U262401001,La Loue à Chenecey-Buillon
+V343401001,L'Oron [Collières] à Saint-Rambert-d'Albon
+V343401201,La Grande Veuse à Manthes
+V343401301,La Petite Veuse à Manthes
+V343401302,La Petite Veuse à Manthes - Buse petite Veuse
+V343401401,[Le Nant] à Saint-Sorlin-en-Valloire
+V343401501,L'Oron à Manthes
+V343401601,Le Dolure à Manthes - Station RD139
+V343401602,Le Dolure à Manthes - Station RD139
+V344000101,Le Rhône à Saint-Rambert-d'Albon - CNR
+V344000102,Le Rhône à Saint-Rambert-d'Albon - DREAL Auvergne-Rhône-Alpes
+V361401001,La Galaure à Saint-Uze
+V361401101,La Galaure à Châteauneuf-de-Galaure
+V401001001,Le Rhône à Valence - Pont - CNR
+V401001002,Le Rhône à Valence - Pont - DREAL Auvergne-Rhône-Alpes
+V401001201,Le Rhône à Valence [retenue de Beauchastel]
+V401503001,La Barberolle à Barbières [Pont des Ducs]
+V401511201,La Barberolle à Saint-Marcel-lès-Valence [Pont du Plovier]
+V401511301,La Barberolle [Pont Pré des Drix] à Bésayes
+V401511401,La Barberolle [Bassin des Couleures] à Valence
+V401511501,La Barberolle [Bassin de Bésayes] à Bésayes
+V403401001,La Véore à Chabeuil [Pont des Faucons]
+V403402301,Le Chevillon [Source captée] à Châteaudouble
+V403402401,L'Ecoutay à la Baume-Cornillane [Pont D208]
+V403402501,Le Guimand à Charpey [Pont D119]
+V403402601,Le ruisseau de Bost à Montvendre
+V404000201,Le Pétochin à Upie [Loye affluent du Pétochin]
+V404000301,Le ruisseau d'Ozon à Ambonil [Pont chemin de l'Ozon]
+V404000401,La Véore à Étoile-sur-Rhône [Pont des clévos]
+V421401001,La Drôme à Luc-en-Diois
+V421401101,Le ruisseau de Martrou [Source captée] à Montlaur-en-Diois
+V422501001,Le Bès à Châtillon-en-Diois
+V422602001,Le Bès à Treschenu-Creyers [Archiane]
+V426401001,La Drôme à Saillans
+V427501001,La Gervanne à Beaufort-sur-Gervanne
+V427591001,La Gervanne à Beaufort-sur-Gervanne [Résurgence des Fontaigneux]
+V428701001,Le ruisseau de Grenette à la Répara-Auriples
+V428701201,La Drôme à Livron-sur-Drôme - CNR
+V428701202,La Drôme à Livron-sur-Drôme
+V440000201,[Source captée] à Crupies
+V441401001,Le Roubion à Soyans
+V444503001,Le Roubion à Montélimar [Pont Bir-Hakeim]
+V445501001,Le Jabron à Souspierre
+V445503002,Le Jabron à Montélimar - Pont de l'Europe
+V454000201,[Source captée] à Taulignan
+V456000101,La dérivation de Donzère-Mondragon à Donzère [pont double SNCF]
+V520000201,Le Lez à Teyssières [Vieux Village]
+V521402002,Le Lez à Taulignan - SMVBL
+V521402601,Le Lez à Grignan [Pont D 541]
+V521402801,La Coronne [Le Rieumau] à Saint-Pantaléon-les-Vignes
+V522000201,L'Herin à Bouchet
+V522000301,Le Lez à Suze-la-Rousse
+V532401002,L'Aigue à Saint-May - RD 562
+V532601101,L'Ennuye à Sainte-Jalle
+V533401002,L'Aigue à Nyons - Pont de l'Europe
+V601000201,[Source captée] à Vercoiran
+V602201001,L'Ouvèze à Buis-les-Baronnies - Hameau de Cost
+V602201002,L'Ouvèze à Buis-les-Baronnies - Village
+V603501201,[Source captée] à Barret-de-Lioure
+V604201301,L'Eyguemarse à Mollans-sur-Ouvèze - SMOP
+V613000301,[Source captée] à Ferrassières
+W333521001,L'Adouin à Saint-Martin-en-Vercors [Tourtre]
+W333521301,[Source captée] à Saint-Julien-en-Vercors
+W341000301,La Joyeuse à Châtillon-Saint-Jean
+W341000401,La Joyeuse à Parnans [Pont D123]
+W342000301,L'Isère à Romans-sur-Isère
+W353402001,L'Herbasse à Clérieux [Pont de l'Herbasse]
+W354001002,L'Isère à Beaumont-Monteux - DREAL
+H312042201,L'Epte à Bouchevilliers
+H318041010,L'Epte à Fourges
+H320000104,La Seine à Vernon - Station débitmétrique (>2006)
+H322011001,La Seine à Poses - aval barrage
+H322011005,La Seine à Poses - Poses amont - bief partiel (bras des écluses)
+H325041010,L'Andelle à Vascœuil
+H327000101,La Seine à Pont-de-l'Arche
+H421041010,L'Avre à Saint-Christophe-sur-Avre
+H423041010,L'Avre à Acon
+H425042010,L'Avre à Muzy
+H426021010,L'Eure à Saint-Georges-Motel
+H426021201,L'Eure à Saint-Georges-Motel
+H431021010,L'Eure à Pacy-sur-Eure
+H432021010,L'Eure à Cailly-sur-Eure
+H433043010,L'Iton à Bourth
+H434042010,L'Iton à Damville
+H435000201,L'Iton à Gaudreville-la-Rivière
+H436061010,Le Rouloir à Glisolles [Pont lieu dit Grenieuseville]
+H436061011,Le Rouloir à Glisolles [Pont lieu dit Grenieuseville] - Débimètre
+H437041010,L'Iton à la Bonneville-sur-Iton
+H437042010,L'Iton à Normanville
+H437042101,L'Iton à Évreux
+H438021010,L'Eure à Louviers
+H512013001,La Seine à Aizier
+H605641401,La Risle à Barquet
+H610201201,La Charentonne à Mélicourt
+H611061010,La Guiel à Montreuil-l'Argillé
+H612041010,La Charentonne à la Trinité-de-Réville
+H612044010,La Charentonne à Bernay
+H612901401,La Charentonne à la Trinité-de-Réville
+H612901501,La Charentonne à Fontaine-l'Abbé
+H620021010,La Risle à Brionne
+H623021010,La Risle à Pont-Authou
+H700011001,La Seine à Fatouville-Grestain
+H403021010,L'Eure à Saint-Luperce
+H404021101,L'Eure à Lèves
+H406840001,La Voise à Ymeray
+H413041010,La Drouette à Saint-Martin-de-Nigelles
+H416021010,L'Eure à Charpont
+H418041102,La Blaise à Aunay-sous-Crécy - emplacement caméra
+H420021012,L'Eure à Montreuil - LNS
+H428000201,La Vesgre à Saint-Ouen-Marchefroy - Les Mordants
+M034151010,L'Huisne à Margon - Barrage
+M035401010,La Cloche à Margon
+M036151010,L'Huisne à Nogent-le-Rotrou [Pont de bois]
+M101161010,Le Loir à Saint-Avit-les-Guespières
+M103401010,L'Ozanne à Brou
+M103402010,L'Ozanne à Trizay-lès-Bonneval [Prémoteux]
+M104161010,Le Loir à Saint-Maur-sur-le-Loir
+M104162010,Le Loir à Bonneval
+M107302001,La Conie à Conie-Molitard
+M110161010,Le Loir à Châteaudun
+M111401010,L'Yerre à Saint-Hilaire-sur-Yerre [Bêchereau]
+M112162001,Le Loir à Cloyes-sur-le-Loir
+M112481002,L'Aigre à Romilly-sur-Aigre
+J221311001,Le Guic à Guerlesquin - Kerret
+J240401001,Le Douron au Ponthou - Coat Don
+J251401001,Le Dourduff à Garlan - Pont St Hubert
+J260301001,Le Jarlot à Plougonven - Berlingar
+J260541001,Le Tromorgant à Plougonven - Compezou
+J261400501,Le Queffleuth à Plounéour-Ménez - Le Plessis
+J261401002,Le Queffleuth à Plourin-lès-Morlaix - Les Trois Chênes
+J262301001,Le Jarlot [La rivière de Morlaix] à Morlaix [Port de Morlaix] - Les Ecluses [amont]
+J262301002,Le Jarlot [La rivière de Morlaix] à Morlaix [Port de Morlaix] - Les Ecluses [aval]
+J272301001,La Penzé à Taulé - Penhoat
+J301433001,L'Horn à Mespaul - Kertanguy
+J302401001,Le Guillec à Trézilidé - Kermerien
+J320402002,L'Aber Wrac'h à Loc-Brévalaire - Pont D 38
+J320571001,[L'Aber Wrac'h (branche ouest)] au Drennec - Kerneguez
+J321302002,L'Aber Benoît à Plabennec - Loc Maria
+J332302002,L'Aber Ildut à Brélès - Keringar
+J334000101,La Penfeld [Marégraphe] à Brest
+J340301001,L'Elorn à Sizun - Le Drennec [aval retenue du Drennec]
+J340302001,L'Elorn à Commana - Kerfornedic
+J340411001,[Le ruisseau de Mougau Bihan] à Commana - Moulin Neuf
+J341303001,L'Elorn à Plouédern - Pont ar Bled
+J351401001,La Mignonne à Irvillac - Pont Mel
+J360181001,L'Aulne à Poullaouen - Le Goask
+J362401001,L'Ellez à Loqueffret - Nestavel Bihan [aval retenue St Michel]
+J363181003,L'Aulne à Cléden-Poher - Pont Triffen
+J373301001,Le canal de Nantes à Brest à Saint-Hernin - La gare
+J381181001,L'Aulne à Châteauneuf-du-Faou - Pont Pol Ty Glaz
+J382181001,L'Aulne à Gouézec - Pont Coblant
+J382182001,L'Aulne à Châteaulin - Pont routier
+J382183001,L'Aulne à Port-Launay - Guily Glaz [marégraphe]
+J383401001,La Douffine à Lopérec - Kerbriant
+J393000301,Le Névet à Kerlaz - Pont D39
+J401401001,Le Goyen à Pont-Croix - Kermaria
+J412442001,Le Pont l'Abbé à Plonéour-Lanvern - Tremillec
+J412572001,[Le Troyon] à Plonéour-Lanvern - Ty Poes
+J420192001,L'Odet à Ergué-Gabéric - Kersaviou
+J421191001,L'Odet à Ergué-Gabéric - Treodet
+J421451001,Le Langelin à Briec - Pont C 38
+J422401001,Le Jet à Ergué-Gabéric - Kerjean
+J423191001,L'Odet à Quimper [Kervir] - Passerelle Pierre Dornic (Kervir)
+J431301002,Le Steïr à Guengat - Ty Planche
+J431303001,Le Steïr à Quimper - Moulin Vert
+J440191002,L'Odet à Quimper [Loc Maria] - Palais de justice
+J442191001,L'Odet à Bénodet - Port de plaisance [marégraphe]
+J451401001,Le Moros à Concarneau - Pont D 22
+J451542001,L'Hôpital [Le Styval] à Concarneau - Moulin de la Haie
+J461401001,Le Stêr Goz à Bannalec - Pont Meya
+J462302001,L'Aven à Pont-Aven [Voie express]
+J474201001,L'Ellé à Arzano - Ty Nadan [aval pont]
+J474201002,L'Ellé à Arzano - Ty Nadan [amont pont]
+J480301001,L'Isole à Scaër - Stang Boudilin
+J481301001,L'Isole à Quimperlé - Place des Anciennes Fonderies
+J490201002,L'Ellé [La Laïta] à Quimperlé - Place Charles-de-Gaulle
+J490202001,L'Ellé [La Laïta] à Clohars-Carnoët - Le Pouldu [marégraphe]
+O331401002,La Dourbie à Dourbies [Le Mazet]
+V513101001,Le Rhône à Pont-Saint-Esprit
+V523401103,Le Rhône à Chusclan - CNR
+V540402501,La Cèze à Gaujac [Barrage de Sénéchas]
+V540404001,La Cèze [La Cèze] à Aujac
+V540404101,L'Homol à Sénéchas
+V541000401,Le Luech à Chambon [chamboredon]
+V541000701,Le Luech à Chambon
+V542401001,La Cèze à Bessèges
+V542521301,La Cèze [Rivière Cèze] à Bessèges
+V543000201,La Cèze à Saint-Ambroix
+V543000202,La Cèze à Saint-Ambroix
+V544502001,L'Auzon à Allègre-les-Fumades [Pont d'Auzon]
+V544502301,La Cèze [Rivière Cèze] à Rochegude - Cèze au pont de Rochegude
+V544502401,La Cèze [Rivière Cèze] à Rivières - La Cèze à Rivières
+V544502501,L'Auzon à Allègre-les-Fumades - Pont d'Auzon
+V545401001,La Cèze à Tharaux
+V545401301,La Claysse à Saint-Jean-de-Maruéjols-et-Avéjan
+V546401501,La Cèze à Montclus
+V547401001,La Cèze à la Roque-sur-Cèze
+V547401501,La Cèze à Bagnols-sur-Cèze - DREAL
+V547401502,La Cèze à Bagnols-sur-Cèze - [Etiage CNR en rive gauche]
+V547401601,La Cèze à Bagnols-sur-Cèze [Etiage CNR en rive gauche]
+V547402701,La Tave [Rivière Tave] à Laudun-l'Ardoise
+V548000101,Le Rhône à Roquemaure
+V700000101,Le Briançon à Théziers
+V712401501,Le Gard à Mialet [en amont du camping]
+V713501001,Le Gardon de Saint-Jean à Corbès [Roc Courbe]
+V713501701,Le Gardon de Saint-Jean à Saint-Jean-du-Gard [Bâtiment communal]
+V713503501,Le Gardon de Saint-Jean à Saumane
+V713505102,La Salindrenque à Thoiras - (nouvelle station)
+V713505401,Le Gardon de Saint-Jean à Saint-Jean-du-Gard [Pont de Camboneral]
+V714401001,Le Gard à Anduze
+V715501001,Le Gardon d'Alès à Alès [Pont Vieux]
+V715503501,Le Gardon d'Alès à Sainte-Cécile-d'Andorge [Barrage de Sainte-Cécile-d'Andorge]
+V715621002,Le Galeizon à Saint-Paul-la-Coste [Aube Morte] - (nouvelle station)
+V715622801,Le Gardon d'Alès à Sainte-Cécile-d'Andorge [aval du barrage des Cambous]
+V715622901,Le Gardon d'Alès à Cendras [La Blaquière]
+V715623001,Le Gardon d'Alès à la Grand-Combe [EPTB Gardons]
+V716401501,Le Gard à Ners [Pont RN 106]
+V717000901,L'Esquielle à Saint-Geniès-de-Malgoirès [EPTB Gardons]
+V718401501,Le Gard à Sainte-Anastasie [Russan]
+V718501901,Le Bourdic à Aubussargues [DREAL LR]
+V718502101,Le Gard à Sanilhac-Sagriès [La Baume] - La Baume
+V719401001,Le Gard [Gardon aval] à Remoulins - Pont neuf
+V719401002,Le Gard [Gardon aval] à Remoulins - CNR - amont seuil
+V719401003,Le Gard [Gardon aval] à Remoulins - Station étiage
+V719401101,Le Gard à Comps
+V720000501,Le Rhône à Beaucaire [Pont de Beaucaire]
+V730000202,Le Rhône à Fourques - CNR
+Y200001002,L'Hérault à Valleraugue
+Y200002701,L'Hérault à Saint-André-de-Majencoules
+Y201002001,L'Arre au Vigan [La Terrisse]
+Y203001001,La Vis à Blandas [Lafoux de la Vis]
+Y203002001,La Vis à Saint-Laurent-le-Minier
+Y203002002,La Vis à Saint-Laurent-le-Minier - Pont de la mine
+Y203002101,La Vis à Rogues - Madières
+Y210002101,Le Rieutord à Sumène
+Y340402001,Le Vidourle à Conqueyrac [Barrage de Conqueyrac]
+Y340403001,Le Vidourle à Saint-Hippolyte-du-Fort
+Y340501001,Le Rieu Massel à Pompignan [Barrage de Ceyrac]
+Y341400501,Le Vidourle à Quissac
+Y343501501,Le Crieulon à la Rouvière [Barrage de La Rouvière]
+Y344402001,Le Vidourle à Vic-le-Fesq
+Y345401001,Le Vidourle à Sommières [Mairie]
+Y346400501,Le Vidourle à Gallargues-le-Montueux [Autoroute A9]
+Y350000101,Le Buffalon à Rodilhan [Pont du lycée]
+Y350000201,Le Vieux Vistre à Rodilhan [Pont de Car]
+Y351400501,Le Vieux Vistre à Caissargues
+Y351402001,Le Vieux Vistre à Bernis
+Y351402101,Le Petit Vistre ou Vistre de la Fontaine à Nîmes
+Y351402201,Le Cadereau [cadereau d'ales] à Nîmes [cadereau d'ales]
+Y352501101,Le Vieux Vistre à Vestric-et-Candiac
+Y352501301,Le Rhony à Vergèze [A 9]
+Y353401001,Le Vieux Vistre [lit mineur] au Cailar
+Y354000101,[La Méditerranée] au Grau-du-Roi - Marégraphe de Port-Camargue
+O000001001,La Garonne à Fos [Bossost]
+O001004003,La Garonne à Saint-Béat - HE
+O001004004,La Garonne à Saint-Béat - Aval-HG
+O001531001,Le Maudan à Melles - [Fos]
+O004402001,La Pique à Bagnères-de-Luchon
+O005002001,La Garonne à Chaum
+O020002001,La Garonne [partielle] à Saint-Gaudens [Valentine]
+O023402001,Le Ger à Aspet [2]
+O023402101,Le ruisseau des Goutes à Milhas [MILHAS Laouech]
+O024431101,Le ruisseau de la Maure à Izaut-de-l'Hôtel - Mourou
+O029003001,La Garonne à Mancioux
+O029021002,Le canal de Saint-Martory à Mancioux
+O029531001,La Noue à Laffite-Toupière [Moulin Laffite]
+O029531201,Le canal de Saint-Martory à Saint-Martory [Prise en Garonne] - radar puit
+O029531202,Le canal de Saint-Martory à Saint-Martory [Prise en Garonne] - Sonde Rittmeyer
+O029531301,Le canal de Saint-Martory à Saint-Martory [Sonde aval]
+O054000201,L'Arbas à Arbas - Arbas
+O055401001,L'Arbas à Castelbiague [Pont de Prades]
+O059251001,Le Salat à Roquefort-sur-Garonne
+O060003001,La Garonne à Palaminy [Cazères]
+O079401001,L'Arize à Rieux-Volvestre [Volvestre]
+O080001001,La Garonne à Marquefave
+O090000101,Le canal de Franquevielle à Cardeilhac à Franquevielle
+O095000101,Le Louge au Fousseret
+O095000201,Le canal de Saint-Martory [Réalimentation Louge par siphon de Louge] au Fousseret
+O098401001,Le Louge à Muret
+O166291001,Le Grand Hers à Calmont
+O171251001,L'Ariège à Auterive
+O171253001,L'Ariège à Auterive - HE
+O187401001,La Lèze à Labarthe-sur-Lèze
+O193431001,Le Touch à Bérat
+O196431001,Le Touch à Plaisance-du-Touch
+O198431001,Le Touch à Toulouse [Saint-Martin-du-Touch]
+O200001001,La Garonne à Portet-sur-Garonne
+O200004001,La Garonne à Toulouse [Pont-Neuf] - Quai de Tounis
+O200008001,Le bras inférieur de la Garonne à Toulouse - St-Michel
+O200008101,[Exutoire du canal Peyramond se jettant dans la Louge via l'Aussau] à Muret - Exutoire canal Peyramond sans seuil (poutre)
+O200008201,[Exutoire du canal Cottes Goubard (Lou Verdai) réalimentant la Saudrune] à Villeneuve-Tolosane - Sonde LT-US
+O203401001,L'Aussonnelle à Seilh
+O205000101,La Galage [L'Aiguebelle] à Fonsorbes
+O205000201,Le Touch à Saint-Lys
+O207000201,Le canal de Saint-Martory [Dodin Fin canal St Martory se jette dans fossé menant à la rivière Touch] à Tournefeuille
+O207000401,L'Ousseau [Exutoire l'Ousseau se jette dans le Touch] à Tournefeuille - Station installée sur un pont
+O217251001,L'Hers à Baziège
+O221501001,La Saune à Quint-Fonsegrives
+O222251001,L'Hers à Toulouse [Pont de Périole]
+O232401002,Le Girou à Bourg-Saint-Bernard - 2
+O234401001,Le Girou à Cépet
+O240000201,[Prise de la Seygouade] à Villeneuve-Lécussan
+O243402001,La Gesse à Boulogne-sur-Gesse
+O243402101,La Gesse [Prise] à Villeneuve-Lécussan
+O245291001,La Save à l'Isle-en-Dodon
+O255000201,La Save à Larra
+O256292001,La Save à Grenade
+O282000101,Le ruisseau du Pest à Laréole [Cologne]
+O493101001,Le Tarn à Villemur-sur-Tarn
+O246293001,La Save à Lombez
+O246293201,La Save [CACG] à Lombez [CACG]
+O252291001,La Save à l'Isle-Jourdain
+O272000201,La Lauze à Sémézies-Cachan [Faget-Abbatial]
+O273501001,Le bras de la Gimone à Tirent-Pontéjac
+O274331001,La Gimone à Gimont
+O274331101,La Gimone [CACG] à Gimont [CACG]
+O605401001,L'Arrats à Aubiet
+O606401001,L'Arrats à Mauvezin
+O609000101,L'Arrats à Saint-Antoine
+O621251101,Le Gers à Panassac
+O622251001,Le Gers à Masseube
+O623501001,Le bras du Gers à Orbessan
+O625401001,Le Sousson à Saint-Jean-le-Comtal
+O630252001,Le Gers à Auch
+O631000101,Le Gers à Montestruc-sur-Gers
+O633251001,Le Gers à Lectoure
+O633251101,Le Gers à Fleurance
+O654294001,La Baïse à Mirande
+O655000101,La Baïse à Estipouy [Mouches]
+O656431001,La Baïse à Viozan
+O658000101,La Baïse à Lamazère
+O661291001,La Baïse à Saint-Jean-Poutge
+O661291101,La Baïse à Biran
+O665401001,L'Auloue à Castéra-Verduzan
+O666292001,La Baïse à Condom
+O671331001,La Gélise à Eauze
+O678431001,L'Auzoue à Montréal
+O680000201,L'Osse à Miélan [Castex]
+O682461001,L'Osse à Montesquiou
+O683000201,L'Osse à Roquebrune
+O686461001,L'Osse à Vic-Fezensac
+O687000201,L'Osse à Mouchan
+Q036001101,Le canal d'Alaric [Restitution] à Tieste-Uragnoux [Moulin des Charrutots - R-Alaric]
+Q036001201,Le canal de Cassagnac à Tieste-Uragnoux [Prise - Moulin des Charrutots (TC)]
+Q045001001,L'Adour à Cahuzac-sur-Adour
+Q045001101,Le canal d'Alaric [Restitution Adour] à Izotges
+Q061251001,L'Arros à Juillac
+Q061253001,L'Arros à Villecomtal-sur-Arros [RN21]
+Q064402001,Le Bouès à Miélan
+Q065000301,Le Bouès à Marciac
+Q066402002,Le Bouès à Beaumarchés
+Q067231001,L'Arros à Plaisance
+Q067231101,Le canal de Cassagnac à Plaisance [Restitution]
+Q068000101,Le Las à Tasque [R-CASSAGNAC (LAAS)]
+Q068000201,La Barne à Tasque [Peyrens]
+Q074002001,L'Adour à Riscle
+Q109402001,Le Lées à Lannux
+Q109402002,Le Lées à Bernède
+Q204251001,La Midouze [Le Midou] à Nogaro
+Q206000101,La Midouze [le Midour] à Laujuzan
+Q209000101,L'Izaute à Monlezun-d'Armagnac
+Q224291001,La Douze à Cazaubon
+O919001001,La Garonne à la Réole
+O919561701,[La Bassanne] à Savignac
+O919621001,[La Cadanne] à Pondaurat
+O937251002,Le Dropt à Loubens
+O942401001,Le Beuve à Lados
+O945001001,La Garonne à Langon
+O945001002,La Garonne à Langon - Airbus
+O956401001,Le Ciron à Préchac
+O957000101,Le Ciron à Villandraut
+O960001001,La Garonne à Cadillac
+O962053101,[Le ruisseau des Hountettes] à Illats [source du Lavoir]
+O965000101,Le Gat-Mort à Saint-Selve
+O972001001,La Garonne à Bordeaux
+O972001002,La Garonne à Bordeaux - Station GPMB
+O972001101,La Garonne à Bassens
+O978531001,La Jalle de Ludon au Pian-Médoc
+O979000101,La Garonne à Ambès - Le Marquis
+P555001001,La Dordogne à Pessac-sur-Dordogne
+P571501001,Le ruisseau de l'Engranne à Baigneaux
+P577001001,La Dordogne à Libourne
+P726151001,L'Isle à Abzac
+P817000101,L'Isle à Savignac-de-l'Isle
+P846251001,La Dronne à Coutras
+P846252001,La Dronne à Coutras [aval]
+P916000101,La Dordogne à Bayon-sur-Gironde - Bec d'Ambès
+P927401001,Le ruisseau de la Saye à Périssac
+S100001001,[La Gironde] au Verdon-sur-Mer
+S100001002,[La Gironde] au Verdon-sur-Mer - Station GPMB
+S100001003,[La Gironde] au Verdon-sur-Mer - Station SHOM
+S100001301,[La Gironde] à Jau-Dignac-et-Loirac - Richard - Station GPMB
+S102000101,[La Gironde] à Saint-Yzans-de-Médoc - Lamena - Station GPMB
+S110000201,[La Gironde] à Pauillac
+S110000202,[La Gironde] à Pauillac - Station GPMB
+S112000101,Le chenal du Milieu [La Gironde] à Cussac-Fort-Médoc - Médoc - Station GPMB
+S114000201,La Jalle de Castelnau à Castelnau-de-Médoc
+S120511101,La Craste Matouse à Hourtin - [191 - Craste de la Matouse]
+S121501201,à Lanton - [102]
+S121501301,Le canal de la Berle à Sainte-Hélène - [73 - Craste de la Levade]
+S121501401,Craste de l'Eyron à Saumos - [77 - Craste de l'Eyron]
+S121501501,Craste du Pont des Tables à Lacanau - [91]
+S121501601,Craste du Pont des Tables à Lacanau - [96 - Pont des Tables]
+S121501701,Le canal de la Berle à Lacanau - [98 - Canal de la Berle]
+S121501801,Craste Neuve au Temple - [101 - Craste Neuve]
+S121501901,Craste de Goupilleyre au Porge - [105 - Craste de la Goupilleyre]
+S121502001,Craste de Goupilleyre au Porge - [107]
+S121502101,Craste Dreyt à Lacanau - [137 - Craste Dreyt]
+S121502201,Le canal de Caupos à Lacanau - [139 - Canal de Caupos]
+S121502301,Le canal de Caupos à Lacanau - [141 - Canal de Caupos]
+S121502401,[Etang de la Levade] à Sainte-Hélène - [149 - Etang de la Levade]
+S121502501,Craste Castagnot à Saumos - [152 - Craste Castagnot]
+S121502601,[Lagune Saumos-sud] à Saumos - [160 - Lagune Saumos sud]
+S121502701,Craste Courtieux à Saumos - [161 - Craste Courtieux]
+S121502801,au Porge - [174 - Le Canal]
+S121502901,Craste de Goupilleyre au Porge - [181 - Craste de la Goupilleyre]
+S223561001,Le ruisseau de Bouron à Belin-Béliet [Moulin du Moine]
+S224251001,La Grande Leyre à Salles
+O400101101,L'Agout à Fraisse-sur-Agout [EDF]
+Y144502101,L'Espène à Olonzac
+Y160506001,La Cesse à Agel
+Y210001001,L'Hérault à Ganges
+Y210002001,L'Hérault à Laroque
+Y214001002,L'Hérault à Gignac - Aval
+Y214002001,L'Hérault à Saint-Guilhem-le-Désert [La Combe du Corps]
+Y221001001,La Lergue à Lodève
+Y223001001,Le Salagou à Clermont-l'Hérault [Mas Audran]
+Y230002001,L'Hérault à Aspiran
+Y233001002,L'Hérault à Montagnac
+Y234001101,La Peyne à Pézenas
+Y237001002,L'Hérault à Florensac
+Y237002001,L'Hérault à Agde - Ecluse de Prades
+Y250003001,L'Orb à Lunas [Cazilhac] - Cazilhac
+Y250003101,L'Orb à Avène
+Y251001001,L'Orb à la Tour-sur-Orb [Boubals]
+Y251002001,L'Orb à Bédarieux
+Y251003001,L'Orb à Bédarieux [Hérépian]
+Y251003201,Le Graveson à Lunas
+Y252001001,La Mare à Saint-Gervais-sur-Mare
+Y252002001,La Mare à Villemagne-l'Argentière - Le Pradal
+Y254001001,Le Jaur à Saint-Pons-de-Thomières
+Y254002001,Le Jaur à Olargues - Amont
+Y254002004,Le Jaur à Olargues - sncf
+Y255001002,L'Orb à Vieussan - Aval
+Y256002001,Le Vernazobre à Saint-Chinian
+Y256003001,L'Ilouvre [source] à Babeau-Bouldoux [Poussarou]
+Y257001001,L'Orb à Cessenon-sur-Orb
+Y257002001,L'Orb à Thézan-lès-Béziers [Pont Doumergue]
+Y257404001,L'Orb à Cessenon-sur-Orb [Base canoé de Réals] - Base canoé
+Y258001002,L'Orb à Béziers [Tabarka]
+Y258002002,L'Orb à Béziers [Béziers] - Pont neuf
+Y258051001,Le Lirou à Puisserguier
+Y303000101,[La Méditerranée] à Sète - Marégraphe au port de pêche
+Y314001001,La Mosson à Saint-Jean-de-Védas
+Y320001001,Le Lez [source] à Saint-Clément-de-Rivière
+Y320002001,Le Lez à Montferrier-sur-Lez [Lavalette]
+Y320003001,Le Lirou au Triadou [Pont du Lien]
+Y321002001,Le Lez à Lattes [3ème écluse]
+Y321002101,Le Lez à Montpellier - Trinquat
+Y331001001,Le Salaison à Mauguio
+J001401001,Le Nançon à Lécousse - Pont aux Anes
+J011000101,La Minette à Chauvigné
+J012151001,Le Couesnon à Romazy - La Mondrais
+J014401001,La Loisance à Saint-Ouen-la-Rouërie - Moulin Neuf
+J032301001,Le Guyoult à Epiniac - La Vieux-Ville
+J050000101,[La Manche] à Cancale - [Marégraphe] - Port de Cancale
+J062661001,Le Néal à Médréac - Pont D 220
+J701061001,La Vilaine à Vitré - Bas Pont
+J701063001,La Vilaine à Erbrée - Rideux [aval retenue Haute Vilaine]
+J701064001,La Vilaine à la Chapelle-Erbrée [retenue Haute Vilaine] - Hauteur
+J702401001,La Valière à Erbrée - Les Ravenières
+J702402001,La Valière à Vitré - Le Château des Rochers [aval retenue Valière]
+J702403001,La Valière à Erbrée [retenue Valière] - Hauteur
+J704301001,La Cantache à Taillis - La Basse Molière
+J705302001,La Cantache à Pocé-les-Bois [retenue Cantache] - Hauteur
+J705401001,La Pérouse à Montreuil-sous-Pérouse - Pont D 179
+J706062001,La Vilaine à Châteaubourg - Bel Air
+J708311001,La Veuvre [Le Chevré] à la Bouëxière - Le Drugeon
+J709063002,La Vilaine à Cesson-Sévigné - Pont Briand
+J709063004,La Vilaine à Cesson-Sévigné - Pont- Briand [étiage - échelle aval]
+J710301001,L'Ille à Montreuil-sur-Ille - Ecluse d'Ille
+J711401001,L'Illet à Chasné-sur-Illet - Le Bas Janson
+J712001001,Le canal d'Ille et Rance à Rennes - Ecluse de St Martin
+J712301001,Le canal d'Ille et Rance [L'Ille] à Saint-Grégoire - Ecluse de St Grégoire
+J721401001,La Flume à Pacé - Tixuë
+J731301001,Le Meu à Gaël - Le Pont Perrin
+J734401001,Le Garun à Iffendic - La Roncelinais
+J735301001,Le Meu à Montfort-sur-Meu - L'Abbaye
+J736422001,La Chèze à Plélan-le-Grand - L'Enlevrier
+J739301001,Le Meu à Bréal-sous-Montfort - Le Grand Pont
+J744301001,La Seiche à Amanlis - Pont D 37
+J747000101,L'Ise à Bourgbarré - Pont D 39
+J748301001,La Seiche à Bruz - Carcé
+J748301002,La Seiche à Pont-Péan - Pont D 837
+J750061001,La Vilaine à Guichen - Le Boël [aval écluse]
+J750061002,La Vilaine à Bourg-des-Comptes - La Bouëxière [amont écluse]
+J751301001,Le Canut [nord] à Maxent - La Botelerais
+J763301001,Le Semnon à Bain-de-Bretagne - Rochereuil
+J770061001,La Vilaine à Guipry - Ecluse de Guipry
+J770061002,La Vilaine à Guipry - Ecluse de Mâlon [amont]
+J790061002,La Vilaine à Langon - Droulin
+J797301001,Le Canut [sud] à Saint-Just - Pont D 54
+J860241001,L'Aff à Paimpont - Pont du Secret
+J900001001,Le canal de Nantes à Brest à Redon - Ecluse d'Oust
+J900061001,La Vilaine à Redon - Quai Duguay-Trouin
+K612311010,La Théols à Meunet-Planches
+K612311011,La Théols à Meunet-Planches - Station débitmétrique
+K615000201,La Vignole à Issoudun [Rouache]
+K617313001,La Théols à Sainte-Lizaigne - Pont RD34 - Station débitmétrique
+K617313002,La Théols à Sainte-Lizaigne - Pont RD 34
+K652000201,Le Fouzon à Dun-le-Poëlier
+K658000101,Le Nahon à Poulaines - Barzelle
+K702262001,L'Indre à Montgivray
+K704000101,L'Igneraie [Pont C6] à Nohant-Vic
+K714301001,La Vauvre à Montipouret - Moulin d'Angibault
+K720261001,L'Indre à Ardentes
+K720261002,L'Indre à Ardentes - Station débitmétrique
+K720751001,La Ringoire à Déols
+K720751002,La Ringoire à Déols - Station débitmétrique
+K721261010,L'Indre à Châteauroux
+K721751001,La Trégonce à Vineuil - Pont de Pierre
+K722261011,L'Indre à Buzançais - Pont voie ferrée
+K722261201,La Cité à Saint-Genou [L'Auneau]
+K731261001,L'Indre à Saint-Cyran-du-Jambot
+L453000201,La Creuse à Éguzon-Chantôme [EDF]
+L454071001,La Creuse à Gargilesse-Dampierre [Pont-Noir]
+L454072001,La Creuse à Argenton-sur-Creuse
+L462000201,Le Gourdon à Jeu-les-Bois [Pont D74]
+L465301001,La Bouzanne à Velles [Forges]
+L470071001,La Creuse à Saint-Gaultier
+L471071001,La Creuse à Ciron [Scoury]
+L473071001,La Creuse au Blanc
+L473072001,La Creuse à Tournon-Saint-Martin
+L551191001,L'Anglin à Prissac
+L552000101,à Sacierges-Saint-Martin - L'Abloux
+L553000201,La Sonne à Prissac [Chambert]
+L574191001,L'Anglin à Mérigny
+L611000201,L'Yoson à Mézières-en-Brenne [Pont D925]
+L612000301,La Claise à Martizay
+K481000201,L'Amasse à Saint-Règle
+K485300001,La Cisse à Nazelles-Négron
+K487312001,La Brenne à Villedômer - Bas Villaumay
+K488000301,[La Brenne] à Vernou-sur-Brenne
+K488000401,La Quintame à Auzouer-en-Touraine
+K490003010,La Loire à Tours - Pont Mirabeau
+K497000301,La Bresme à Saint-Étienne-de-Chigny
+K671091001,Le Cher à Tours - Pont Saint-Sauveur
+K683002001,La Loire à Langeais
+K732261001,L'Indre à Perrusson
+K732261601,Le Ballon et Vitray à Saint-Hippolyte
+K732261701,Le Beugon à Saint-Jean-Saint-Germain
+K732261801,Le Verneuil à Verneuil-sur-Indre
+K743303001,L'Indrois à Genillé
+K750261010,L'Indre à Cormery
+K751401001,L'Echandon à Saint-Branchs
+K752262011,L'Indre à Monts
+K754000601,Le Doigt à Cheillé
+L620201501,La Muanne à Chaumussay
+L621000201,La Claise au Grand-Pressigny [Pont de Fer]
+L621000301,L'Aigronne au Grand-Pressigny [Pont Saint Martin]
+L621000601,Le Brignon à Neuilly-le-Brignon
+L630071001,La Creuse à Descartes
+L631000301,L'Estrigueil à Ciran
+L632000201,L'Esves à Marcé-sur-Esves
+L700061001,La Vienne à Nouâtre
+L702000101,La Manse à Crouzilles [La Couture]
+L702000301,[La Manse] à Sainte-Maure-de-Touraine
+L710000401,La Veude à Chaveignes
+L711000601,La Mable à Champigny-sur-Veude
+L712301001,La Veude à Lémeré [Moulin de Coutureau]
+L720061001,La Vienne à Chinon
+L721000801,Le Négron à Marçay
+L900000701,[Le Changeon] à Gizeux [Moulin Foulon]
+L911000401,Le Lathan à Rillé
+M135401010,L'Escotais à Saint-Paterne-Racan
+M135401301,[Ruisseau de l'étang Gaillard] à Beaumont-la-Ronce
+M135401401,Le Long [Vandoeuvre] à Neuvy-le-Roi
+V150401002,Le Guiers à Saint-Laurent-du-Pont
+V151500001,Le Guiers Vif à Saint-Pierre-d'Entremont [Cirque de St-Même]
+V151501001,Le Guiers Vif à Saint-Christophe-sur-Guiers [Pont Saint-Martin]
+V172502001,L'Hien à Saint-Victor-de-Cessieu
+V173401001,La Bourbre à Bourgoin-Jallieu
+V173501001,L'Agny à Nivolas-Vermelle
+V177401001,La Bourbre à Tignieu-Jameyzieu
+V300911301,Le Rhône à Anthon
+V321501001,La Vesonne à Estrablin [Pont de Bourgeat]
+V322542002,La Véga à Pont-Évêque
+V333501001,La Sanne à Saint-Romain-de-Surieu
+V340431001,La Raille [Rival] à Brézins
+V342431001,La Raille [Rival] à Beaufort
+V360000301,La Galaure à Roybon
+W114402001,Le Bréda à Pontcharra
+W130001001,L'Isère à Barraux [La Gache] - EDF
+W130001002,L'Isère à Barraux [La Gache] - DREAL
+W131001001,L'Isère au Cheylas - EDF
+W131001002,L'Isère au Cheylas - DREAL
+W140000101,L'Isère à Crolles - DREAL
+W140000102,L'Isère à Crolles - SYMBHI
+W141001001,L'Isère à Grenoble [Bastille]
+W141001201,Le ruisseau du Doménon à Domène
+W141001203,Le ruisseau du Doménon à Domène - Station vitesse
+W222000101,Le Drac à Corps [EDF - Le Sautet]
+W231401001,La Bonne à Entraigues [Pont Battant]
+W233521001,La Roizonne à la Valette [La Rochette]
+W240501001,La Jonche à la Mure
+W271000101,La Romanche à Mizoën [EDF - Chambon amont]
+W273000102,Le Vénéon à Saint-Christophe-en-Oisans - DREAL
+W274601201,La Romanche au Bourg-d'Oisans [Pont de la Romanche] - DREAL
+W274601202,La Romanche au Bourg-d'Oisans [Pont de la Romanche] - Vitesse
+W274601301,La Romanche au Bourg-d'Oisans [Pont Rouge] - EDF
+W274601302,La Romanche au Bourg-d'Oisans [Pont Rouge] - DREAL
+W275000201,L'Eau d'Olle à Allemond [EDF - La Pernière - QNR]
+W275000301,L'Eau d'Olle à Allemond [La Pernière] - EDF
+W275000302,L'Eau d'Olle à Allemond [La Pernière] - DREAL
+W276721001,[La Duy] à Vizille
+W276721102,La Romanche à Livet-et-Gavet [Champeau] - DREAL
+W276721401,La Romanche à Notre-Dame-de-Mésage
+W280402001,La Gresse à Gresse-en-Vercors [Pont Jacquet]
+W283201001,Le Drac au Pont-de-Claix
+W283201101,Le Drac à Fontaine - EDF
+W283201102,Le Drac à Fontaine - DREAL
+W320001001,L'Isère à Saint-Gervais [Le Port] - EDF
+W320001002,L'Isère à Saint-Gervais [Le Port] - DREAL
+W320001201,L'Isère à Saint-Gervais [QNR Le Port - EDF]
+W331501001,Le Méaudret à Méaudre
+W333521201,La Vernaisson à Pont-en-Royans [EDF]
+W334000101,La Bourne à Saint-Just-de-Claix [Pont de Manne] - EDF
+W334000102,La Bourne à Saint-Just-de-Claix [Pont de Manne] - DREAL
+U254052001,L'Arne à Lavans-lès-Dole
+U254201001,Le Doubs à Rochefort-sur-Nenon
+U255201001,Le Doubs à Dole
+U256502001,La Clauge à la Loye
+U263401001,La Loue à Champagne-sur-Loue
+U263501001,La Furieuse à Salins-les-Bains
+U264000101,La Loue à Montbarrey [Les trois Ours]
+U265402001,La Loue [rivière] à Parcey
+U265503001,La Cuisance à Mesnay
+U265503101,La Cuisance à Vaudrey [Champs levés]
+U272201001,Le Doubs à Neublans-Abergement
+U340403001,La Seille à Voiteur [aval]
+U341502001,La Brenne à Sellières [les forges Baudin]
+U345501001,La Vallière à Lons-le-Saunier
+V201201001,L'Ain à Bourg-de-Sirod
+V202401001,La Saine à Foncine-le-Bas
+V203041001,La Saine à Syam
+V203501001,La Lemme à Fort-du-Plasne [Pont-de-Lemme]
+V211401001,L'Angillon à Champagnole
+V220601001,Le Hérisson à Doucier
+V220611101,L'Ain à Marigny [QNR EDF - Chalain]
+V231000201,L'Ain à Pont-de-Poitte
+V232201001,L'Ain à Cernon [Vouglans - EDF]
+V232201201,L'Ain à Cernon [QNR Vouglans - EDF]
+V241403001,La Bienne à Morez
+V242056001,Le Tacon à Saint-Claude
+V244402001,La Bienne à Jeurre
+V261912101,Le Valouson à Marigna-sur-Valouse
+Q110001002,L'Adour à Aire-sur-l'Adour
+Q110501001,Le ruisseau des Arribauts à Aire-sur-l'Adour
+Q116001001,L'Adour à Grenade-sur-l'Adour
+Q122402002,Le Bahus à Classun
+Q124001001,L'Adour à Saint-Sever
+Q138571001,Le ruisseau de Laudon à Audignon
+Q142001001,L'Adour à Onard - Audon
+Q215251001,La Midouze [Le Midou] à Villeneuve-de-Marsan
+Q218000101,Le Ludon à Bougue
+Q219252003,La Midouze [Le Midou] à Mont-de-Marsan
+Q229291001,La Douze à Roquefort
+Q236401001,L'Estampon à Arue
+Q240291002,La Douze à Roquefort [Petit Coutchon] - Petit Coutchon
+Q242431001,La Gouaneyre à Arue [Téchené]
+Q250332001,La Midouze à Mont-de-Marsan
+Q254431001,Le ruisseau de l'Estrigon à Cère
+Q258461001,Le ruisseau de Geloux à Saint-Martin-d'Oney
+Q259331001,La Midouze à Campagne
+Q265401001,Le Bès à Saint-Yaguen
+Q266311001,La Midouze à Tartas
+Q303001001,L'Adour à Pontonx-sur-l'Adour
+Q305401001,Le Louts à Hagetmau
+Q308040001,Le Louts à Gamarde-les-Bains
+Q312001002,L'Adour à Saint-Vincent-de-Paul
+Q312003001,L'Adour à Dax [Pont des arènes]
+Q322401001,Le Luy à Monget
+Q346401001,Le Luy à Saint-Pandelon
+Q745101001,Le Gave de Pau [Les Gaves réunis] à Peyrehorade
+Q836001001,L'Adour à Saint-Laurent-de-Gosse [Urt]
+S204000101,La Grande Leyre à Pissos
+S213401001,La Petite Leyre à Belhade
+S222461001,Le ruisseau de Castera à Moustey [Biganon]
+S312431001,Le ruisseau des Forges à Parentis-en-Born
+S321401001,Le ruisseau de Canteloup à Saint-Paul-en-Born
+S411401101,Le ruisseau de la Palue à Saint-Michel-Escalus
+S421401001,Le courant de Soustons à Magescq
+K447001001,La Loire à Blois
+K457221001,Le Beuvron à Montrieux-en-Sologne - Bois Olympe
+K467000101,Le Beuvron à Cellettes - Clénord
+K467000103,Le Beuvron à Cellettes - Clénord - Station débitmétrique
+K479301001,Le Cosson à Chailles
+K480001001,La Loire à Onzain - Pont de Chaumont
+K484000102,La Cisse à Coulanges - Moulin Jouan
+K620090010,Le Cher à Mennetou-sur-Cher
+K622091003,Le Cher à Selles-sur-Cher - Pont D 956A
+K640252001,La Sauldre à Salbris - Valaudran
+K645301001,La Rère à Theillay - La Loge
+K648251001,La Sauldre à Pruniers-en-Sologne
+K650091001,Le Cher à Châtillon-sur-Cher
+K659302001,Le Fouzon à Meusnes - Le Gué au Loup
+M114161010,Le Loir à Vendôme
+M115161010,Le Loir à Villavard
+M123304010,La Braye à Sargé-sur-Braye
+K054301201,L'Andrable à Apinac - Les Terrasses
+K056753001,La Semène à Jonzieux
+K056831001,[L'Ecotay] à Marlhes
+K058000101,L'Ondaine à Unieux - Le Pertuiset
+K060001001,La Loire à Saint-Just-Saint-Rambert - Barrage de Grangent
+K061401001,Le Furan à Andrézieux-Bouthéon
+K061401002,Le Furan à Andrézieux-Bouthéon - Pont de l'Avenue de l'Europe
+K061403001,Le Furan à Saint-Étienne - Gouffre d'Enfer
+K062451002,Le Bonson à Saint-Marcellin-en-Forez - Le Bled - Pont
+K064311001,La Mare à Saint-Marcellin-en-Forez - Vérines
+K067331001,La Coise à Saint-Médard-en-Forez - Moulin Brûlé
+K069001001,La Loire à Montrond-les-Bains
+K070001020,La Loire à Feurs - Amont
+K070451001,La Toranche à Saint-Cyr-les-Vignes
+K072451001,Le Gourtarou [Chanasson] à Civens [La rivière]
+K073322001,Le Lignon à Chalmazel - Chevelières
+K074401001,L'Anzon à Débats-Rivière-d'Orpra - Cotes
+K075321001,Le Lignon à Boën
+K076331201,Le Vizezy à Poncins - Précivet
+K077322001,Le Lignon à Poncins - Le Bourg
+K079001010,La Loire à Balbigny
+K081302001,L'Aix à Saint-Germain-Laval
+K091001010,La Loire à Villerest - Aval
+K091001011,La Loire à Villerest - Pont de Villerest
+K091001012,La Loire à Villerest - Sortie barrage
+K091003010,La Loire à Commelle-Vernay - Barrage de Villerest
+K097401001,Le Gand à Neaux
+K098301101,Le Rhins à Saint-Vincent-de-Boisset - Pont Maréchal
+K106301002,Le Sornin à Pouilly-sous-Charlieu
+K108402001,La Teyssonne à la Bénisson-Dieu
+V311401001,Le Gier à Rive-de-Gier
+V331501002,La Valencize à Chavanay - Aval
+K004551001,La Méjeanne à Saint-Arcons-de-Barges - Montbel
+K010002010,La Loire à Goudet
+K010002011,La Loire à Goudet - Station débitmétrique
+K011403001,La Gazeille à Chadron - Colempce Bas
+K013401001,La Laussonne à Lantriac - Pont de Moulines
+K021401001,La Gagne à Saint-Germain-Laprade - Les Pandraux
+K024301001,La Borne à Saint-Paulien - La Rochelambert
+K025302002,La Borne à Aiguilhe
+K025801001,Le Dolaizon à Vals-près-le-Puy - Les Vigneaux
+K026001002,La Loire à Chadrac - Pont du Monteil
+K027401002,La Sumène à Blavozy - Le Bourg
+K033301001,L'Arzon à Vorey - Pont Eytravazet
+K034000101,La Loire à Vorey - Le Chambon de Vorey
+K035631001,Le Ramel à Beaux - Malataverne
+K040301001,Le Lignon au Chambon-sur-Lignon
+K040302002,Le Lignon aux Vastres - Pont Marie
+K041031001,Le Lignon à Tence - Seuil levée Morin
+K041031002,Le Lignon à Tence - Seuil levée Morin - Station débitmétrique
+K043302010,Le Lignon à Saint-Jeures - Barrage de la Valette
+K043303001,Le Lignon à Grazac - Barrage de la Chapelette
+K043651101,Le Lignon à Yssingeaux [EDF - Versilhac-la-Valette - QNR]
+K045401001,La Dunières à Sainte-Sigolène - Vaubarlet
+K045402001,La Dunières à Dunières
+K046301001,Le Lignon à Monistrol-sur-Loire [Pont de Lignon] - Station débitmétrique
+K046301002,Le Lignon à Monistrol-sur-Loire [Pont de Lignon] - Station Limnimétrique
+K053000101,L'Ance à Saint-Julien-d'Ance [Laprat - EDF]
+K053000102,L'Ance à Saint-Julien-d'Ance [Laprat - EDF]
+K054301001,L'Ance à Beauzac - Bérard
+K054301002,L'Ance à Beauzac - Station débitmétrique
+K055001010,La Loire à Bas-en-Basset
+K055001011,La Loire à Bas-en-Basset - Station débitmétrique
+K056752001,La Semène à Saint-Didier-en-Velay - Le Crouzet
+K209081001,L'Allier à Saint-Haon - Le Nouveau Monde
+K221084201,L'Allier à Monistrol-d'Allier [EDF - QNR]
+K221084301,L'Allier à Alleyras [Pont D33]
+K221084401,Le Gourlong à Alleyras [Pont D40]
+K222302001,L'Ance [du sud] à Saint-Préjet-d'Allier [Chambonnet]
+K222303001,L'Ance [du sud] à Saint-Préjet-d'Allier - Ancienne
+K222303002,L'Ance [du sud] à Saint-Préjet-d'Allier
+K222601001,Le Panis à Saint-Préjet-d'Allier [La Romaine]
+K223402001,La Virlange à Saugues [Freycenet]
+K223403201,L'Ance à Monistrol-d'Allier [Pouzas EDF - QNR]
+K224082001,L'Allier à Prades - Pont amont Seuges
+K225401001,La Seuge à Saugues
+K228311002,La Desges à Chanteuges - Bourg Chanteuges
+K230081001,L'Allier à Langeac
+K230081002,L'Allier à Langeac - Historique
+K231621001,La Cronce à Aubazat
+K233081001,L'Allier à Vieille-Brioude
+K233551001,Le Ceroux à Saint-Just-près-Brioude [Le Mas]
+K236301001,La Senouire à Paulhaguet [La Fridière]
+K236302002,La Senouire à Salzuit - Pont RD 641
+K237311001,Le Doulon à Saint-Vert
+K238311001,Le Doulon à Domeyrat
+K243081001,L'Allier à Auzon - Pont d'Auzon
+K256000101,La Sianne à Blesle [La Bessière] - La Bessière
+K259301301,L'Alagnon à Lempdes-sur-Allagnon [Passerelle]
+K259301401,[Béal] à Lempdes-sur-Allagnon [Bief]
+J780302010,La Chère à Châteaubriant [Béré]
+J782401001,L'Aron à Mouais - La Bernardais
+J783301020,La Chère à Derval - Pont RN 137
+J783301030,La Chère à Derval - Aval pont RN 137
+J793301010,Le Don à Treffieux [Le Bourg]
+J795301010,Le Don à Conquereuil - Les Rivières
+J795301020,Le Don à Guémené-Penfao - Juzet
+J798061001,La Vilaine à Avessac - Painfaut
+J910000101,L'Isac à Saffré - La Noe Peguille
+M612001010,La Loire à Ancenis
+M612001020,La Loire à Oudon
+M620401010,Le Hâvre à Mésanger [Pont-Esnault]
+M622001010,La Loire à Mauves-sur-Loire
+M622001020,La Loire à Thouaré-sur-Loire
+M622001030,La Loire à Sainte-Luce-sur-Loire - Pont de Bellevue
+M633302010,L'Erdre à Nort-sur-Erdre [Moulin de Vault]
+M635702301,Le Gesvres à Treillières
+M730242010,La Sèvre Nantaise à Clisson - La Moine à Clisson
+M730242011,La Sèvre Nantaise à Clisson - Pont de Nid d'Oie
+M745301010,La Maine à Remouillé
+M750242010,La Sèvre Nantaise à Vertou
+M800001010,La Loire à Nantes - Pont Anne de Bretagne
+M800001021,La Loire à Nantes - Salorges
+M800002001,La Loire [totale] à Nantes [Roche Maurice] - Usine brulée
+M800002201,La Loire au Pellerin
+M814401010,La Logne à Saint-Colomban [La Roussière]
+M814402010,La Logne à Legé [Le Paradis]
+M820502010,L'Ognon aux Sorinières [Villeneuve]
+M840000101,La Loire à Cordemais
+M841000101,La Loire à Paimbœuf
+M842001201,La Loire à Montoir-de-Bretagne
+N011303010,Le Falleron à Saint-Étienne-de-Mer-Morte
+F410000601,Le Loing à Montbouy
+F411000101,L'Aveyron à la Chapelle-sur-Aveyron
+F416000101,L'Ouanne à Château-Renard
+F416000201,L'Ouanne à Gy-les-Nonains
+F420000101,Le Loing à Montargis - Pont de Tivoli
+F422000201,Le Loing à Châlette-sur-Loing [Gué de Lancy]
+F428000101,La Cléry à Ferrières-en-Gâtinais - Les Collumeaux
+H320331001,Le Puiseaux à Saint-Hilaire-sur-Puiseaux
+H332201001,La Bezonde à Pannes
+H352201010,Le Fusain à Courtempierre - Station débitmétrique
+H352201011,Le Fusain à Courtempierre
+K418001010,La Loire à Gien - Vieux Pont
+K418001020,La Loire à Gien - Le Colombier
+K418001022,La Loire à Gien - Nouveau Pont
+K418001201,La Loire à Gien [débit complet après Villerest] - débit complet après Villerest
+K419000201,La Notreure à Autry-le-Châtel
+K428000301,La Bonnée à Saint-Martin-d'Abbat
+K428000302,La Bonnée à Saint-Martin-d'Abbat - station débitmétrique
+K435001010,La Loire à Orléans - Pont Royal
+K435001020,La Loire à Orléans - Quai du Roi
+K437311001,La Dhuy à Sandillon - La ferme de Louy
+K439000101,Le Loiret à Olivet - Pont Maréchal Leclerc
+K441409001,La Mauve de Détourbe à Meung-sur-Loire
+K442701001,Le Lien à Tavers
+K444301001,L'Ardoux à Lailly-en-Val
+K473000101,Le Cosson à la Ferté-Saint-Aubin
+O612501001,La Petite Barguelonne à Montcuq
+O795151001,Le Lot à Capdenac
+O797151001,Le Lot à Faycelles
+O811352001,Le Célé à Figeac
+O811353001,Le Célé à Bagnac-sur-Célé
+O813352001,Le Célé à Orniac [Les Amis du Célé]
+O819000201,Le Girou à Cénevières [Source de Trou madame] - Ruisseau du Girou à Cénevières (source de Trou madame)
+O820151001,Le Lot à Bouziès
+O823153001,Le Lot à Cahors - Lacombe
+O823153002,Le Lot à Cahors - HE
+O825501001,Le Vert à Castelfranc [Les Campagnes]
+O828000201,Le Veyre à Bagnac-sur-Célé [Lafage] - Le Veyre à Bagnac (Lafage)
+O831000201,Le ruisseau de Planioles à Planioles
+O831000301,Le ruisseau de Planioles à Figeac
+O834402001,La Thèze à Saint-Martin-le-Redon - Boussac
+O845000401,Le Vert à Saint-Médard [Source du Martinet]
+O845000501,Le Vert à Saint-Médard - Source de Font Vincent
+P194291001,La Cère à Gagnac-sur-Cère [Brugale]
+P196291001,La Cère à Biars-sur-Cère [Bretenoux]
+P203000101,Le Tolerme à Sénaillac-Latronquière [Station AEP] - Le tolerme à Sénaillac (Captage AEP)
+P205401001,La Bave à Frayssinhes [Le Martinet]
+P206000101,La Dordogne à Calviac [EDF - Carennac]
+P207002001,La Dordogne à Carennac
+P207002002,La Dordogne à Carennac - Ile de la Prade
+P222000101,L'Ouysse à Thémines - Themines
+P222000201,[Source de Fontbelle] à Calès - L'ouysse à Calès (Source de Fontbelle)
+P230001001,La Dordogne à Lanzac - Souillac
+P231502001,La Borrèze à Lachapelle-Auzac [Lamothe]
+P231502301,Le ruisseau de Blagour à Lachapelle-Auzac - Le Blagour
+P231502401,Le ruisseau du Boulet à Lachapelle-Auzac - Le Boulet
+P240401001,Le Céou à Frayssinet [Pont de Rhodes]
+P245431001,Le ruisseau de l'Ourajoux à Salviac [Lafuste]
+P245431101,Le ruisseau de l'Ourajoux à Gindou - Rigal_Bas
+P246401001,Le Céou à Léobard [Jardel]
+O615000301,L'Auroue à Caudecoste
+O619461001,La Séoune à Saint-Pierre-de-Clairac
+O637000201,Le Gers à Layrac
+O640001001,La Garonne à Agen
+O644501001,La Masse de Prayssas à Frégimont
+O648000101,L'Auvignon à Calignac
+O669292001,La Baïse à Nérac - HE
+O669292002,La Baïse à Nérac - Digue
+O669292003,La Baïse à Nérac - (digue+moulin+éclusées)
+O679333001,La Gélise à Mézin
+O689000101,L'Osse à Andiran
+O691292001,La Baïse à Lavardac
+O839431001,La Lémance à Cuzorn
+O848153003,Le Lot à Villeneuve-sur-Lot
+O858401001,La Lède à Casseneuil
+O866151002,Le Lot à Aiguillon - Ville
+O900001002,La Garonne à Tonneins
+O903401001,Le Tolzac à Varès
+O909001001,La Garonne à Marmande
+O913401001,L'Avance à Montpouillan
+K206401002,Le Langouyrou à Langogne - Passerelle bois
+K207081010,L'Allier à Langogne
+K207081011,L'Allier à Langogne - Station débitmétrique
+K207502001,Le Donozau à Naussac - Aval
+K207503001,Le Donozau à Naussac - Barrage de Naussac
+K207503101,Le Donozau à Langogne [Pont de Bonjour]
+K208082001,L'Allier à Naussac - La Valette
+K212301002,Le Chapeauroux à Pierrefiche - Pont de Baves
+K213401001,La Clamouse à Chastanier
+K216311001,Le Grandrieu à Grandrieu
+K217302001,Le Chapeauroux à Saint-Bonnet-de-Montauroux
+O300671001,Le ruisseau de Goudesche à Saint-Maurice-de-Ventalon [La Cépède]
+O301101001,Le Tarn au Pont-de-Montvert [Fontchalettes]
+O301552001,Le Rieumalet au Pont-de-Montvert
+O301552102,Le Tarn au Pont-de-Montvert [Ancien] - Corrigé
+O303101001,Le Tarn à Bédouès [Cocures]
+O303521001,Le Briançon aux Bondons [Cocures]
+O306401001,Le Tarnon à Florac
+O306403001,Le Tarnon à Florac - HE
+O306404001,Le Tarnon à Vebron
+O308432001,La Mimente à Florac
+O308435001,La Mimente à Cassagnas
+O312102002,Le Tarn à Montbrun - Pont de Montbrun
+O313000101,Le Tarn aux Vignes [Source de Beldoire] - Station de Beldoire
+O319401001,La Jonte à Meyrueis [aval]
+O319401002,La Jonte à Meyrueis [aval] - HE
+O700151002,Le Lot à Bagnols-les-Bains
+O701581001,Le ruisseau de l'Esclancide à Pelouse [Les Salces]
+O702153002,Le Lot à Mende - Aval
+O702153003,Le Lot à Mende - HE
+O703501001,Le Bramont à Saint-Bauzile [Les Fonts]
+O704000101,Le Lot à Balsièges [EDF - Bramonas]
+O708501001,Le ruisseau du Coulagnet à Marvejols
+O709401002,La Colagne au Monastier-Pin-Moriès - Échelle DREAL 31
+O710060101,L'Urugne à la Canourgue
+O710151001,Le Lot à Banassac [La Mothe]
+O711050201,Le Doulou à Saint-Pierre-de-Nogaret [Ferrière]
+O711502101,La Colagne à Ribennes [EDF - Ganivet]
+O720251001,La Truyère à Serverette
+O720251201,Le ruisseau de Saint-Saturnin à Banassac - Station de Roquaizou
+O723401001,La Rimeize à Rimeize
+O723403001,La Rimeize à Fau-de-Peyre [Vareilles]
+O724501001,Le Chapouillet à Rimeize [Chassignoles]
+O726501001,La Limagnole à Fontans [Saint-Alban]
+O737000201,La Truyère au Malzieu-Ville [QNR EDF - Le Soulier]
+O741040101,Le Bès à Marchastel [Pont de Marchastel]
+V504661001,L'Altier à Altier [La Goulette]
+V504661002,L'Altier à Altier [La Goulette] - EDF
+V711501002,Le Gardon de Sainte-Croix à Gabriac - Pont Campéménard
+L800001020,La Loire à Saumur
+L800001030,La Loire à Montsoreau
+L840211001,Le Thouet à Montreuil-Bellay - Pont Napoléon
+L840211002,Le Thouet à Montreuil-Bellay - Montreuil St Eloi
+L860211002,Le Thouet à Chacé - Pont de Chacé
+L870001010,La Loire aux Ponts-de-Cé
+L870001020,La Loire à Gennes
+L870001030,La Loire à Saint-Mathurin-sur-Loire
+L911000602,Le Lathan à Vernantes - Moulin Guet active depuis 2012
+L911000701,Le Lathan à Longué-Jumelles [La Moutonnerie]
+L921000401,Le Couasnon à Beaufort-en-Vallée
+L922000102,L'Authion aux Ponts-de-Cé [Pont Bourguignon] - Station Ultraflux
+L922000103,L'Authion aux Ponts-de-Cé [Pont Bourguignon] - Station CM1200
+M072061010,La Sarthe à Châteauneuf-sur-Sarthe
+M073061010,La Sarthe à Cheffes
+M153161010,Le Loir à Durtal
+M156161010,Le Loir à Seiches-sur-le-Loir
+M363091010,La Mayenne à Chambellay
+M377181010,L'Oudon à Châtelais [Marcillé]
+M382301010,La Verzée au Bourg-d'Iré [La Pommeraye]
+M383401010,L'Argos à Sainte-Gemmes-d'Andigné - Basse Rivière
+M385181010,L'Oudon à Segré [écluse de Maingué]
+M385181011,L'Oudon à Segré [écluse de Maingué] - station écourues
+M410191010,La Maine à Angers - Pont de Verdun
+M410191040,La Maine à Angers - Haute Chaîne
+M410191050,La Maine à Angers - Basse Chaîne
+M411401201,Le Brionneau à la Meignanne - Le Brionneau
+M500001020,La Loire à la Possonnière
+M501421020,L'Aubance à Soulaines-sur-Aubance - Charuau
+M510201010,Le Layon à Saint-Georges-sur-Layon
+M512431010,Le Lys à Aubigné-sur-Layon [La Guimardière]
+M521401020,L'Hyrôme à Saint-Lambert-du-Lattay
+M522201010,Le Layon à Saint-Lambert-du-Lattay - Pont de Bézigon
+M530001010,La Loire à Montjean-sur-Loire
+M530001020,La Loire à Chalonnes-sur-Loire
+M530001030,La Loire à Ingrandes
+M530001040,La Loire à Saint-Florent-le-Vieil
+M601301010,L'Evre à la Chapelle-Saint-Florent - Pont Dalaine
+M601303010,L'Evre à Beaupréau [Moulin de la Gobinière]
+M601401010,Le Beuvron à Andrezé [Tuvache]
+M632301010,L'Erdre à Candé - La Grée
+M720302010,La Moine à Cholet [Pont RN249]
+M721301010,La Moine à Roussay [Clopin]
+M721302010,La Moine à Saint-Crespin-sur-Moine
+M731401010,La Sanguèze à Tillières [Moulin Pichon]
+I501361701,La Douve à Sottevast
+I506000201,La Scye à Bricquebec [Le Valdécie - RD 50]
+I512102001,La Vire à Tessy-sur-Vire
+I522101001,La Vire à Saint-Lô [Pont de Gourfaleur]
+I524301001,Le bras de l'Elle à Saint-Jean-de-Savigny
+I621101001,La Douve à Saint-Sauveur-le-Vicomte
+I650201001,La Taute à Saint-Sauveur-Lendelin
+I692301001,La Saire à Anneville-en-Saire
+I694301001,Le Trottebec à la Glacerie [Le Val Joli]
+I694311001,La Divette à Cherbourg-Octeville
+I696401001,Le Petit Douet à Héauville
+I698301001,L'Ay à Ancteville
+I702102001,La Sienne à Sainte-Cécile [2]
+I710202001,L'Airou au Mesnil-Rogues
+I711101001,La Sienne à Cérences
+I722202001,La Soulles à Coutances
+I791361001,Le Thar à Jullouville
+I800201001,La Sée à Chérencé-le-Roussel
+I803381001,La Braize à Lolif
+I807000101,La Sée à Brécey [La Grattemondière]
+I903101001,La Sélune à Notre-Dame-du-Touchet
+I922102001,La Sélune à Saint-Aubin-de-Terregatte [Signy]
+I923301001,Le Beuvron à Saint-Senier-de-Beuvron
+I925301001,L'Oir à Ducey
+I925351101,Le Beuvron à Saint-James [Moulin du Prieur]
+I928000101,L'Oir à Ducey [Les Chéris]
+F200000101,La Seine à Conflans-sur-Seine - Barrage (amont) [VNF]
+F200000102,La Seine à Conflans-sur-Seine - Barrage (aval) [VNF]
+F200000201,Le canal de dérivation de Bernières à Conflans à Conflans-sur-Seine - VNF
+F606000101,La Marne à Sogny-aux-Moulins
+F613000102,La Marne à Reuil - Station débitmétrique
+F624000201,Le Petit Morin à Montmirail - Amont
+H155000101,La Vesle au Breuil
+H160301001,La Superbe à Saint-Saturnin
+H509101002,La Marne à Frignicourt - après création grand lac
+H514262001,La Chée à Bettancourt-la-Longue
+H515301001,La Vière à Val-de-Vière
+H517201001,La Saulx à Vitry-en-Perthois
+H517311001,La Bruxenelle à Brusson
+H520100501,La Marne à la Chaussée-sur-Marne
+H520101003,La Marne à Châlons-en-Champagne
+H520101004,La Marne à Châlons-en-Champagne - Observateur
+H520421001,La Coole à Écury-sur-Coole
+H521331001,La Soude à Soudron
+H522431001,Le Cubry à Pierry
+H523102501,La Marne à Damery
+H524301001,La Semoigne à Verneuil
+H541203001,Le Petit Morin au Thoult-Trosnay
+H602102001,L'Aisne à Verrières
+H602321001,L'Ante à Châtrices
+H603321001,L'Auve à Dommartin-Dampierre
+H631303002,La Suippe à Selles
+H640201001,La Vesle à Bouy
+H640203001,La Vesle à Puisieulx
+H641201001,La Vesle à Saint-Brice-Courcelles
+H641202001,La Vesle à Châlons-sur-Vesle
+H641321001,Le Rouillat à Villers-aux-Nœuds
+H642301001,L'Ardre à Fismes
+H642302001,L'Ardre à Faverolles-et-Coëmy
+B022001001,La Meuse à Goncourt
+B105201001,Le Mouzon à Sommerécourt
+F521000201,Le Rongeant à Suzannecourt
+H100101001,L'Aube à Auberive
+H110200901,L'Aujon à Saint-Loup-sur-Aujon
+H112202001,L'Aujon à Maranville
+H130201001,La Voire à Droyes [Gervilliers]
+H501102001,La Marne à Marnay-sur-Marne
+H502301001,La Traire à Louvières
+H503101001,La Marne à Chaumont [Reclancourt]
+H503102001,La Marne à Condes
+H503331001,La Suize à Villiers-sur-Suize
+H504201001,Le Rognon à Bourdons-sur-Rognon [Lacrète]
+H505321001,La Manoise à Humberville
+H506201001,Le Rognon à Doulaincourt-Saucourt
+H507101002,La Marne à Saint-Dizier - Hôpital
+H507102001,La Marne à Joinville
+H507104001,La Marne à Chamouilley
+H507105001,La Marne à Mussey-sur-Marne
+H508305001,La Blaise à Louvemont [Pont-Varin]
+H508305002,La Blaise à Louvemont [Pont-Varin] - Station IIBRBS
+H508307001,La Blaise à Daillancourt
+U004500401,L'Apance [amont] à Bourbonne-les-Bains
+U004500501,L'Apance à Bourbonne-les-Bains [Source]
+U020400101,L'Amance à Maizières-sur-Amance
+I912201002,L'Airon à Landivy
+J700061001,La Vilaine à Bourgon - Pont D 106
+M006435101,Le Sarthon à Ravigny [Les Vauguiberts]
+M010401010,L'Ornette à Saint-Pierre-des-Nids [Larray]
+M010561010,Le Terrançon à Saint-Pierre-des-Nids [Pont des Terriers]
+M061301010,L'Erve à Voutré [La Crousille]
+M065311010,La Vaige à Bouessay
+M067401010,La Taude à Saint-Brice
+M068061010,La Sarthe à Saint-Denis-d'Anjou [Beffes]
+M301401010,L'Aisne à Javron-les-Chapelles [Les Chapelles]
+M302091010,La Mayenne à Madré
+M306091010,La Mayenne à Ambrières-les-Vallées [Cigné]
+M321301010,La Colmont à Lesbois [La Bigottière] - La Bigottière
+M322301010,La Colmont à Oisseau
+M323091020,La Mayenne à Mayenne
+M323092010,La Mayenne à Saint-Fraimbault-de-Prières
+M323092011,La Mayenne à Saint-Fraimbault-de-Prières - Aval barrage
+M325311010,L'Aron à Moulay
+M331301010,L'Ernée à Ernée
+M332301010,L'Ernée à Andouillé [Les Vaugeois]
+M333091010,La Mayenne à Laval
+M334091010,La Mayenne à l'Huisserie [Bonne]
+M340301010,La Jouanne à Neau [La Touche]
+M342301010,La Jouanne à Forcé
+M350401010,Le Vicoin à Nuillé-sur-Vicoin
+M351401010,L'Ouette à Entrammes
+M360091010,La Mayenne à Château-Gontier
+M371181010,L'Oudon à Cossé-le-Vivien
+M373181010,L'Oudon à Craon
+M377401010,Le Chéran à la Boissière
+A511061001,La Moselle à Tonnoy
+A511061002,La Moselle à Velle-sur-Moselle
+A542201101,Le Brenon à Houdreville
+A543101001,Le Madon à Pulligny
+A550061001,La Moselle à Pont-Saint-Vincent
+A573061001,La Moselle à Toul
+A631101001,La Meurthe à Baccarat - aval
+A631101003,La Meurthe à Baccarat - amont
+A634101001,La Meurthe à Lunéville - Aval
+A634101002,La Meurthe à Lunéville - Amont
+A643112001,La Vezouze à Blâmont - aval
+A643112002,La Vezouze à Blâmont - amont
+A648000101,La Blette à Montigny
+A654111001,La Vezouze à Thiébauménil
+A657111001,La Vezouze à Lunéville
+A673122001,La Mortagne à Gerbéviller
+A676101001,La Meurthe à Damelevières
+A686000101,Le Sanon à Crévic
+A687201001,Le Sanon à Dombasle-sur-Meurthe
+A692101001,La Meurthe à Laneuveville-devant-Nancy [la Madeleine]
+A694102001,La Meurthe à Malzéville - débitmètre
+A694102004,La Meurthe à Malzéville - Limni
+A701061001,La Moselle à Custines
+A712201001,L'Esch à Jezainville
+A735201001,Le Rupt de Mad à Onville
+A782101001,La Seille à Nomeny
+A807101001,L'Orne à Boncourt
+A812020101,L'Yron à Jarny [Droitaumont]
+A812200001,L'Yron à Hannonville-Suzémont
+A820101001,L'Orne à Jarny [Labry]
+A830020101,Le Woigot à Tucquegnieux
+A831030001,La Vallée à Mance
+A832201001,Le Woigot à Briey
+B204201001,L'Aroffe à Vannes-le-Châtel
+B400101001,La Chiers à Longlaville
+B402101001,La Chiers à Longwy
+B403101001,La Chiers à Montigny-sur-Chiers
+B413201001,La Crusnes à Pierrepont
+B435201001,L'Othain à Othe
+A800621001,Le Ru de Vaux à Morgemoulin
+A802101001,L'Orne à Étain
+B134001001,La Meuse à Vaucouleurs [Chalaines]
+B134001002,La Meuse à Vaucouleurs [Chalaines] - amont
+B210000101,La Meuse à Troussey
+B213001001,La Meuse à Commercy
+B222001001,La Meuse à Saint-Mihiel
+B301001001,La Meuse à Belleville-sur-Meuse
+B301001002,La Meuse à Verdun - Pont Chaussée
+B315002001,La Meuse à Stenay
+B422431001,Le Ton à Écouviez
+B453000101,Le Loison à Vittarville
+B457201001,Le Loison à Han-lès-Juvigny
+B460101001,La Chiers à Chauvency-le-Château
+H113000201,La Vadelaincourt aux Souhesmes-Rampont
+H113000301,La Cousances à Clermont-en-Argonne - Jubécourt
+H510203001,La Saulx à Mognéville
+H510204001,La Saulx à Montiers-sur-Saulx
+H511231001,L'Ornain à Saint-Joire
+H512234001,L'Ornain à Tronville-en-Barrois
+H512235002,L'Ornain à Val-d'Ornain [Varney]
+H514261001,La Chée à Villotte-devant-Louppy [Villote devant Loupy]
+H605301001,La Biesme au Claon
+H610201001,L'Aire à Beausite [Amblaincourt]
+H612201001,L'Aire à Varennes-en-Argonne
+J471201002,L'Ellé à Priziac - Le Grand Pont
+J471201003,L'Ellé au Faouët - Pont Blanc [crue]
+J473401001,L'Inam au Faouët - Pont Priant
+J510221001,Le Scorff à Plouay - Pont Kerlo
+J541212001,Le Blavet à Saint-Aignan - Le Touldren [aval barrage Guerlédan]
+J543211001,Le Blavet à Neulliac - Le Stumo
+J550211001,Le Blavet à Pontivy - Equipement
+J552401002,La Sarre à Melrand - Pont Neuf
+J561301002,L'Evel à Guénin - Nouvelle échelle
+J561831001,Le Frémeur à Guénin - Coëtcon
+J570481001,Le Moulin de Tallené [Le Sebrevet] à Quistinic - Pont er Garrec
+J571211001,Le Blavet à Languidic - Quellenec
+J571211004,Le Blavet à Inzinzac-Lochrist - Pont neuf [hauteur]
+J571211005,Le Blavet à Languidic - Craninen
+J601000201,[Rivière du Pont du Roc'h] à Nostang - Locqueltas [aval]
+J601000202,[Rivière du Pont du Roc'h] à Nostang - Saint Symphorien [amont]
+J621301002,L'Auray [Le Loch] à Brech - Er Loch
+J640712002,Le Meucon [Le Rohan] à Vannes - Menimur
+J640712301,"[Ruisseau de Gornay, Liziec] à Saint-Avé"
+J660681201,Le Kervily à Noyal-Muzillac - [Moulin de Cadillac]
+J820231002,Le canal de Nantes à Brest [L'Oust] à Pleugriffet - Ecluse de Cadoret
+J820234001,L'Oust à Josselin - Ecluse de Josselin [amont]
+J833301002,Le Ninian à Taupont - Route Hugo
+J836311001,L'Yvel à Loyat - Pont D 129
+J840231001,Le canal de Nantes à Brest [L'Oust] à Malestroit - Ecluse de Malestroit [aval]
+J843301002,La Claie à Saint-Jean-Brévelay - Ker Hervy
+J844301001,La Claie à Saint-Marcel - Route de Bohal
+J850231002,Le canal de Nantes à Brest [L'Oust] à Saint-Gravé - Ecluse Le Guelin [aval]
+J850231003,Le canal de Nantes à Brest [L'Oust] à Saint-Gravé - Ecluse Le Guelin [amont]
+J863241001,L'Aff à Quelneuc - La Rivière
+J880023001,L'Oust à Saint-Vincent-sur-Oust - L'Ile aux Pies
+J881301001,L'Arz à Molac - Pont du Favre
+J930061101,La Vilaine à Rieux - Pont de Cran
+A740000101,La Moselle à Corny-sur-Moselle - Débitmètre
+A740000102,La Moselle à Corny-sur-Moselle - limnimètre
+A743061001,La Moselle à Metz [Pont des Morts]
+A758102001,La Seille à Moyenvic
+A764201001,La Petite Seille à Château-Salins
+A770101001,La Seille à Chambrey
+A788101002,La Seille à Metz - Pont Lothaire amont
+A793061002,La Moselle à Hagondange
+A840101001,L'Orne à Moyeuvre-Grande
+A840601001,L'Orne à Moyeuvre-Grande - Débordement minier dans l'Orne
+A842020101,Le Conroy à Moyeuvre-Petite
+A843101001,L'Orne à Rosselange
+A850061001,La Moselle à Uckange
+A850061002,La Moselle à Uckange - Uckange essai
+A860304001,Le Veymerange à Thionville
+A861202001,La Fensch à Knutange
+A864030001,La Kiesel à Hettange-Grande
+A873201001,Le Canner à Kœnigsmacker
+A891030101,Le Kayl à Ottange
+A891030102,Le Kayl à Ottange
+A900105050,La Sarre à Laneuveville-lès-Lorquin
+A901305050,La Sarre Rouge à Vasperviller
+A902101050,La Sarre à Hermelange
+A902102050,La Sarre à Sarrebourg
+A902102101,Le ruisseau de Gondrexange à Imling
+A906215050,L'Isch à Postroff
+A919205050,L'Albe à Sarralbe - Eich
+A920107050,La Sarre à Sarralbe [centre]
+A930108040,La Sarre à Wittring
+A932215050,L'Horn à Bousseviller
+A937205050,La Blies à Bliesbruck - Pont
+A937205051,La Blies à Bliesbruck - Tyrolienne
+A937205301,La Blies à Frauenberg
+A953205050,Le Rosselle à Forbach [Petite-Rosselle]
+A961205050,La Bisten à Creutzwald
+A973121001,La Nied [Française] à Ancerville
+A975201001,La Nied [Française] à Condé-Northen [Pontigny]
+A983201001,La Nied Allemande à Faulquemont
+A986201001,La Nied Allemande à Varize
+A994202001,La Nied à Filstroff
+H200102001,L'Yonne à Corancy
+H202101001,L'Yonne à Montigny-en-Morvan [Chassy]
+H204101001,L'Yonne à Marigny-sur-Yonne
+H205101001,L'Yonne à Dornecy
+H205102001,L'Yonne à Clamecy
+H205102002,L'Yonne à Clamecy - Débit
+H206201001,Le Beuvron à Ouagne [Champmoreau]
+H206202001,Le Beuvron à Brinon-sur-Beuvron [Village]
+H207311001,Le Sauzay à Corvol-l'Orgueilleux
+H212202001,La Cure à Marigny-l'Église [Crottefou]
+K170001010,La Loire à Decize
+K171301001,L'Aron à Châtillon-en-Bazois [Mingot]
+K172421001,La Dragne à Vandenesse
+K175311001,L'Alène à Cercy-la-Tour [Coueron]
+K176401002,La Canne à Saint-Gratien-Savigny - Moulin-de-Challuy
+K177301001,L'Aron à Verneuil
+K183301001,L'Acolin à Saint-Germain-Chassenay
+K190001001,La Loire à Imphy - Pont d'Imphy
+K191451001,L'Ixeure à la Fermeté
+K193001010,La Loire à Nevers
+K194301002,La Nièvre à Saint-Aubin-les-Forges
+K195401001,La Nièvre d'Arzembouy à Poiseux [Poisson]
+K357081010,L'Allier à Livry - Pont du Veurdre
+K409401001,Le Nohain à Saint-Martin-sur-Nohain [Villiers]
+K412301001,La Vrille à Arquian
+D013701001,L'Helpe Mineure à Étrœungt
+D013702001,L'Helpe Mineure à Maroilles
+D013705001,L'Helpe Mineure à Fourmies
+D015651001,L'Helpe Majeure à Liessies
+D015652001,L'Helpe Majeure à Taisnières-en-Thiérache
+D015656001,L'Helpe Majeure à Flaumont-Waudrechies
+D015658001,[Helpe Majeure] à Eppe-Sauvage
+D015850001,La Tarsy à Monceau-Saint-Waast [La Brasserie]
+D015850401,L'Helpe Majeure à Moustier-en-Fagne
+D015850501,Le ruisseau de Montbliard à Eppe-Sauvage
+D016221001,La Sambre canalisée à Berlaimont
+D019223001,La Sambre canalisée à Marpent
+D019701001,La Flamenne à Maubeuge [Douzies]
+D019801101,La Sambre canalisée à Maubeuge [aval écluse]
+D019801201,La Sambre canalisée à Louvroil
+D020601001,La Solre à Ferrière-la-Grande
+D020602001,La Solre à Choisies
+E131000201,L'Escaut canalisée à Iwuy
+E131000202,L'Escaut canalisée à Iwuy
+E156371002,Le canal du Nord à Arleux
+E171551101,L'Escaut canalisée à Neuville-sur-Escaut
+E172601002,La Selle à Denain
+E172751001,L'Ecaillon à Thiant
+E172751201,L'Escaut canalisée à Trith-Saint-Léger
+E176601001,La Rhonelle à Aulnoy-lez-Valenciennes
+E182701002,La Hogneau à Gussignies
+E182702001,La Hogneau à Thivencelle
+E182702602,L'Aunelle à Rombies-et-Marchipont
+E236741001,Le courant de Coutiches à Flines-lez-Raches
+E237110501,La Scarpe canalisée à Mortagne-du-Nord
+E237601001,Le courant de l'Hôpital à Bousignies
+E237721001,L'Elnon à Lecelles
+E240041101,L'Escaut canalisée à Maulde
+E310211002,Le canal de la Deule à Don
+E334601001,La Marque à Bouvines
+E334602201,La Marque à Ennevelin
+E341210001,Le canal de la Deule à Wambrechies
+E364121001,La Lys à Merville - [VNF]
+E364121002,La Lys à Merville - [DREAL]
+E364628201,Vieille Lys Aval à Merville
+E365851301,La Bourre à Merville
+E365851401,Le canal d'Hazebrouck [La Bourre] à Merville [Pont à Loup]
+E366601601,La Lawe à la Gorgue
+E366601801,Le becque de Steenwerck à Saint-Jans-Cappel [Grande Becque]
+E366601901,Le Meteren Becque au Doulieu - La Méteren Becque au Doulieu
+E367125002,La Lys à Armentières
+E381126501,La Lys à Bousbecque
+E400000101,Longue Becque à Renescure
+E490571001,L'Yser à Bambecque - Engelshof
+E490571002,L'Yser à Bambecque - RD 167
+E490571101,L'Yser à Bollezeele [Erkelsbrug]
+E490700501,La Peene Becque à Ochtezeele
+E490940501,L'Ey Becque à Steenvoorde
+E490941401,L'Ey Becque à Houtkerque
+H166000101,L'Aisne à Couloisy - Barrage (amont)
+H166000102,L'Aisne à Couloisy - Barrage (aval)
+H168000301,[aisne] à Choisy-au-Bac
+H168000302,[aisne] à Choisy-au-Bac - carandeau - station fille
+H168000303,[aisne] à Choisy-au-Bac - Trosly-Breuil (Hérant) - station mère
+H168000401,L'Aisne à Trosly-Breuil [Hérant] - Barrage (amont)
+H168000402,L'Aisne à Trosly-Breuil [Hérant] - Barrage (aval)
+H168000501,L'Aisne à Choisy-au-Bac [Carandeau] - Barrage (amont)
+H168000502,L'Aisne à Choisy-au-Bac [Carandeau] - Barrage (aval)
+H200102201,L'Oise à Verberie - Barrage (amont)
+H200102202,L'Oise à Verberie - Barrage (aval)
+H204101101,L'Oise à Pont-Sainte-Maxence [Sarron] - Barrage (Amont)
+H204101102,L'Oise à Pont-Sainte-Maxence [Sarron] - Barrage (Aval)
+H208000104,L'Oise à Creil - Station débitmétrique (>2006)
+H312041010,L'Epte à Sérifontaine
+H740101001,L'Oise à Sempigny
+H740382001,La Verse à Noyon
+H741321001,La Divette à Passel
+H742101001,L'Oise au Plessis-Brion
+H742371002,L'Aronde à Clairoix
+H742371003,L'Aronde à Clairoix - secours CT
+H742373502,L'Aronde à Gournay-sur-Aronde [Arsonval la féculerie] - Gournay sur Aronde (Arsonval la Fuculerie)
+H750101001,L'Oise à Venette
+H750101002,L'Oise à Jaux
+H750101003,L'Oise à Venette - Barrage (amont) - [VNF]
+H750101004,L'Oise à Venette - Barrage (aval) - [VNF]
+H751301001,L'Automne à Saintines
+H751303001,L'Automne à Vauciennes
+H751361001,La Sainte-Marie à Glaignes
+H760201001,La Breche à Nogent-sur-Oise
+H770201001,Le Therain à Bonnières
+H771301001,Le Petit Therain à Saint-Omer-en-Chaussée
+H773301001,L'Avelon à Goincourt
+H774201001,Le Therain à Beauvais
+H774202001,Le Therain à Maysel
+H781301002,La Nonette à Courteuil [Saint-Nicolas d'Acy]
+H781321001,La Launette à Ver-sur-Launette
+H784301001,L'Esches à Bornel
+H602021010,La Risle à Rai
+H610041010,La Charentonne à Bocquencé
+I101101001,La Touques à Mardilly
+I200101001,La Dives à Saint-Lambert-sur-Dive
+I200101101,L'Orne à Belfonds
+I210201001,La Vie à Guerquesalles [Les Longs Champs]
+I223000101,L'Orne à Rabodanges [EDF]
+I248000101,La Vère à Athis-de-l'Orne [Le Pont Grat]
+I303101001,L'Orne à Argentan
+I303301001,L'Ure au Bourg-Saint-Léonard
+I310301001,La Cance à Tanques [La Noé]
+I311301001,L'Udon à Écouché
+I312101002,L'Orne à la Courbe [Pont RD 776] - Amont
+I330202001,La Rouvre à Saint-Hilaire-de-Briouze [Le Tranchot]
+I335201001,La Rouvre à Ségrie-Fontaine [Maison de la Rivière]
+I342201001,Le Noireau à Saint-Pierre-d'Entremont
+I346201001,Le Noireau à Cahan [Les Planches - CD 911]
+I346301001,La Vère à Saint-Pierre-du-Regard
+M001061001,La Sarthe au Mêle-sur-Sarthe
+M001411001,L'Hoëne à la Mesnière [La Foulerie]
+M003000302,La Vézone aux Ventes-de-Bourse - Voie verte
+M004061001,La Sarthe à Alençon
+M005061020,La Sarthe à Saint-Céneri-le-Gérei - Moulin-du-Désert
+M006433001,Le Sarthon à Saint-Céneri-le-Gérei
+M006435001,Le Sarthon à la Roche-Mabile
+M030151001,L'Huisne à Réveillon [Moulin de Réveillon]
+M031000101,La Commeauche à Maison-Maugis - Les Planches
+M032151001,L'Huisne à Rémalard
+M032151101,L'Huisne à Dorceau
+M033000101,"La Corbionne à Bretoncelles - lieu dit ""le carrefour"""
+M310301001,La Varenne à Domfront
+M313301010,La Varenne à Saint-Fraimbault [Moulin Crinais]
+E156601001,La Sensée à Étaing
+E201000301,Le Gy à Duisans
+E201000501,La Scarpe à Anzin-Saint-Aubin
+E207111003,La Scarpe canalisée à Brebières
+E301000301,Le Souchez à Courrières
+E301000401,Le Souchez à Angres
+E351121001,La Lys à Lugy
+E351122001,La Lys à Delettes
+E351601002,Le Surgeon à Cambrin - [VNF]
+E351851001,La Laquette à Witternesse
+E351851201,La Lys à Lisbourg
+E351851301,La Lys à Aire-sur-la-Lys [Amont]
+E351851401,Le bras de décharge de la Lys Oduel à Aire-sur-la-Lys
+E351851501,La Traxenne à Fruges - La Traxenne à Fruges
+E361121001,La Lys à Aire-sur-la-Lys
+E362000101,Laque bras Est à Aire-sur-la-Lys [Houleron]
+E363121001,[La Lys] à Saint-Venant - [VNF]
+E363121002,[La Lys] à Saint-Venant - [DREAL]
+E363121101,Guarbecque à Saint-Venant
+E364621001,La Clarence à Robecq
+E364628001,La Clarence à Marles-les-Mines
+E366060002,La Lawe à Bruay-la-Buissière
+E366600501,La Lawe à Houdain
+E366601001,La Lawe à Béthune
+E366601701,Le Courant Frenelet à Laventie
+E403000101,L'Aa canalisée à Arques
+E403571003,L'Aa à Wizernes - Passerelle
+E403572001,L'Aa à Fauquembergues
+E403653001,Le Bléquin à Lumbres
+E403653301,L'Aa à Elnes
+E403653401,L'Aa à Blendecques
+E430601001,La Hem à Tournehem-sur-la-Hem [Guémy]
+E430602001,La Hem à Recques-sur-Hem
+E510571001,La Slack à Rinxent
+E510821201,La Slack à Ambleteuse
+E520571001,Le Wimereux à Wimille
+E520571202,Le Wimereux à Pittefaux
+E530021001,La Liane à Wirwignes
+E530021301,La Liane à Selles
+E531022001,La Liane à Isques [La Liane à Isques]
+E540031001,La Canche à Brimeux
+E540651001,La Ternoise à Hesdin
+E540651601,La Canche à Ligny-sur-Canche
+E540651901,La Ternoise à Teneur
+E541000101,La Course à Estrée
+E541000401,La Canche à Beutin
+E541000501,La Canche à Étaples
+K051301001,L'Ance à Sauvessanges
+K262301001,La Couze d'Ardes à Madriat
+K262302001,La Couze d'Ardes [dérivation] à Madriat
+K263031001,L'Eau Mère à Parentignat
+K264401001,L'Ailloux à Manglieu [Lavaur]
+K265401001,La Couze Pavin à Saint-Floret
+K265401101,La Couze [de Valbeleix] à Valbeleix [La Valette]
+K267401001,La Couze Chambon à Montaigut-le-Blanc [Champeix]
+K267403001,La Couze Chambon à Chambon-sur-Lac [amont Lac]
+K267404002,La Couze Chambon à Murol [aval Lac] - Pont accès camping
+K268081001,L'Allier à Vic-le-Comte
+K268082001,L'Allier à Coudes
+K269821001,L'Auzon à la Roche-Blanche
+K269821201,La Monne à Saint-Saturnin - RD28
+K270081010,L'Allier à Pont-du-Château
+K271401002,Le Jauron à Beauregard-l'Évêque [Saint-Aventin]
+K272421001,L'Artière à Clermont-Ferrand [Domaine de Crouel]
+K275301002,La Morge à Montcel - Amont pont RD 122
+K275611001,La Sep à Saint-Hilaire-la-Croix [Moulin de Josse]
+K276311001,Le Bédat à Cébazat [La Maison Rouge]
+K276701001,[La Pâle] à Marsat
+K277312001,Le Bédat à Saint-Laure
+K277402001,L'Ambène à Ennezat
+K277471001,[Le Gargouilloux] à Malauzat [Moulin de la Fouille]
+K277801002,Le Saint-Genest à Malauzat [Saint-Genest-l'Enfant]
+K278301001,La Morge à Maringues [Côte Rouge]
+K279081001,L'Allier à Limons
+K282191001,La Dore à Dore-l'Église
+K283401001,La Dolore à Saint-Bonnet-le-Chastel [Moulin Neuf]
+K285191001,La Dore à Ambert
+K287191001,La Dore à Saint-Gervais-sous-Meymont [Maison du Parc/Giroux-Dore]
+K288401001,La Faye à Olliergues [Giroux-Faye]
+K294401001,Le Couzon à Courpière [Le Salet]
+K296000201,La Jalonne à Celles-sur-Durolle
+K297031001,La Durolle à Celles-sur-Durolle [Pont de Chazeau]
+K298191001,La Dore à Dorat
+K298191101,Le Dorson à Thiers
+K299401001,[La Credogne] à Puy-Guillaume
+K299401301,Le Creuzier [Le CREUZIER] à Saint-Victor-Montvianeix
+K302000101,Le Buron à Saint-Denis-Combarnazat [Le Moulin Chaufour - RD 107]
+K320601002,Le Ceyssat à Ceyssat - Pont
+K322021001,La Sioule à Gelles [La Miouze]
+K322201001,La Sioule à Pontgibaud
+K326401002,La Saunade à Pontaumur
+K327301001,Le Sioulet à Miremont [La Prugne]
+K329202001,La Sioule à Saint-Priest-des-Champs [Fades-Besserve EDF - QNR]
+K330201001,La Sioule à Châteauneuf-les-Bains
+P001001001,La Dordogne à Saint-Sauves-d'Auvergne
+P009000201,Le Chavanon à Messeix [EDF - La Celette]
+P011501001,Le Burande à la Tour-d'Auvergne
+P011501101,Le Burande à Singles [EDF - ru de Burons]
+P021251001,Le ruisseau Grande Rhue à Égliseneuve-d'Entraigues
+P061000201,[Fontaine salée] à Chastreix [La Morangie]
+Q132401001,Le Gabas à Poursiugues-Boucoue
+Q335401001,Le Luy du Béarn à Saint-Médard
+Q485000101,L'Ouzom à Asson
+Q502101001,Le Gave de Pau à Nay
+Q515000201,Le ruisseau de l'Ousse à Bizanos
+Q523101001,Le Gave de Pau à Artiguelouve
+Q542102001,Le Gave de Pau à Orthez
+Q610291001,Le Gave d'Oloron [Le Gave d'Ossau] à Laruns
+Q614292002,Le Gave d'Oloron [Le Gave d'Ossau] à Oloron-Sainte-Marie - Quartier Sestiaa
+Q620251001,Le Gave d'Aspe à Urdos
+Q633252001,Le Gave d'Aspe à Osse-en-Aspe [Bedous]
+Q633252101,Le Gave d'Aspe à Escot [EDF -Pont d'Escot débit reconstitué]
+Q650251001,Le Gave d'Aspe à Bidos
+Q700291001,Le Gave d'Oloron à Oloron-Sainte-Marie [Pont SNCF]
+Q724252001,Le Saison à Licq-Athérey [Pont de Licq]
+Q732252001,Le Saison à Mauléon-Licharre - Pont du collège
+Q741291001,Le Gave d'Oloron à Escos
+Q741291002,Le Gave d'Oloron à Escos - Ancienne station crues
+Q743000201,Le Saleys à Salies-de-Béarn
+Q803251001,La Bidouze à Aïcirits-Camou-Suhast [Saint-Palais]
+Q834591001,L'Hasquette [Mendialçu] à Hasparren
+Q910251001,La Nive à Ossès
+Q916461001,La Nive des Aldudes à Saint-Étienne-de-Baïgorry
+Q931251001,La Nive à Cambo-les-Bains
+Q933251001,La Nive à Villefranque
+Q935001001,L'Adour à Anglet [Convergent]
+Q935002001,L'Adour à Bayonne [Lesseps] - Lesseps
+Q935251001,La Nive à Bayonne [Pont Blanc] - Pont-Blanc
+S514401001,La Nivelle à Saint-Pée-sur-Nivelle [Pont de Cherchebruit]
+S514402001,La Nivelle à Saint-Pée-sur-Nivelle [Lurberria]
+S516001001,La Nivelle à Ciboure
+O011000101,Neste de Couplan à Aragnouet [EDF - Les Edelweiss] - Neste de Cap de Long
+O012622101,La Neste de Rioumajou à Tramezaïgues [EDF -Maison Blanche]
+O013402001,La Neste à Saint-Lary-Soulan
+O014402001,La Neste à Arreau [Aure]
+O015431001,La Neste du Louron à Loudenvielle
+O016434001,La Neste du Louron à Arreau [Louron]
+O017402501,La Neste à Sarrancolin [Basse Neste]
+O017402601,Le canal de la Neste à Beyrède-Jumet [Sarrancolin]
+O017402701,La Neste à Sarrancolin [EDF - Beyrède] - La Neste d'Aure
+O017402801,La Neste à Arreau [Aval confluence Lourron]
+O017402901,La Neste à Beyrède-Jumet [EDF - Beyrède résiduel]
+O018000301,Le ruisseau de Larise à Générest - Plan de Pouts
+O240000101,La Save [Prise générale] à Lannemezan
+O270000201,La Gimone [Prise] à Monléon-Magnoac
+O270000301,L'Arrats [Prise] à Monléon-Magnoac
+O620000101,Le Gers [Prise générale] à Lannemezan
+O650251001,La Baïse à Trie-sur-Baïse
+O650251201,La Baïse Devant [Baïse Darré] à Lannemezan
+O656431201,La Baïse [Baïse Orientale] à Lannemezan
+Q000002001,L'Adour à Campan [Payolle]
+Q010001001,L'Adour [Adour seul] à Asté [Pont d'Asté]
+Q010003001,L'Adour à Bagnères-de-Bigorre
+Q010511001,L'Adour [Canal d'Asté] à Asté [Canal d'Asté]
+Q011571001,L'Oussouet à Trébons
+Q012006002,L'Adour à Tarbes
+Q012501001,L'Adour [prise sur l'Adour] à Hiis
+Q013003001,L'Adour à Maubourguet
+Q021401001,L'Echez à Louey
+Q022402001,L'Echez à Bordères-sur-l'Échez
+Q022403001,Le canal du Moulin [L'Echez] à Maubourguet
+Q022501001,La Gespe à Tarbes [Route de Lourdes]
+Q022501101,L'Echez à Tarbes
+Q028003001,L'Adour à Estirac
+Q028003101,[Canal de Sombrun] à Maubourguet [Prise]
+Q036001001,L'Adour à Hères [Ju Belloc]
+Q036001301,Le ruisseau du Vieil-Adour à Estirac [Prise]
+Q036001401,[Le canal de Sombrun] à Estirac [Restitution]
+Q041401001,Le Louet à Sombrun
+Q043501001,Le ruisseau de Layza à Villefranque
+Q052253001,L'Arros à Tournay
+Q055401001,L'Arrêt-Darré à Vielle-Adour
+Q440000101,Le Gave de Pau à Esquièze-Sère [Pescadères]
+Q440000102,Le Gave de Pau à Esquièze-Sère [Pescadères] - Pescadères - Station EDF
+Q440000201,Le Gave de Pau à Sassis [EDF - Pescadères]
+Q454000101,Le Gave de Cauterets à Cauterets [La Raillère] - La Raillère - Station EDF
+Q467000201,Le Gave d'Azun à Arras-en-Lavedan [EDF - Arras-Nouaux]
+Q470101001,Le Gave de Pau à Argelès-Gazost
+Q476102001,Le Gave de Pau à Lourdes - Paradis
+Q476102003,Le Gave de Pau à Lourdes - Saint-Michel
+Q480101001,Le Gave de Pau à Saint-Pé-de-Bigorre [Rieulhes]
+Y000401001,El Segre à Saillagouse [Ro]
+Y001522101,El Segre à Bourg-Madame
+Y002501001,Le Riu Rahur [L'Angoustrine] à Angoustrine-Villeneuve-des-Escaldes
+Y004501001,Le Riu de Quérol à Porta [Carol]
+Y005561001,[Le canal de Vernet-et-Pia] à Saint-Estève
+Y010522001,La Baillaury à Banyuls-sur-Mer
+Y010581101,[La Méditerranée] à Port-Vendres [marégraphe]
+Y011541001,La Massane à Argelès-sur-Mer [Mas d'en Tourens]
+Y020401001,Le Tech à Prats-de-Mollo-la-Preste [La Preste]
+Y021401001,Le Tech à Prats-de-Mollo-la-Preste [Baillanouse]
+Y023401001,Le Tech à Montferrer [Pas du Loup]
+Y024401001,Le Tech à Arles-sur-Tech - Pont RD 115
+Y024404001,Le Tech à Amélie-les-Bains-Palalda
+Y024511001,[Le canal de Céret] à Amélie-les-Bains-Palalda
+Y024521001,Le Mondony à Amélie-les-Bains-Palalda
+Y026401001,Le Tech à Céret - Pont du diable
+Y027401001,Le Tech au Boulou
+Y028406001,Le Tech à Argelès-sur-Mer - Pont d'Elne
+Y030521001,[Le canal adducteur] à Villeneuve-de-la-Raho [Cap de Fouste]
+Y031502001,Le Réart à Villemolaque
+Y032501001,La Canterrane à Terrats [Moulin d'en Canterrane]
+Y033400101,Le Réart à Saleilles [Pont de la RN 114]
+Y033400201,Le Réart à Villeneuve-de-la-Raho [Cap de Fouste]
+Y040401001,La Têt à Mont-Louis
+Y042401001,La Têt à Serdinya [Joncet]
+Y043640501,Le Cady à Vernet-les-Bains
+Y043642001,Le Cady à Corneilla-de-Conflent
+Y043642101,La rivière de Rotja à Sahorre
+Y044401001,La Têt à Marquixanes
+Y044501001,La Castellane à Catllar
+Y045503001,La Lentilla [partielle] à Espira-de-Conflent [Finestret]
+Y045641201,La Lentilla à Finestret
+Y046401001,La Têt à Rodès [Barrage de Vinca]
+Y046403001,La Têt [partielle] à Rodès
+Y046600501,Le Bolès [Boulès] à Ille-sur-Têt
+Y046821001,[Le canal de Corbère [sortie du barrage de Vinça]] à Rodès
+Y046921101,La Têt [Bras principal] à Ille-sur-Têt [T6]
+Y047401001,La Têt à Villelongue-de-la-Salanque
+Y047402001,La Têt à Bompas
+Y047403001,La Têt [partielle] à Perpignan [Pont-Joffre]
+Y047406001,La Têt à Saint-Féliu-d'Amont
+Y047407001,La Têt à Pézilla-la-Rivière [Passage à gué]
+Y047882001,[Le canal de Perpignan] à Canohès
+Y061504001,La Boulzane à Saint-Paul-de-Fenouillet [Lapradelle]
+Y062402001,L'Agly à Saint-Paul-de-Fenouillet [Clue de la Fou]
+Y062402002,L'Agly à Saint-Paul-de-Fenouillet [Clue de la Fou] - St Arnac
+Y062522001,La Desix à Ansignan
+Y063402001,L'Agly à Cassagnes [Barrage de Caramany]
+Y063403001,L'Agly à Planèzes - Amont
+Y063403002,L'Agly à Planèzes - Aval
+Y063404001,L'Agly [Le canal de la Plaine] à Latour-de-France
+Y065500501,Le Verdouble à Vingrau
+Y065501001,Le Verdouble à Tautavel
+Y066404001,L'Agly à Estagel [Mas de Jau]
+Y067406001,L'Agly à Rivesaltes
+Y070541001,[La résurgence de la rigole] à Salses-le-Château [Font-Estramar]
+Y101202101,L'Aude à Puyvalador [EDF]
+A041030001,Le ruisseau le Muhlbach de Schoenau à Schœnau [Ried]
+A053074201,Le ruisseau le Heulachgraben [cours d'eau phréatique] à Friesenheim [Ried] - Zelsheim [Ried]
+A061005051,Le Rhin à Strasbourg [Sémaphore nord] - Limnimètre
+A226032002,L'Ill à Strasbourg [Montagne-Verte] - Débimètre
+A228003001,"L'Ill à Strasbourg [Chasseur Froid, La Robertsau]"
+A231020001,Le Giessen à Thanvillé
+A235020001,Le Giessen à Sélestat - Pont RD1083
+A236003001,L'Ill à Kogenheim
+A236003301,Le ruisseau le Hanfgraben à Muttersholtz [Ried]
+A237003001,L'Ill à Osthouse
+A242020101,La Zembs [Ried] à Herbsheim [Ried]
+A243003001,L'Ill à Fegersheim [Ohnheim]
+A251020001,L'Andlau à Andlau
+A261020001,L'Ehn à Niedernai
+A273011002,La Bruche à Russ [Wisches]
+A282000101,La Mossig à Wasselonne
+A284020001,La Mossig à Soultz-les-Bains
+A285011001,La Bruche à Wolxheim
+A286011003,La Bruche à Holtzheim
+A286011101,Le ruisseau le Muhlbach à Osthoffen
+A286011201,Le ruisseau le Muhlbach à Breuschwickersheim
+A302009050,Le Rhin à Lauterbourg
+A312000101,La Moder à Obermodern-Zutzendorf
+A325021001,Le Falkensteinbach à Gundershoffen
+A330010001,La Moder à Schweighouse-sur-Moder [aval]
+A341020001,La Zorn à Saverne [Schinderthal]
+A343021001,La Zinsel du Sud à Eckartswiller [Oberhof]
+A348020001,La Zorn à Waltenheim-sur-Zorn
+A350010001,La Moder à Drusenheim
+A361011001,La Sauer à Gœrsdorf [Liebfrauenthal]
+A368021001,L'Eberbach à Leutenheim
+A369011001,La Sauer à Beinheim
+A373020001,Le Seltzbach à Niederrœdern
+A380020001,La Lauter à Wissembourg [Weiler]
+A907105050,La Sarre à Diedendorf
+A909106050,La Sarre à Keskastel
+A923205040,L'Eichel à Diemeringen
+A926000101,L'Eichel à Oermingen
+A022020001,L'Augraben à Hégenheim
+A100003001,L'Ill à Oltingue [Pont D 21b]
+A105003001,L'Ill à Altkirch
+A106000101,Le Thalbach à Berentzwiller
+A107020001,Le Thalbach à Wittersdorf
+A112010001,La Largue à Friesen
+A112010002,La Largue à Friesen - Pont RD 17
+A113030002,Le Traubach à Traubach-le-Bas
+A115020001,La Largue à Spechbach-le-Bas
+A116003002,L'Ill à Didenheim
+A116003004,L'Ill à Brunstatt - Passerelle collège Pflimlin
+A116003101,L'Ancienne Ill (ou Illsteinbaechlein) à Illzach
+A120020302,La Doller à Sewen [Lerchenmatt aval]
+A121000101,La Doller à Kirchberg
+A124020101,La Doller à Burnhaupt-le-Haut [Pont d'Aspach]
+A125020001,La Doller à Reiningue
+A130000101,L'Ill à Sausheim
+A133003001,L'Ill à Ensisheim
+A140202001,La Thur à Wildenstein
+A143020002,La Thur à Willer-sur-Thur
+A146020302,La Thur à Pulversheim
+A147004001,L'Ill à Sundhoffen
+A147004101,L'Ill à Meyenheim
+A150020001,La Lauch à Linthal - Saegmatten
+A152020001,La Lauch à Guebwiller
+A156020101,La Lauch à Rouffach
+A161003001,L'Ill à Colmar [Ladhof]
+A201010001,La Fecht à Muhlbach-sur-Munster
+A202030001,La Petite Fecht à Stosswihr [Village]
+A204010201,La Fecht à Wihr-au-Val [rue de la Fecht]
+A204010301,La Fecht [Dérivation Rive Gauche] à Wihr-au-Val
+A204010401,La Fecht [Totale] à Wihr-au-Val - Station fictive
+A210020101,La Weiss à Orbey
+A211030001,La Béhine à Lapoutroie
+A212020001,La Weiss à Kaysersberg - Rue de la Râperie
+A214010001,La Fecht à Ostheim
+A214010102,La Fecht à Bennwihr [gare]
+A215030001,Le ruisseau le Strengbach à Ribeauvillé
+A216010201,[Dérivation de la Fecht] à Guémar
+A220000101,L'Ill à Illhaeusern
+A222000101,Le ruisseau le Riedbrunnen à Colmar [Ried]
+A226032101,Le ruisseau le Neugraben à Guémar [Ried]
+A234021001,La Liepvrette à Lièpvre
+K066331001,La Coise à Larajasse [Le Nézel]
+K094301001,Le Rhins à Amplepuis
+U430003001,La Saône à Dracé [échelle aval de Mâcon]
+U450501001,L'Ardière à Beaujeu
+U450601001,La Morcille à Villié-Morgon [Pont des Versauds]
+U452521001,Le Morgon à Villefranche-sur-Saône
+U462401001,L'Azergues à Châtillon
+U462501001,Le Soanan à Saint-Vérand [La Tracole]
+U463501001,La Brévenne à Sain-Bel
+U463661001,La Turdine à l'Arbresle [Gobelette]
+U464401001,L'Azergues à Lozanne
+U464551101,L'Azergues à Morancé
+U471001003,La Saône à Couzon-au-Mont-d'Or
+U471001004,La Saône à Couzon-au-Mont-d'Or - Couzon CNR
+U472002001,La Saône à Lyon [Pont La Feuillée]
+V300002001,Le Rhône à Lyon - Pont Morand
+V300002002,Le Rhône à Lyon - Perrache-CNR
+V300002003,Le Rhône à Lyon - Villeurbanne CNR
+V301501002,L'Yzeron à Craponne - Aval
+V301502002,L'Yzeron à Francheville - Pont
+V301502301,Le ruisseau de Charbonnières à Charbonnières-les-Bains
+V301502401,Le ruisseau du Ratier à Saint-Genis-les-Ollières
+V302511002,L'Ozon à Sérézin-du-Rhône [La Sarrazinière]
+V303002001,Le Rhône à Ternay - CNR
+V303002002,Le Rhône à Ternay - DREAL Rhône Alpes
+V312401001,Le Gier à Givors
+U023001001,La Saône à Cendrecourt
+U041501001,Le Breuchin à la Proiselière-et-Langle
+U044431001,La Sémouse à Saint-Loup-sur-Semouse
+U046051001,Le Planey à Anjeux [Le Triquet]
+U047401001,La Lanterne à Fleurey-lès-Faverney
+U050401001,Le Durgeon à Colombier
+U051501001,Le Bâtard à Villeparois
+U052501001,La Colombine à Frotey-lès-Vesoul
+U060001001,La Saône à Scey-sur-Saône-et-Saint-Albin [Saint-Albin]
+U061001001,La Saône à Ray-sur-Saône
+U062053002,La Romaine à Maizières
+U063501001,La Gourgeonne à Tincey-et-Pontrebeau
+U072401001,Le Salon à Denèvre
+U081501001,La Morte à Saint-Broing
+U082001001,La Saône à Gray
+U100401001,L'Ognon à Servance [Fourguenons]
+U101402001,L'Ognon à Montessaux
+U102501001,Le Rahin à Plancher-Bas
+U103541001,Le Scey à Beveuge
+U104401001,L'Ognon à Chassey-lès-Montbozon [Bonnal]
+U105401001,L'Ognon à Beaumotte-Aubertans
+U107402001,L'Ognon à Pin
+U108401001,L'Ognon à Pesmes
+U235053001,La Lizaine à Héricourt
+K104000101,Le Sornin [bras principal] à la Chapelle-sous-Dun [Les Moquets]
+K105000201,Le Botoret [bras principal] à Tancon [Barnay] - Echelle Barnay
+K105000301,Le Sornin [bras principal] à Saint-Maurice-lès-Châteauneuf [Pont D 8] - Echelle St Maurice
+K111000301,L'Urbise à Bourg-le-Comte - RD 989
+K113000201,L'Arconce à Mornay - Villorbaine
+K114000101,La Semence à Vendenesse-lès-Charolles - Route de Chatonnard
+K117321001,L'Arconce à Montceaux-l'Étoile
+K118001010,La Loire à Digoin - Pont canal
+K118001011,La Loire à Digoin - Pont D 979b
+K124301001,La Drée à Saint-Léger-du-Bois [Champéceuillon]
+K125181001,L'Arroux à Dracy-Saint-Loup [Surmoulin]
+K127311001,Le Ternin à Tavernay [Pré Charmoy]
+K128481001,La Celle à la Celle-en-Morvan [Polroy]
+K131401001,Le Mesvrin à Mesvres [Le Mousseau]
+K132181010,L'Arroux à Étang-sur-Arroux - Pont du Tacot
+K134181001,L'Arroux à Rigny-sur-Arroux
+K135301001,La Bourbince à Blanzy
+K136301001,La Bourbince à Ciry-le-Noble
+K137000301,L'Oudrache à Oudry - La Croix
+K138301001,La Bourbince à Vitry-en-Charollais
+K139181001,L'Arroux à Digoin - Le Verdier
+K144001010,La Loire à Gilly-sur-Loire
+K163301001,La Somme à Bourbon-Lancy - Moulin Baudran
+U273201001,Le Doubs à Navilly
+U300401001,La Dheune à Essertenne
+U303401001,La Dheune à Palleau
+U310001001,La Saône à Verdun-sur-le-Doubs
+U310001002,La Saône à Verdun-sur-le-Doubs - Pont de la RD 111
+U312001001,La Saône à Chalon-sur-Saône [port fluvial]
+U312701001,La Talie à la Loyère
+U321401001,La Grosne à Jalogny [Cluny]
+U322501001,La Guye à Sigy-le-Châtel [Corcelles]
+U323401001,La Grosne à Sercy
+U331001001,La Saône à Tournus
+U341503001,La Brenne à Sens-sur-Seille [L'Estalet]
+U342401001,La Seille à Saint-Usuge
+U344503001,Le Sevron à Varennes-Saint-Sauveur
+U344641001,La Gizia à Frontenaud
+U345503001,La Vallière à Savigny-en-Revermont
+U345505001,La Vallière à Sagy
+U346401001,La Seille à Louhans
+U430001001,La Saône à Mâcon [amont]
+U430001101,"La Saône à Sancé [Mâcon, ultra-sons]"
+U430001102,"La Saône à Sancé [Mâcon, ultra-sons] - HQ"
+M011491010,Le Merdereau à Saint-Paul-le-Gaultier [Chiantin]
+M012401010,La Vaudelle à Saint-Georges-le-Gaultier
+M013401010,L'Orthe à Douillet [Le Joly]
+M015301010,La Bienne à Thoiré-sous-Contensor
+M020061010,La Sarthe à Beaumont-sur-Sarthe
+M024301010,L'Orne Saosnoise à Montbizot - Moulin Neuf
+M024301020,L'Orne Saosnoise à Montbizot - Courvarin
+M025061010,La Sarthe à Neuville-sur-Sarthe [Montreuil]
+M025061020,La Sarthe à Souillé [Montreuil]
+M027061020,La Sarthe au Mans [Yssoir]
+M037151030,L'Huisne à la Ferté-Bernard
+M038401020,La Même à Souvigné-sur-Même - Les Pressoirs
+M041151010,L'Huisne à Connerré
+M041601010,La Tortue à Saint-Michel-de-Chavaignes [L'Onglée]
+M042151010,L'Huisne à Montfort-le-Gesnois [La Pécardière]
+M042481010,Le Narais à Saint-Mars-la-Brière
+M043401010,La Vive Parence à Yvré-l'Évêque [Parence]
+M044151010,L'Huisne au Mans [Pontlieue]
+M050061010,La Sarthe à Spay [Ecluse de Prélandon] - Amont
+M050061020,La Sarthe à Spay [Ecluse de Prélandon] - Aval
+M050451010,Le Roule Crotte à Arnage [Gué Gilet]
+M051401010,Le Rhonne à Guécélard [La Soufflardière]
+M052061010,La Sarthe à la Suze-sur-Sarthe [écluse]
+M052521010,L'Orne Champenoise à Voivres-lès-le-Mans
+M053501010,La Gée à Fercé-sur-Sarthe [Planche Augis]
+M054401010,La Vézanne à Malicorne-sur-Sarthe
+M055603010,Les Deux Fonts à Avoise [Gué Avezel]
+M056622010,Le Berdin à Tennie
+M058302010,La Vègre à Asnières-sur-Vègre
+M063061010,La Sarthe à Sablé-sur-Sarthe
+M063301010,L'Erve à Auvers-le-Hamon [Moulin la Roche]
+M069000301,[La Voutonne] à Précigné
+M121301010,La Braye à Valennes [La Caboche]
+M124401010,L'Anillé à Saint-Gervais-de-Vic [La Cruchetière]
+M125401010,Le Tusson à la Chapelle-Gaugain [Les Riverelles]
+M130161010,Le Loir à la Chartre-sur-le-Loir
+M131301010,La Veuve à Saint-Pierre-du-Lorouër [Petit Brives]
+M132401010,L'Etangsort à Courdemanche
+M134161010,Le Loir à Flée [Port-Gautier]
+M144161010,Le Loir au Lude [Rue des ponts]
+M146301010,L'Aune à Pontvallain [Casse Maillé]
+M151161010,Le Loir à la Flèche [Mairie]
+M153451010,L'Argance à la Chapelle-d'Aligné [La Cheviraye]
+V123741401,Le ruisseau de Tami à Plancherine [Source du Bonté] - Source du Bonté
+V125841501,Le ruisseau de Cherel à Jarsy [Source de la Touvière] - Source de la Touvière
+V126002001,Le Rhône à Ruffieux [Pont de la Loi]
+V126402001,Le Fier à Motz - DREAL
+V126402002,Le Fier à Motz - CNR
+V126402701,[Canal de Savières] à Chanaz - CNR
+V130503002,Le ruisseau de Belle Eau à Voglans - CISALB
+V130521001,Le Tillet à Aix-les-Bains
+V130521301,[Le captage de Saint Victor] à Mouxy [1]
+V130521401,[Le captage de Saint Victor] à Mouxy [2]
+V130521501,[Le captage Fresenex] à Drumettaz-Clarafond
+V130521601,[Le captage de la Croze] à Méry
+V131502001,La Leysse à la Motte-Servolex [Pont du Tremblay]
+V131504003,La Leysse à la Ravoire
+V131644002,L'Hyère à Chambéry [Charrière-Neuve] - Pont d'Hyère
+V131821001,L'Albanne à Chambéry [Pont Chevalier]
+V131822401,[La source de Lovettaz] à Saint-Jean-d'Arvey
+V131823301,Le Varon au Bourget-du-Lac - la Plaisse - CISALB
+V131823501,Le ruisseau Nant Bruyant à la Motte-Servolex - Parc du Noiton
+V131823601,Le ruisseau Forezan à Cognin - Au parking du parc - CISALB
+V131823701,Le ruisseau des Combes au Bourget-du-Lac - la Plaisse - CISALB
+V131823801,Le Varon au Bourget-du-Lac [Captage de la Roche]
+V131823901,L'Hyère à Chambéry [Pont d'Hyère]
+V131824001,Le ruisseau du Marais à la Motte-Servolex - Exutoire de l'Erier /Ru du marais en aval de la zone de Bissy et en amont de la confluence avec le Merderet -CISALB
+V131824101,Le ruisseau de Ternèze à Curienne - CISALB
+V131824201,Le ruisseau du Marais à la Motte-Servolex - Pont de la Rue Denis Papin - CISALB
+V132502002,Le Sierroz à Aix-les-Bains
+V132502301,La Meunaz à Montcel - CISALB
+V132502401,La Monderesse à Saint-Ours - CISALB
+V132502501,Le Sierroz à Grésy-sur-Aix - CISALB
+V132502601,La Deisse à Grésy-sur-Aix - CISALB
+V132502701,[Captage Bermond] à Trévignin
+V132502801,[Captage Le Coutens] à Montcel
+V132502901,Le Sierroz [Captage La Gouille aux Moines] à Saint-Offenge-Dessus
+V132503001,La Monderesse à Saint-Ours [Captage de la Monderesse]
+V132503101,La Meunaz à Montcel [Captage de la Meunaz]
+V132503201,[Le captage de la Peysse] à Saint-Offenge-Dessous
+V132503301,[Le captage des Fontanettes] à Grésy-sur-Aix [1]
+V132503401,[Le captage des Fontanettes] à Grésy-sur-Aix [2]
+V132503402,[Le captage des Fontanettes] à Grésy-sur-Aix [2]
+V132503501,[Le captage de Viplane] à Montcel
+V132503601,[Les captages de Pré Bérard] à Pugny-Chatenod
+V132503701,[Le captage des Biolettes] à Pugny-Chatenod
+V132503801,[Le captage Bollon-Berthet] à Pugny-Chatenod
+V132503901,[Le captage des deux Reines] à Pugny-Chatenod
+V133001001,[Le lac du Bourget] à Aix-les-Bains
+V133001101,Grand canal de Chautagne à Chindrieux [Source du Rigolet] - Source du Rigolet
+V133001201,[Le captage des Grandes Eaux] à Bourdeau
+V133001301,[Le captage de la Carrière] à Bourdeau
+V133001401,[Le captage de Gerle] à Bourdeau
+V144621001,Le Flon à Traize [Cottin]
+V144621201,La Méline à Saint-Paul [Source de Fromentière] - Source de Fromentière
+V151501201,Le ruisseau de la Glière à Entremont-le-Vieux [Source de la Plagne] - Source de la Plagne
+V153402002,Le Guiers à Belmont-Tramonet - DREAL
+V153521001,Le ruisseau de la Leysse à Nances [Novalaise]
+W000000101,L'Isère à Val-d'Isère [EDF]
+W002000102,L'Isère à Séez [Malgovert] - DREAL
+W004000201,L'Isère à Bourg-Saint-Maurice
+W010000101,L'Isère à Landry
+W010000201,Le ruisseau de Macot à Mâcot-la-Plagne [Source des Frasses] - Source des Frasses
+W011001001,L'Isère à Moûtiers [Pont Neuf]
+W011001101,L'Isère à Albertville [Conflans]
+W022000101,Le Doron de Bozel à Planay
+W024401001,Le Doron de Bozel à Moûtiers [Ponserand] - DREAL
+W024401101,Le Doron de Belleville à Saint-Martin-de-Belleville [Le Bettaix] - DREAL
+W030000101,Le ruisseau Bridan à la Léchère [Source de Pont Botto] - Sources de Pont Botto
+W030000201,L'Isère à Aigueblanche [EDF]
+W030000301,L'Isère à la Léchère
+W041401002,L'Arly à Ugine - Pont de Fer
+W041401201,Le torrent Nant du Moulin à Crest-Voland [Source des Moulins] - Source des Moulins
+W042501001,La Chaise à Ugine [Pont de Soney]
+W042501002,La Chaise à Ugine [Pont de Soney]
+W043000101,L'Arly à Pallud [Pont de Venthon]
+W050000401,L'Isère à Grignon [Pont d'Albertin]
+W050000501,[Ruisseau du Cachon] à Monthion [Source de Planchamp] - Source de Planchamp
+W050000602,Le ruisseau de Verrens à Frontenex - Pont du Boulodrome
+W100000102,L'Arc à Bessans - DREAL
+W100000201,Le torrent d'Avérole à Bessans [Avérole EDF - QNR]
+W101401002,L'Arc à Lanslebourg-Mont-Cenis
+W101401101,Le Doron de Termignon à Termignon [Pont des Gouilles]
+W101401201,Le Doron de Termignon à Termignon [Source des Fontaignous] - Source des Fontaignous
+W102000102,L'Arc à Villarodin-Bourget [Pont de St-Gobain] - DREAL
+W102000201,L'Arc à Bramans - EDF
+W102000202,L'Arc à Bramans - DREAL
+W103000101,L'Arc à Orelle [aval Pont des Chèvres] - DREAL
+W103000202,L'Arc à Saint-Michel-de-Maurienne [canal restitution Saussaz]
+W103000301,L'Arc à Saint-Michel-de-Maurienne [La Saussaz - EDF]
+W103000501,L'Arc à Saint-Michel-de-Maurienne [QNR La Saussaz - EDF]
+W105502001,L'Arvan à Saint-Jean-d'Arves - la Villette
+W105502002,L'Arvan à Saint-Jean-d'Arves - L'Endroit
+W106000102,L'Arc à Hermillon [Pontamafrey] - DREAL
+W106000201,Le torrent des Roches à Saint-Colomban-des-Villards [Source des Roches] - Source des Roches
+W107403001,L'Arc à Aiguebelle
+W107403002,L'Arc à Aiguebelle - Barrage usine Aquabella
+W107403003,L'Arc à Aiguebelle - Débit
+W107403102,L'Arc à Saint-Rémy-de-Maurienne - DREAL
+W110001001,L'Isère à Chamousset [Pont Royal] - EDF
+W110001002,L'Isère à Chamousset [Pont Royal] - DREAL
+W110001003,L'Isère à Chamousset [Pont Royal] - SYMBHI
+W110501002,Le Gélon à la Rochette
+W111001001,L'Isère à Montmélian - Limnimètre
+W111001002,L'Isère à Montmélian - Débitmètre
+W111001301,Le ruisseau de la Crouza à Arbin [Source du Ruisseau] - Source du Ruisseau
+V000201001,L'Arve à Chamonix-Mont-Blanc [Pont des Favrands]
+V000201201,L'Arve à Chamonix-Mont-Blanc [Pont de l'Aiguille] - Station amont
+V000201202,L'Arve à Chamonix-Mont-Blanc [Pont de l'Aiguille] - Station aval
+V000201203,L'Arve à Chamonix-Mont-Blanc [Pont de l'Aiguille] - Vitesse
+V001000101,La Diosaz aux Houches
+V002000201,Le Bon Nant à Saint-Gervais-les-Bains
+V002000202,Le Bon Nant à Saint-Gervais-les-Bains - Débit
+V003201001,L'Arve à Sallanches
+V003201201,L'Arve à Passy - Pont de la Carabote
+V005651101,L'Arve à Cluses - Pont-Vieux
+V012000201,Le Giffre à Samoëns - Pont du Giffre - EDF
+V012000202,Le Giffre à Samoëns - DREAL
+V014000201,Le Giffre à Mieussy - Taninges-Pressy EDF
+V014000202,Le Giffre à Mieussy - DREAL
+V014000301,Le Giffre à Mieussy [EDF - Taninges-Pressy-QNR]
+V015401001,Le Giffre à Marignier [Plan séraphin]
+V015501002,Le Risse à Saint-Jeoire [Pont du Risse] - 2
+V020501002,Le Bronze à Bonneville - Pont
+V020542001,Le Borne à Saint-Jean-de-Sixt
+V020542201,L'Arve à Bonneville
+V022000201,L'Arve à Reignier-Ésery [Arthaz] - EDF
+V022000202,L'Arve à Reignier-Ésery [Arthaz] - DREAL
+V022000301,L'Arve à Reignier-Ésery [QNR Arthaz - EDF]
+V023502001,La Menoge à Bonne [Pont D 198]
+V024561001,L'Aire à Saint-Julien-en-Genevois [Thairy]
+V031401002,La Dranse à Vacheresse
+V032501001,La Dranse de Morzine à la Baume [Pont de Couvaloup]
+V033401001,La Dranse à Reyvroz [Bioge]
+V034521001,Le Redon à Margencel
+V035501001,Le Foron à Sciez
+V111401001,Les Usses à Musièges [Pont des Douattes]
+V112000101,Les Usses à Usinens [CNR] - Pont Rouge CNR
+V121401001,Le Fier à Dingy-Saint-Clair
+V122501001,La Fillière à Argonay
+V123521001,L'Ire à Doussard
+V123542001,Le ruisseau de Bornette à Lathuile
+V123561001,L'Eau Morte à Doussard
+V123741001,Le Laudon à Saint-Jorioz
+V125501001,Le Chéran à Allèves [La Charniaz]
+V125781001,Le ruisseau des Eparis à Alby-sur-Chéran
+V125841001,La Néphaz à Rumilly
+V126402301,Le Fier à Vallières [EDF]
+F700000102,La Seine à Paris - Austerlitz - station limni - secours CT
+F700000103,La Seine à Paris - Austerlitz [>2006] - Station débitmétrique
+F700000112,La Seine à Paris - Pont des Invalides [VNF]
+G017042010,La Bresle à Ponts-et-Marais
+G111041010,L'Yères à Touffreville-sur-Eu
+G206021010,La Béthune à Saint-Aubin-le-Cauf
+G210061201,La Varenne à Martigny
+G210061301,La Varenne à Torcy-le-Grand
+G223041010,L'Eaulne à Martin-Église
+G223041101,L'Eaulne à Ancourt
+G310061201,La Scie à Notre-Dame-du-Parc
+G400022010,La Saâne à Val-de-Saâne
+G400022101,La Saâne à Biville-la-Rivière
+G410000301,La Vienne à Hermanville - La Vienne à Hermanville
+G510061201,Le Dun au Bourg-Dun [Centre]
+G510061301,[La vallée sèche] à Bourville
+G600061010,La Durdent à Vittefleur
+G700021010,La Valmont à Colleville
+G710061010,La Ganzeville à Ganzeville
+H310042010,L'Epte à Saumont-la-Poterie [Pont de Viogne]
+H311041011,L'Epte à Gournay-en-Bray - Centre-ville
+H323041010,L'Andelle à Rouvray-Catillon
+H501011001,La Seine à Elbeuf
+H501012001,La Seine à Oissel
+H502301301,Le Robec à Darnétal
+H502301401,L'Aubette à Darnétal
+H503011001,La Seine à Rouen
+H504061010,Le Cailly à Cailly
+H504062010,Le Cailly à Fontaine-le-Bourg [Grand-Tendos]
+H504063010,Le Cailly à Notre-Dame-de-Bondeville
+H505011001,La Seine à Petit-Couronne
+H505012001,La Seine à la Bouille
+H505013001,La Seine à Mauny [Val-des-Leux]
+H505104001,La Seine à Duclair
+H506061010,L'Austreberthe à Saint-Paër
+H510011001,La Seine au Mesnil-sous-Jumièges
+H510012001,La Seine à Heurteauville
+H512011001,La Seine à Caudebec-en-Caux
+H512012001,La Seine à Vatteville-la-Rue
+H512014001,La Seine à Petiville [St-Léonard]
+H513061010,Le Commerce à Gruchet-le-Valasse
+H513062012,Le Commerce à Lillebonne - Manoir
+H514011001,La Seine à Tancarville
+H722011001,La Seine au Havre [Embouchure de la Seine]
+H722011101,La Seine au Havre [Port]
+H733041010,La Lézarde à Montivilliers
+H740382101,Le canal de Tancarville au Havre [canal]
+F211000201,Le canal de dérivation de Beaulieu à Villiers-sur-Seine à Melz-sur-Seine - Ecluse (Amont)
+F211000202,Le canal de dérivation de Beaulieu à Villiers-sur-Seine à Melz-sur-Seine - (Ecluse Aval)
+F214000101,Le canal de dérivation de Beaulieu à Villiers-sur-Seine à Villiers-sur-Seine - Ecluse (Amont)
+F214000102,Le canal de dérivation de Beaulieu à Villiers-sur-Seine à Villiers-sur-Seine - Ecluse (aval)
+F220000101,La Seine à Noyen-sur-Seine - Barrage du Vezoult (amont)
+F220000102,La Seine à Noyen-sur-Seine - Barrage du Vezoult (aval)
+F221000101,La Seine à Jaulnes - Barrage (amont)
+F221000102,La Seine à Jaulnes - Barrage (aval)
+F221000103,La Seine à Jaulnes - Dernier bassin Passe à Poisson
+F221000201,La Seine à Bray-sur-Seine
+F232000101,La Voulzie à Jutigny
+F240000104,La Seine à Bazoches-lès-Bray - Barrage de la Grande Bosse (amont)
+F240000105,La Seine à Bazoches-lès-Bray - Barrage de la Grande Bosse (aval)
+F240000106,La Seine à Bazoches-lès-Bray - Station débitmétrique (depuis 2015)
+F240000201,La Seine à la Tombe - Pont de la Tombe
+F240000301,La Seine à Marolles-sur-Seine - Barrage (amont)
+F240000302,La Seine à Marolles-sur-Seine - Barrage (aval)
+F243000101,La Seine à Marolles-sur-Seine - Pont de St Germain Laval [VNF]
+F400000101,La Seine à Montereau-Fault-Yonne - Station limni - Secours CT
+F400000102,La Seine à Montereau-Fault-Yonne - Station débitmétrique
+F400000202,La Seine à Varennes-sur-Seine - Barrage (aval) [VNF]
+F400000301,La Seine à Saint-Mammès
+F429000102,Le Betz à Bransles
+F437000201,Le Loing à Nemours
+F438000101,Le Lunain à Paley
+F438000201,Le Lunain à Épisy
+F439000101,Le Loing à Épisy
+F439000301,L'Orvanne à Diant [Lavoir de Cornoy]
+F440000101,La Seine à Champagne-sur-Seine - Barrage (amont) [VNF]
+F440000102,La Seine à Champagne-sur-Seine - Barrage (aval) [VNF]
+F445000101,Le ru d'Ancoeur à Blandy
+F446000201,L'Almont à Melun
+F447000101,La Seine à Melun
+F447000201,La Seine à Boissise-la-Bertrand - Barrage de Vives-Eaux (amont)
+F447000202,La Seine à Boissise-la-Bertrand - Barrage de Vives-Eaux (aval) [VNF]
+F447000203,La Seine à Boissise-la-Bertrand - Vives-eaux amont [VNF]
+F447000204,La Seine à Boissise-la-Bertrand - Dernier bassin Passe à Poisson
+F447000302,La Seine à Saint-Fargeau-Ponthierry - Sainte-Assise - Station débitmétrique
+F474000102,L'Yerres à Courtomer - Paradis
+F486000101,Le Reveillon à Férolles-Attilly - La Jonchère
+F622000402,La Marne à la Ferté-sous-Jouarre - Station débitmétrique
+F625000101,Le Petit Morin à Jouarre - Vanry
+F641000101,La Thérouanne à Congis-sur-Thérouanne - Le Gué à Tresmes
+F643000101,La Marne à Meaux
+F652000101,Le Grand Morin à Meilleray
+F654000301,Le ru du Rognon à Boissy-le-Châtel [Le Theil]
+F654000401,Le ru de l'Orgeval à Boissy-le-Châtel [Les Avenelles]
+F654000501,Le ru de Fosse-Rognon à Doue [Mélarchez]
+F654000601,[Ru de Choqueuse (intermittent)] à Saint-Cyr-sur-Morin [Goins]
+F654000701,[Ru de Choqueuse (intermittent)] à Jouarre [Choqueuse]
+F654000801,[Ru de Choqueuse] à Saint-Germain-sous-Doue [La Loge]
+F654000901,[Ru des Quatre Cents (intermittent)] à Doue
+F654001001,[Collecteur de drain] à Boissy-le-Châtel - Le drain (parcelle 620m²) à Boissy-le-Châtel
+F655000101,Le Grand Morin à Pommeuse
+F655000102,Le Grand Morin à Pommeuse - Rive droite provisoire
+F657000201,L'Aubetin à Pommeuse - Le Poncet
+F658000202,Le Grand Morin [un seul bras] à Couilly-Pont-aux-Dames - Station débitmétrique
+F658000401,Le Grand Morin à Condé-Sainte-Libiaire
+F662000101,La Marne à Chalifert
+H402203001,L'Essonne à Boulancourt
+F712000102,La Seine à Chatou - Barrage (aval)
+H300000201,La Seine à Poissy
+H303000201,La Guyonne à Mareil-le-Guyon
+H303000401,Le ruisseau du Lieutel à Neauphle-le-Vieux
+H305000101,La Mauldre à Beynes - Mairie
+H305000301,Le ru de Gally à Thiverval-Grignon - Les Quatre Pignons
+H305000401,La Mauldre à Aulnay-sur-Mauldre - Centre ville
+H308000101,La Seine à Limay [Mantes]
+H308000201,La Seine à Méricourt
+H308000203,La Seine à Méricourt - Barrage (amont) [VNF]
+H308000204,La Seine à Méricourt - Barrage (aval) [VNF]
+L810211001,Le Thouet au Tallud [La Pèchellerie]
+L812211004,Le Thouet à Parthenay - passerelle Godineau
+L812212001,Le Thouet à Saint-Loup-Lamairé [Pont de Saint-Loup]
+L812212004,Le Thouet à Saint-Loup-Lamairé [Pont de Saint-Loup] - Boussin
+L813402001,Le Cébron à Saint-Loup-Lamairé [Puy Terrier]
+L814211001,Le Thouet à Saint-Généroux [Pont de Saint-Généroux]
+L821301001,Le Thouaret à Luzay [La Planche]
+L822211001,Le Thouet à Missé [Missé]
+L834301001,L'Argenton à Massais [Moulin Bernard]
+M700561010,L'Ouine au Breuil-Bernard [Les Alleuds]
+M704401010,L'Ouin à Mauléon [La Voie Moulins]
+N400061601,à Sainte-Eanne - La Villedieu de Comblé
+N401061001,La Sèvre niortaise à Azay-le-Brûlé - Pont de Ricou
+N401061002,La Sèvre niortaise à Saint-Maixent-l'École
+N410403001,Le Chambon à Azay-le-Brûlé - Pont de Bedane
+N412001001,L'Egray à Sainte-Ouenne
+N420001001,Le Lambon à Mougon
+N430062002,La Sèvre niortaise à Niort [La Tiffardière - Pont]
+N430062101,La Sèvre niortaise à Niort [La Tiffardière - Bief capteur]
+N430062201,La Sèvre niortaise à Niort [La Tiffardière - Bras principal]
+N430062401,La Sèvre niortaise à Niort [Centre ville]
+N430521201,La Sèvre niortaise à Saint-Maxire
+N600302002,Le Mignon à Mauzé-sur-le-Mignon
+N601401401,La Courance à Granzay-Gript
+R608001002,La Boutonne au Vert [Pont du Vert]
+E550572001,L'Authie à Dompierre-sur-Authie
+E550572601,L'Authie à Occoches
+E550572701,L'Authie à Villers-sur-Authie
+E633095001,La Somme canalisée à Éclusier-Vaux
+E635140201,La Somme à Bray-sur-Somme
+E635142002,La Somme à Ham - Estouilly
+E635142601,La Somme à Biaches - Aval
+E635142602,La Somme à Biaches - Amont siphon de Halles
+E638607001,L'Ancre à Bonnay
+E639701001,L'Hallue à Bavelincourt
+E639703002,L'Hallue à Querrieu
+E640091001,La Somme canalisée à Lamotte-Brebière
+E640600201,L'Avre à Longueau - fermé
+E640600202,L'Avre à Longueau - débit
+E640601001,L'Avre à Moreuil
+E640603501,L'Avre à Saint-Mard
+E640754001,La Noye à Dommartin
+E642601001,La Selle à Plachy-Buyon
+E645651601,La Nièvre à Flixecourt - Pont SNCF
+E645651701,L'Airaines à Longpré-les-Corps-Saints
+E647091002,La Somme canalisée à Abbeville - Station ultrason - Fermée
+E647091003,La Somme canalisée à Abbeville - Pont ferroviaire
+E648093001,La Somme canalisée à Boismont
+E648093401,Le Scardon à Abbeville
+E649563001,Le Canal d'Abbeville [Contre fossé rive gauche] à Boismont
+E649831501,La Maye à Arry
+O384000201,Le Tarn à Ambialet - (Pécotte - DREAL)
+O384000202,Le Tarn à Ambialet - Le Tarn à Marsal [Pécotte - EDF]
+O400101001,Le Tarn à Albi
+O405000101,L'Agout à Anglès [La Raviège]
+O408101001,Le Tarn à Rabastens [Saint-Sulpice]
+O415251001,L'Agout à Brassac
+O419433002,Le Gijou à Vabre - HE
+O419433004,Le Gijou à Vabre - HG
+O422251002,L'Agout à Castres - Tutelle
+O422251003,L'Agout à Castres - HE
+O431401001,Le Thoré à Sauveterre [La Bourgade]
+O434000101,L'Arn à Anglès [EDF -Les Taillades]
+O435000101,L'Arn au Vintrou [EDF - Saints-Peyres]
+O438401001,Le Thoré à Aussillon [Pont de Rigautou]
+O454402001,Le Sor à Cambounet-sur-le-Sor
+O455000201,Le ruisseau du Bernazobre à Soual
+O460251001,L'Agout à Vielmur-sur-Agout
+O462000101,Le ruisseau de Bagas à Cuq [La Mouline]
+O464000201,Le ruisseau d'en Guibaud à Guitalens-L'Albarède [Camp-Redon] - Camp-Redon
+O469251003,L'Agout à Lavaur - Pont de Lavaur
+O470403001,Le Dadou à Rayssac [Saint-Jean-de-Jeanne]
+O476000201,L'Assou à Laboutarie [Escribe] - Escribe
+O477401001,Le Dadou à Montdragon
+O477402001,Le Dadou à Graulhet
+O478000201,Le ruisseau d'Agros à Graulhet - La Mozelle
+O480252002,L'Agout à Saint-Lieux-lès-Lavaur [Le Port]
+O557291001,Le Viaur à Saint-Martin-Laguépie [2]
+O566401001,Le Cérou à Milhars
+O262002001,La Garonne à Verdun-sur-Garonne - HE
+O262002002,La Garonne à Verdun-sur-Garonne - HG
+O284000101,Le bras de la Gimone à Maubec [Moulin de Maubec]
+O286331001,La Gimone à Beaumont-de-Lomagne
+O288000101,La Gimone à Cordes-Tolosannes [Castelferrus]
+O290002001,La Garonne à Saint-Aignan [Tres Casses]
+O494101001,Le Tarn à Montauban
+O498432001,Le Tescou à Saint-Nauphary
+O499103001,Le Tarn à Villemade
+O529251001,L'Aveyron à Laguépie [1]
+O560252001,L'Aveyron à Varen
+O567000101,La Seye à Varen - Seye
+O568501002,La Bonnette à Saint-Antonin-Noble-Val
+O568501101,Le ruisseau de la Gourgue à Saint-Antonin-Noble-Val - Gourgue
+O575402001,La Vère à Bruniquel [La Gauterie]
+O576251001,L'Aveyron à Bruniquel [Montricoux]
+O582000101,Le Cande à Puylaroque - Cande
+O585401001,La Lère à Réalville
+O588251001,L'Aveyron à Montauban [Loubéjac]
+O590101002,Le Tarn à Lizac - Sainte-Livrade
+O596402001,Le Lemboulas à Lafrançaise [Lunel]
+O598101001,Le Tarn à Moissac [aval]
+O613401001,La Barguelonne à Castelsagrat [Fourquet]
+O614001001,La Garonne à Lamagistère
+X230501001,Le Jabron à Comps-sur-Artuby [Pont de l'Evescat]
+X241403001,L'Artuby à la Bastide [Taulane]
+X281121001,Le Verdon à Vinon-sur-Verdon [Le Hameau]
+X281121101,Le Verdon à Vinon-sur-Verdon [Vinon-Gréoux - EDF]
+Y441401501,L'Huveaune à Saint-Zacharie [Le Moulin blanc]
+Y451542001,La Reppe à Ollioules [Le Grand Plan]
+Y452000102,Le Las [Le Las] au Revest-les-Eaux - Mesure du débit réservé - Barrage de Dardennes
+Y460402001,Le Gapeau à Solliès-Pont
+Y460402201,Le Gapeau à Signes - Cancérilles
+Y460402301,Le Gapeau à la Crau - RD 554B
+Y461112001,Le Vallon de Rouves Gavot à Collobrières
+Y461502001,Le Réal Martin à la Crau [Decapris]
+Y461502701,Le Réal Collobrier à Pierrefeu-du-Var [Pont de Fer]
+Y461502702,Le Réal Collobrier à Pierrefeu-du-Var [Pont de Fer] - Station amont pont
+Y461502801,Le Réal Collobrier à Collobrières
+Y461502901,Le Réal Martin à Pierrefeu-du-Var - Portanière
+Y462401001,Le Gapeau à Hyères [Sainte-Eulalie]
+Y500202001,L'Argens [source] à Seillons-Source-d'Argens
+Y500521201,Le Cauron à Bras - Amont du Pont des Allées
+Y503201001,L'Argens à Châteauvert
+Y510501001,Le Caramy à Vins-sur-Caramy [Les Marcounious]
+Y510504001,Le Caramy [source] à Mazaugues
+Y510661001,L'Issole à Cabasse [Pont des Fées]
+Y510661601,Le Caramy [Caramy aval Barrage] à Carcès - Station Chapelle
+Y511201001,L'Argens à Carcès [aval]
+Y511502002,La Bresque à Salernes [Les Vingalières]
+Y520201001,L'Argens aux Arcs - RN 7
+Y521502002,L'Aille à Vidauban [Le Baou] - Aval (Pont Rouge)
+Y523501001,La Nartuby à Trans-en-Provence [CD 555] - Décathlon
+Y523501002,La Nartuby à Trans-en-Provence [CD 555] - Pont des Écoles
+Y523581101,La Nartuby à Draguignan - La Clape
+Y530501501,L'Endre au Muy
+Y531201001,L'Argens à Roquebrune-sur-Argens
+Y532501001,Le Reyran à Fréjus [Sainte-Brigitte]
+Y532501002,Le Reyran à Fréjus [Sainte-Brigitte] - Aval
+Y541000101,Le Bourrian [lit mineur Bourrian] à Gassin [CTM Gassin]
+Y542401001,La Giscle à Cogolin
+Y542401201,Le ruisseau de Grenouille à Cogolin
+Y543501001,La Môle au Lavandou [Destel]
+Y543621201,La Môle à la Môle - RD27 - Pont de l'Aéroport
+Y544401001,La Giscle à Cogolin [Les Ajusts]
+Y544501101,La Giscle [Pont de bois RD 14] à Grimaud [Pont de bois]
+Y544501201,La Garde à Grimaud - Pont de Calade
+Y545000201,Le Préconil au Plan-de-la-Tour [RD 44]
+Y545000301,Le Préconil à Sainte-Maxime [ZA Camp ferrat] - STACO
+Y545000401,Le Préconil à Sainte-Maxime [Virgiles] - Pont Virgiles
+Y545000501,Vallon de Bouillonnet à Sainte-Maxime [Bouillonnet] - Pont chemin du Bouillonnet
+Y545000601,La Garonnette à Roquebrune-sur-Argens
+Y545000701,Vallon du Couloubrier à Sainte-Maxime
+Y550541001,L'Agay [Le Grenouiller] à Saint-Raphaël
+Y551404001,La Siagne à Callian [Ajustadoux]
+Y551541001,La Siagnole à Mons [Le Moulin]
+Y551601001,La Siagne [source] à Montauroux - Source des Tuves
+V521402501,La Coronne à Valréas
+V521402701,L'Aulière à Richerenches
+V523401001,Le Lez à Bollène
+V523401002,Le Lez à Bollène - Bollene SMBVL
+V535401002,L'Aigue à Orange - Pont de Camaret
+V603501001,Le Toulourenc à Malaucène [Veaux]
+V604201001,L'Ouvèze à Entrechaux [Pont Saint Michel]
+V605101001,L'Ouvèze à Roaix
+V605201001,L'Ouvèze à Vaison-la-Romaine
+V605201201,L'Ouvèze à Violès - SMOP
+V611000401,Le vallon des Paillasses à Saint-Pierre-de-Vassols - SOMV
+V611000501,Le ruisseau de Salette à Beaumes-de-Venise - SOMV
+V611000601,Le Brégoux à Caromb - SOMV
+V612501001,L'Auzon à Mormoiron
+V612501301,L'Auzon à Carpentras - SOMV
+V615502001,La Sorgue de Velleron [Résurgence] à Fontaine-de-Vaucluse - Moulin
+V615502002,La Sorgue de Velleron [Résurgence] à Fontaine-de-Vaucluse - Sorgomètre
+V615562101,La Sorgue de Velleron à Bédarrides
+V620201001,L'Ouvèze à Bédarrides [Village]
+V620201101,La Seille à Courthézon - SMOP
+V621501001,Le Rhône à Avignon [Pont Daladier]
+X331001001,La Durance à Cavaillon
+X343401201,Le Coulon à Saint-Martin-de-Castillon [La Bègude] - Pont de la Bégude au Boisset
+X345401001,Le Coulon à Apt
+X348402001,Le Coulon à Oppède [La Garrigue]
+X350001001,La Durance à Caumont-sur-Durance [Bonpas] - Barrage
+X350001002,La Durance à Caumont-sur-Durance [Bonpas] - Pont de Bonpas
+M702241010,La Sèvre Nantaise à Saint-Mesmin [La Branle]
+M703243010,La Sèvre Nantaise à Saint-Laurent-sur-Sèvre
+M711241010,La Sèvre Nantaise à Tiffauges - Ancienne Station
+M711241020,La Sèvre Nantaise à Tiffauges
+M741301010,La Maine à Saint-Fulgent [Plessis des Landes]
+M743311010,La Petite Maine à Saint-Georges-de-Montaigu [Fromage]
+M811261020,La Boulogne à Saint-Philbert-de-Bouaine - Le Petit Roquet
+M812401010,L'Issoire à Saint-Philbert-de-Bouaine [La Tribouille]
+N011301010,Le Falleron à Falleron
+N020421010,Le Pont Abert à la Coudrie à Challans
+N100151010,La Vie à la Chapelle-Palluau
+N101401010,La Petite Boulogne à la Chapelle-Palluau [La Birochère]
+N120302010,Le Jaunay à la Chapelle-Hermier [Reveillère]
+N202401010,La Ciboule à la Chapelle-Achard [La Renelière]
+N300161010,Le Lay [Grand] à Saint-Prouant [Monsireigne]
+N302401010,Le Loing à Chantonnay [St-Philbert du Pont Charrault]
+N311301010,Le Petit Lay à Saint-Hilaire-le-Vouhis
+N322201010,La Smagne à Sainte-Pexine [Les Mottes]
+N330161010,Le Lay à Mareuil-sur-Lay-Dissais
+N330412010,Le Marillet à Saint-Florent-des-Bois [La Clopinière]
+N330413010,Le Marillet à Mareuil-sur-Lay-Dissais [Moulin Fleury]
+N340301010,L'Yon à Dompierre-sur-Yon
+N342301021,L'Yon à Chaillé-sous-les-Ormeaux - Rassouillet
+N352000101,Le Lay [Estuaire] à l'Aiguillon-sur-Mer - Le Lay à l'Aiguillon-sur-Mer
+N510171001,L'Autise à Saint-Hilaire-des-Loges
+N602000101,La Sèvre niortaise à Maillé [Bazoin]
+N710181010,La Vendée à Foussais-Payré [Pont d'Izard]
+N711401010,La Mère à Antigny [Moulin-Texier]
+N712181010,La Vendée à Pissotte [Pont de Crochet]
+N712181201,[la Longèves] à Fontenay-le-Comte - pont du Gué Migné
+L131000101,La Blourde [La Grande Blourde] à Persac [Persac] - [Pont de Kiel]
+L140061001,La Vienne à Lussac-les-Châteaux - Pont de Mazerolles
+L144061001,La Vienne à Chauvigny
+L210301001,La Dive [du Sud] à Voulon [Neuil]
+L220161002,Le Clain à Voulon [Petit Allier]
+L225301001,La Vonne à Cloué [Pont de Cloué]
+L231301001,La Clouère à Château-Larcher [Le Rozeau]
+L231301401,La Clouère à Marnay
+L232161001,Le Clain à Vivonne [Danlot]
+L233401001,Le Miosson à Smarves [La Bertandinière]
+L234161002,Le Clain à Poitiers - Pont-Neuf
+L240403001,La Boivre à Vouneuil-sous-Biard [La Ribalière]
+L240404001,La Boivre à Poitiers [Gare SNCF poste 4]
+L242401002,La Vendelogne à Ayron [Pont d'Ayron]
+L244301001,L'Auxance à Quinçay [Rochecourbe]
+L250161001,Le Clain à Dissay
+L252301001,La Palu à Vendeuvre-du-Poitou [Chincé]
+L303301001,L'Ozon à Châtellerault [Moulin des Halles]
+L312301001,L'Envigne à Thuré [Pont de Besse]
+L320061001,La Vienne à Châtellerault
+L320062001,La Vienne à Ingrandes
+L540181001,La Gartempe à Lathus-Saint-Rémy [Pont de Massugeon]
+L541181001,La Gartempe à Montmorillon
+L541182301,La Gartempe à Saint-Savin
+L565000201,L'Asse à Brigueil-le-Chantre
+L567000301,La Benaize à la Trimouille
+L573301001,Le Salleron à Journet [Tervannes]
+L574192002,L'Anglin à Angles-sur-l'Anglin - Pont d'Angles
+L580181001,La Gartempe à Vicq-sur-Gartempe - Vicq Bourg
+L600071001,La Creuse à la Roche-Posay
+L602071001,La Creuse à Leugny
+L852301001,Le canal de la Dive à Pouançay [La Motte Bourbon]
+R011001001,La Charente à Saint-Saviol - Pont Bridé
+R011002001,La Charente à Charroux [Pont de Rochemeaux]
+L005063001,La Vienne à Eymoutiers
+L009302001,La Combade à Roziers-Saint-Georges
+L012303001,La Maulde à Peyrat-le-Château
+L014061001,La Vienne à Saint-Priest-Taurion
+L032151001,Le Taurion à Saint-Priest-Taurion [Le Chauvan]
+L040061001,La Vienne au Palais-sur-Vienne
+L040061002,La Vienne à Limoges - Pont-Neuf
+L056301001,La Briance à Condat-sur-Vienne [Chambon Veyrinas]
+L061402001,L'Aurence à Isle
+L062061001,La Vienne à Aixe-sur-Vienne
+L081301001,La Glane à Saint-Junien [Le Dérot]
+L091402001,La Gorre à Chaillac-sur-Vienne
+L503401001,L'Ardour à Folles [Forgefer]
+L510181001,La Gartempe à Folles [Pont Gibus]
+L511401101,La Couze à Saint-Pardoux
+L513401001,La Semme à Droux
+L522302001,Le Vincou à Bellac [2]
+L530181001,La Gartempe à Saint-Bonnet-de-Bellac
+L532301001,La Brame à Oradour-Saint-Genest
+L562301001,La Benaize à Jouac
+P600151001,L'Isle à Saint-Yrieix-la-Perche
+R103001001,La Tardoire à Maisonnais-sur-Tardoire
+A402061001,La Moselle à Fresse-sur-Moselle
+A405062001,La Moselle à Rupt-sur-Moselle
+A414020201,La Moselotte à Vagney [Zainvillers]
+A417301001,La Cleurie à Cleurie
+A420063001,La Moselle à Saint-Nabord - Noirgueux
+A420063002,La Moselle à Remiremont
+A433301001,Le Neune à Laveline-devant-Bruyères
+A436203001,La Vologne à Cheniménil
+A443064001,La Moselle à Épinal
+A455000201,La Moselle à Châtel-sur-Moselle
+A463201001,L'Avière à Frizon
+A523011001,Le Madon à Begnécourt [Moulin d'Heucheloup]
+A524201001,La Gitte à Velotte-et-Tatignécourt
+A526102001,Le Madon à Mirecourt - Crues
+A600101001,La Meurthe à Fraize
+A605102001,La Meurthe à Saint-Dié-des-Vosges
+A615103001,La Meurthe à Raon-l'Étape
+A623201001,La Plaine à Raon-l'Étape [La Trouche]
+A662121201,La Mortagne à Autrey - Gare
+A664031001,L'Arentèle à Sainte-Hélène - Pont Rouge
+A664031003,L'Arentèle à Saint-Gorgon - Aval
+A670121001,La Mortagne à Roville-aux-Chênes
+B109201001,Le Mouzon à Circourt-sur-Mouzon [Villars]
+B110000001,La Meuse à Neufchâteau
+B115001001,La Meuse à Domrémy-la-Pucelle
+B122201001,Le Vair à Belmont-sur-Vair
+B128201001,Le Vair à Soulosse-sous-Saint-Élophe
+B130001001,La Meuse à Maxey-sur-Meuse
+U002001001,La Saône à Monthureux-sur-Saône
+U010401001,Le Coney à Xertigny [Forges d'Uzemain]
+U012401001,Le Coney à Fontenoy-le-Château
+U045501001,La Combeauté au Val-d'Ajol
+F351000104,L'Yonne à Joigny - Station débitmétrique
+F351000105,L'Yonne à Joigny - Pont
+F352000101,Le Tholon à Senan
+F357000101,La Vanne à Pont-sur-Vanne
+F358000101,L'Yonne à Sens
+F358000402,L'Yonne à Pont-sur-Yonne - Station débitmétrique
+F359000103,[Yonne] à Courlon-sur-Yonne
+F410000101,Le Loing à Saint-Martin-des-Champs - Le Moulin de la Prairie
+F413000101,L'Ouanne à Toucy
+F415000101,L'Ouanne à Charny
+H208102001,L'Yonne à Prégilbert
+H214203002,La Cure à Foissy-lès-Vézelay
+H216301001,La Romanée à Bussières
+H217232001,Le Cousin à Avallon
+H218201001,La Cure à Arcy-sur-Cure
+H220101001,L'Yonne à Auxerre
+H222101001,L'Yonne à Gurgy
+H233202001,Le Serein à Dissangis
+H234202002,Le Serein à Chablis - Pont de la déviation
+H234203001,Le Serein à Beaumont
+H234204001,Le Serein à Chablis [Crue]
+H245202001,L'Armançon à Aisy-sur-Armançon - aval
+H246202001,L'Armançon à Tronchoy
+H246371001,[La fosse Dionne] à Tonnerre
+H248201001,L'Armançon à Brienon-sur-Armançon
+H248201002,L'Armançon à Brienon-sur-Armançon - Brienon-sur-Armançon [aval]
+U230521002,La Bourbeuse [Le Saint-Nicolas] à Rougemont-le-Château
+U230524001,La Bourbeuse [Le Saint-Nicolas] à Foussemagne
+U232421001,La Bourbeuse à Froidefontaine
+U233402001,L'Allan à Joncherey
+U234502001,La Savoureuse à Giromagny
+U234503001,La Savoureuse à Belfort
+U234542001,Le Rhôme à Lachapelle-sous-Chaux
+U234583001,La Rosemontoise à Rougegoutte
+F448000601,L'Ecole à Dannemois
+F449000501,La Seine au Coudray-Montceaux - Barrage (amont) [VNF]
+F449000502,La Seine au Coudray-Montceaux - Barrage (aval) [VNF]
+F449000503,La Seine au Coudray-Montceaux - Dernier bassin Passe à Poisson
+F449000601,La Seine à Corbeil-Essonnes
+F453000101,L'Essonne à Guigneville-sur-Essonne - La Mothe
+F456042001,La Juine à Saclas
+F459000102,L'Essonne à Ballancourt-sur-Essonne - Station débitmétrique
+F460000301,La Seine à Évry - Barrage (amont) [VNF]
+F460000302,La Seine à Évry - Barrage (aval) [VNF]
+F461000102,L'Orge à Saint-Chéron - Saint-Évroult
+F461000401,L'Orge à Roinville - SYORP
+F461000501,La Renarde à Breux-Jouy - SYORP
+F462000101,La Rémarde à Saint-Cyr-sous-Dourdan
+F462000401,Le ruisseau de Predecelle à Saint-Maurice-Montcouronne - Le Marais - SYORP
+F463000101,La Rémarde à Breuillet - La Boissière - SYORP
+F464000102,L'Orge à Saint-Germain-lès-Arpajon - SYORP
+F464000203,L'Orge à Épinay-sur-Orge - SYORP
+F466000101,L'Yvette à Villebon-sur-Yvette
+F467000101,L'Orge à Morsang-sur-Orge
+F467000103,L'Orge à Morsang-sur-Orge - Pont
+F483000202,L'Yerres à Boussy-Saint-Antoine - Station débitmétrique
+F704000101,La Seine à Suresnes - Barrage (amont)
+F704000102,La Seine à Suresnes - Barrage (aval) [VNF]
+F704000103,La Seine à Suresnes - Suresnes Amont [VNF]
+F664000104,La Marne à Gournay-sur-Marne - Pont
+F468000101,La Seine à Ablon-sur-Seine - Barrage (amont) [VNF]
+F468000102,La Seine à Ablon-sur-Seine - Barrage (aval) [VNF]
+F490000104,La Seine à Alfortville - Station débitmétrique [>1997]
+F490000105,La Seine à Alfortville - Barrage de Port à l'Anglais (amont) [VNF]
+F490000106,La Seine à Alfortville - Barrage de Port à l'Anglais (aval) [VNF]
+F664000301,La Marne à Joinville-le-Pont - Barrage (amont) [VNF]
+F664000401,La Marne à Créteil - Barrage (amont) [VNF]
+F664000402,La Marne à Créteil - Barrage (aval) [VNF]
+F664000404,La Marne à Créteil - Passerelle - Station débitmétrique
+F664000601,La Marne à Saint-Maurice - Barrage (amont) [VNF]
+F664000602,La Marne à Saint-Maurice - Barrage (aval) [VNF]
+F664000603,La Marne à Saint-Maurice - Dernier bassin Passe à Poisson
+H224000501,L'Ysieux à Luzarches - Bertinval
+H225000301,L'Oise à Persan
+H226000101,L'Oise à l'Isle-Adam - Barrage (amont)
+H226000102,L'Oise à l'Isle-Adam - Barrage (aval) [VNF]
+H226000103,L'Oise à l'Isle-Adam - Isle-Adam Amont [VNF]
+H226000201,Le Sausseron à Nesles-la-Vallée
+H227000102,L'Oise à Pontoise - Barrage (aval)
+H227000301,Le ru de Liesse à Saint-Ouen-l'Aumône - Débit de liesse
+H228000301,La Viosne à Pontoise - Bassin des Patis
+H228000402,La Viosne à Ableiges
+H317061010,L'Aubette à Ambleville
