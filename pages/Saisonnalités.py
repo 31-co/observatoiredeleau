@@ -100,7 +100,7 @@ with col1:
         if station_code not in available_columns:
             st.warning(f"Pas de données pour la station : {station_season}")
         else:
-            hydro_path = os.path.join("data", "hydro3.csv")
+            hydro_path = os.path.join("data", "hydro3_correze.csv")
             df = pd.read_csv(hydro_path, usecols=["date_obs_elab", station_code])
             df["date_obs_elab"] = pd.to_datetime(df["date_obs_elab"], errors="coerce")
             df.rename(columns={station_code: "Débit (m³/s)"}, inplace=True)
